@@ -1,0 +1,2313 @@
+﻿code_ins_patient;code_postal_patient;commune_patient;numéro_agrément_hôpital;commune_hôpital;nom_hôpital;part_de_marché;total_par_commune_patient
+11001;2630;Aartselaar;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.172459304883414;2273
+11001;2630;Aartselaar;99;Anvers;AZ Sint-Augustinus;0.1689397272327321;2273
+11001;2630;Aartselaar;300;Edegem;UZ Antwerpen;0.1355037395512539;2273
+11001;2630;Aartselaar;314;Rumst;AZ Heilige Familie;0.3576770787505499;2273
+11001;2630;Aartselaar;682;Anvers;AZ Monica;0.05059392872855258;2273
+11002;2000;Anvers;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.4076826710583731;71043
+11002;2000;Anvers;99;Anvers;AZ Sint-Augustinus;0.1527525583097561;71043
+11002;2000;Anvers;100;Anvers;Sint-Vincentiusziekenhuis;0.1047816111369171;71043
+11002;2000;Anvers;300;Edegem;UZ Antwerpen;0.0551356220880312;71043
+11002;2000;Anvers;682;Anvers;AZ Monica;0.1751755978773419;71043
+11004;2530;Boechout;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.0927710843373494;1660
+11004;2530;Boechout;26;Malines;AZ Sint-Maarten;0.05843373493975904;1660
+11004;2530;Boechout;97;Lierre;H.-Hartziekenhuis Lier;0.2090361445783133;1660
+11004;2530;Boechout;99;Anvers;AZ Sint-Augustinus;0.1909638554216868;1660
+11004;2530;Boechout;100;Anvers;Sint-Vincentiusziekenhuis;0.2168674698795181;1660
+11004;2530;Boechout;300;Edegem;UZ Antwerpen;0.06566265060240964;1660
+11004;2530;Boechout;682;Anvers;AZ Monica;0.07409638554216867;1660
+11005;2850;Boom;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.09040590405904059;3252
+11005;2850;Boom;99;Anvers;AZ Sint-Augustinus;0.06795817958179581;3252
+11005;2850;Boom;300;Edegem;UZ Antwerpen;0.08179581795817958;3252
+11005;2850;Boom;314;Rumst;AZ Heilige Familie;0.6122386223862238;3252
+11007;2150;Borsbeek;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.2342182890855457;1695
+11007;2150;Borsbeek;99;Anvers;AZ Sint-Augustinus;0.11976401179941;1695
+11007;2150;Borsbeek;100;Anvers;Sint-Vincentiusziekenhuis;0.1339233038348083;1695
+11007;2150;Borsbeek;682;Anvers;AZ Monica;0.4088495575221239;1695
+11008;2930;Brasschaat;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1656072264971562;5978
+11008;2930;Brasschaat;99;Anvers;AZ Sint-Augustinus;0.06155904984944797;5978
+11008;2930;Brasschaat;682;Anvers;AZ Monica;0.08430913348946135;5978
+11008;2930;Brasschaat;710;Brasschaat;AZ Klina;0.5630645700903312;5978
+11009;2960;Brecht;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.161076887976272;4383
+11009;2960;Brecht;99;Anvers;AZ Sint-Augustinus;0.05772302076203514;4383
+11009;2960;Brecht;536;Malle;AZ Sint-Jozef Malle;0.3956194387405886;4383
+11009;2960;Brecht;682;Anvers;AZ Monica;0.07916951859456993;4383
+11009;2960;Brecht;710;Brasschaat;AZ Klina;0.1658681268537531;4383
+11013;2650;Edegem;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1588702559576346;3399
+11013;2650;Edegem;99;Anvers;AZ Sint-Augustinus;0.382171226831421;3399
+11013;2650;Edegem;100;Anvers;Sint-Vincentiusziekenhuis;0.1759340982641953;3399
+11013;2650;Edegem;300;Edegem;UZ Antwerpen;0.1294498381877023;3399
+11013;2650;Edegem;682;Anvers;AZ Monica;0.0656075316269491;3399
+11016;2910;Essen;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1267437225986449;2509
+11016;2910;Essen;99;Anvers;AZ Sint-Augustinus;0.07612594659226783;2509
+11016;2910;Essen;536;Malle;AZ Sint-Jozef Malle;0.05619768832204065;2509
+11016;2910;Essen;710;Brasschaat;AZ Klina;0.6042247907532882;2509
+11018;2620;Hemiksem;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1760423560555923;1511
+11018;2620;Hemiksem;99;Anvers;AZ Sint-Augustinus;0.1350099272005295;1511
+11018;2620;Hemiksem;300;Edegem;UZ Antwerpen;0.1078755790866976;1511
+11018;2620;Hemiksem;314;Rumst;AZ Heilige Familie;0.4222369291859696;1511
+11018;2620;Hemiksem;682;Anvers;AZ Monica;0.05228325612177366;1511
+11021;2540;Hove;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1032056293979672;1279
+11021;2540;Hove;99;Anvers;AZ Sint-Augustinus;0.2814698983580923;1279
+11021;2540;Hove;100;Anvers;Sint-Vincentiusziekenhuis;0.3174354964816263;1279
+11021;2540;Hove;300;Edegem;UZ Antwerpen;0.08522283033620015;1279
+11021;2540;Hove;682;Anvers;AZ Monica;0.06958561376075059;1279
+11022;2920;Kalmthout;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1632401315789474;2432
+11022;2920;Kalmthout;99;Anvers;AZ Sint-Augustinus;0.09703947368421052;2432
+11022;2920;Kalmthout;536;Malle;AZ Sint-Jozef Malle;0.06291118421052631;2432
+11022;2920;Kalmthout;682;Anvers;AZ Monica;0.06825657894736842;2432
+11022;2920;Kalmthout;710;Brasschaat;AZ Klina;0.5028782894736842;2432
+11023;2950;Kapellen (Anvers);9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1743455497382199;3820
+11023;2950;Kapellen (Anvers);99;Anvers;AZ Sint-Augustinus;0.08376963350785341;3820
+11023;2950;Kapellen (Anvers);300;Edegem;UZ Antwerpen;0.05261780104712042;3820
+11023;2950;Kapellen (Anvers);682;Anvers;AZ Monica;0.09293193717277487;3820
+11023;2950;Kapellen (Anvers);710;Brasschaat;AZ Klina;0.5157068062827225;3820
+11024;2550;Kontich;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1058707124010554;3032
+11024;2550;Kontich;26;Malines;AZ Sint-Maarten;0.1286279683377309;3032
+11024;2550;Kontich;99;Anvers;AZ Sint-Augustinus;0.1912928759894459;3032
+11024;2550;Kontich;100;Anvers;Sint-Vincentiusziekenhuis;0.1932717678100264;3032
+11024;2550;Kontich;300;Edegem;UZ Antwerpen;0.1329155672823219;3032
+11024;2550;Kontich;314;Rumst;AZ Heilige Familie;0.07849604221635884;3032
+11024;2550;Kontich;682;Anvers;AZ Monica;0.07222955145118734;3032
+11025;2547;Lint;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.08183306055646482;1222
+11025;2547;Lint;26;Malines;AZ Sint-Maarten;0.3477905073649755;1222
+11025;2547;Lint;97;Lierre;H.-Hartziekenhuis Lier;0.1031096563011457;1222
+11025;2547;Lint;99;Anvers;AZ Sint-Augustinus;0.1407528641571195;1222
+11025;2547;Lint;100;Anvers;Sint-Vincentiusziekenhuis;0.102291325695581;1222
+11025;2547;Lint;300;Edegem;UZ Antwerpen;0.09410801963993454;1222
+11029;2640;Mortsel;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1640739653654241;3407
+11029;2640;Mortsel;99;Anvers;AZ Sint-Augustinus;0.2166128558849428;3407
+11029;2640;Mortsel;100;Anvers;Sint-Vincentiusziekenhuis;0.3410625183445847;3407
+11029;2640;Mortsel;300;Edegem;UZ Antwerpen;0.07425887877898445;3407
+11029;2640;Mortsel;682;Anvers;AZ Monica;0.1056648077487526;3407
+11030;2845;Niel;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.09486404833836858;1655
+11030;2845;Niel;99;Anvers;AZ Sint-Augustinus;0.0688821752265861;1655
+11030;2845;Niel;300;Edegem;UZ Antwerpen;0.09063444108761329;1655
+11030;2845;Niel;314;Rumst;AZ Heilige Familie;0.6145015105740181;1655
+11035;2520;Ranst;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.09619450317124736;2838
+11035;2520;Ranst;26;Malines;AZ Sint-Maarten;0.07434813248766738;2838
+11035;2520;Ranst;97;Lierre;H.-Hartziekenhuis Lier;0.299154334038055;2838
+11035;2520;Ranst;99;Anvers;AZ Sint-Augustinus;0.07399577167019028;2838
+11035;2520;Ranst;300;Edegem;UZ Antwerpen;0.05214940098661029;2838
+11035;2520;Ranst;536;Malle;AZ Sint-Jozef Malle;0.1000704721634954;2838
+11035;2520;Ranst;682;Anvers;AZ Monica;0.1948555320648344;2838
+11037;2840;Rumst;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.06381352693924341;2617
+11037;2840;Rumst;26;Malines;AZ Sint-Maarten;0.1543752388230799;2617
+11037;2840;Rumst;99;Anvers;AZ Sint-Augustinus;0.123041650745128;2617
+11037;2840;Rumst;300;Edegem;UZ Antwerpen;0.06381352693924341;2617
+11037;2840;Rumst;314;Rumst;AZ Heilige Familie;0.4661826518914788;2617
+11038;2627;Schelle;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1198060941828255;1444
+11038;2627;Schelle;99;Anvers;AZ Sint-Augustinus;0.1246537396121884;1444
+11038;2627;Schelle;300;Edegem;UZ Antwerpen;0.09626038781163435;1444
+11038;2627;Schelle;314;Rumst;AZ Heilige Familie;0.5491689750692521;1444
+11039;2970;Schilde;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1508593252705283;3142
+11039;2970;Schilde;99;Anvers;AZ Sint-Augustinus;0.1327180140038192;3142
+11039;2970;Schilde;300;Edegem;UZ Antwerpen;0.07033736473583704;3142
+11039;2970;Schilde;536;Malle;AZ Sint-Jozef Malle;0.2947167409293444;3142
+11039;2970;Schilde;682;Anvers;AZ Monica;0.1810948440483768;3142
+11039;2970;Schilde;710;Brasschaat;AZ Klina;0.06429026098026734;3142
+11040;2900;Schoten;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.4540379605508001;5374
+11040;2900;Schoten;99;Anvers;AZ Sint-Augustinus;0.06363974692966133;5374
+11040;2900;Schoten;682;Anvers;AZ Monica;0.1684034238928173;5374
+11040;2900;Schoten;710;Brasschaat;AZ Klina;0.1898027540007443;5374
+11044;2940;Stabroek;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.2365038560411311;2723
+11044;2940;Stabroek;99;Anvers;AZ Sint-Augustinus;0.05692251193536541;2723
+11044;2940;Stabroek;300;Edegem;UZ Antwerpen;0.06206390011017261;2723
+11044;2940;Stabroek;682;Anvers;AZ Monica;0.1149467499081895;2723
+11044;2940;Stabroek;710;Brasschaat;AZ Klina;0.4741094381197209;2723
+11050;2110;Wijnegem;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1579352850539291;1298
+11050;2110;Wijnegem;99;Anvers;AZ Sint-Augustinus;0.09167950693374423;1298
+11050;2110;Wijnegem;300;Edegem;UZ Antwerpen;0.0839753466872111;1298
+11050;2110;Wijnegem;536;Malle;AZ Sint-Jozef Malle;0.137904468412943;1298
+11050;2110;Wijnegem;682;Anvers;AZ Monica;0.4368258859784284;1298
+11052;2160;Wommelgem;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1797352342158859;1964
+11052;2160;Wommelgem;99;Anvers;AZ Sint-Augustinus;0.1221995926680244;1964
+11052;2160;Wommelgem;682;Anvers;AZ Monica;0.4704684317718941;1964
+11053;2990;Wuustwezel;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.151840490797546;2608
+11053;2990;Wuustwezel;99;Anvers;AZ Sint-Augustinus;0.05138036809815951;2608
+11053;2990;Wuustwezel;536;Malle;AZ Sint-Jozef Malle;0.2787576687116564;2608
+11053;2990;Wuustwezel;710;Brasschaat;AZ Klina;0.3757668711656442;2608
+11054;2240;Zandhoven;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1106651376146789;1744
+11054;2240;Zandhoven;97;Lierre;H.-Hartziekenhuis Lier;0.2098623853211009;1744
+11054;2240;Zandhoven;99;Anvers;AZ Sint-Augustinus;0.06479357798165138;1744
+11054;2240;Zandhoven;308;Herentals;AZ Sint-Elisabeth Herentals;0.1026376146788991;1744
+11054;2240;Zandhoven;536;Malle;AZ Sint-Jozef Malle;0.2138761467889908;1744
+11054;2240;Zandhoven;682;Anvers;AZ Monica;0.1123853211009174;1744
+11055;2980;Zoersel;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.09424544920728127;3406
+11055;2980;Zoersel;99;Anvers;AZ Sint-Augustinus;0.07075748678802114;3406
+11055;2980;Zoersel;536;Malle;AZ Sint-Jozef Malle;0.5419847328244275;3406
+11055;2980;Zoersel;682;Anvers;AZ Monica;0.1256605989430417;3406
+11056;2070;Zwijndrecht;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.1680255228642325;2821
+11056;2070;Zwijndrecht;99;Anvers;AZ Sint-Augustinus;0.2725983693725629;2821
+11056;2070;Zwijndrecht;100;Anvers;Sint-Vincentiusziekenhuis;0.08117688762850053;2821
+11056;2070;Zwijndrecht;300;Edegem;UZ Antwerpen;0.07621410847217298;2821
+11056;2070;Zwijndrecht;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.2112725983693726;2821
+11056;2070;Zwijndrecht;682;Anvers;AZ Monica;0.1311591634172279;2821
+11057;2390;Malle;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.07146193367585241;2141
+11057;2390;Malle;63;Turnhout;Sint-Elisabethziekenhuis;0.05137786081270435;2141
+11057;2390;Malle;536;Malle;AZ Sint-Jozef Malle;0.6445586174684726;2141
+11057;2390;Malle;682;Anvers;AZ Monica;0.07239607659971976;2141
+12002;2590;Berlaar;26;Malines;AZ Sint-Maarten;0.1097867001254705;1594
+12002;2590;Berlaar;97;Lierre;H.-Hartziekenhuis Lier;0.5257214554579673;1594
+12002;2590;Berlaar;322;Louvain;UZ Leuven;0.06838143036386449;1594
+12002;2590;Berlaar;689;Bonheiden;Imelda Ziekenhuis;0.1210790464240903;1594
+12005;2820;Bonheiden;26;Malines;AZ Sint-Maarten;0.1337907375643225;2332
+12005;2820;Bonheiden;689;Bonheiden;Imelda Ziekenhuis;0.7324185248713551;2332
+12007;2880;Bornem;12;Termonde;AZ Sint-Blasius;0.05294486215538847;3192
+12007;2880;Bornem;104;Bornem;Sint-Jozefkliniek;0.631265664160401;3192
+12007;2880;Bornem;314;Rumst;AZ Heilige Familie;0.05325814536340852;3192
+12007;2880;Bornem;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.06359649122807018;3192
+12009;2570;Duffel;26;Malines;AZ Sint-Maarten;0.6952946550936501;2189
+12009;2570;Duffel;97;Lierre;H.-Hartziekenhuis Lier;0.07948835084513477;2189
+12014;2220;Heist-op-den-Berg;26;Malines;AZ Sint-Maarten;0.07238846084931017;5581
+12014;2220;Heist-op-den-Berg;97;Lierre;H.-Hartziekenhuis Lier;0.2533596129725856;5581
+12014;2220;Heist-op-den-Berg;322;Louvain;UZ Leuven;0.1143164307471779;5581
+12014;2220;Heist-op-den-Berg;689;Bonheiden;Imelda Ziekenhuis;0.3893567461028489;5581
+12021;2500;Lierre;26;Malines;AZ Sint-Maarten;0.1374622356495468;4634
+12021;2500;Lierre;97;Lierre;H.-Hartziekenhuis Lier;0.6018558480794131;4634
+12021;2500;Lierre;300;Edegem;UZ Antwerpen;0.05308588692274493;4634
+12025;2800;Malines;26;Malines;AZ Sint-Maarten;0.5710612034973427;11666
+12025;2800;Malines;689;Bonheiden;Imelda Ziekenhuis;0.2291273787073547;11666
+12026;2560;Nijlen;26;Malines;AZ Sint-Maarten;0.09675259457649815;2987
+12026;2560;Nijlen;97;Lierre;H.-Hartziekenhuis Lier;0.5349849347171075;2987
+12026;2560;Nijlen;300;Edegem;UZ Antwerpen;0.05155674589889521;2987
+12026;2560;Nijlen;308;Herentals;AZ Sint-Elisabeth Herentals;0.06193505189152997;2987
+12026;2560;Nijlen;682;Anvers;AZ Monica;0.05021760964178105;2987
+12029;2580;Putte;26;Malines;AZ Sint-Maarten;0.120957580848383;2381
+12029;2580;Putte;97;Lierre;H.-Hartziekenhuis Lier;0.0995380092398152;2381
+12029;2580;Putte;322;Louvain;UZ Leuven;0.0747585048299034;2381
+12029;2580;Putte;689;Bonheiden;Imelda Ziekenhuis;0.6064678706425871;2381
+12030;2870;Puurs;104;Bornem;Sint-Jozefkliniek;0.4026635330983157;2553
+12030;2870;Puurs;314;Rumst;AZ Heilige Familie;0.2471602036819428;2553
+12034;2890;Sint-Amands;12;Termonde;AZ Sint-Blasius;0.2085521380345086;1333
+12034;2890;Sint-Amands;104;Bornem;Sint-Jozefkliniek;0.4816204051012753;1333
+12035;2860;Sint-Katelijne-Waver;26;Malines;AZ Sint-Maarten;0.4858247422680412;3104
+12035;2860;Sint-Katelijne-Waver;322;Louvain;UZ Leuven;0.0705541237113402;3104
+12035;2860;Sint-Katelijne-Waver;689;Bonheiden;Imelda Ziekenhuis;0.3102448453608248;3104
+12040;2830;Willebroek;26;Malines;AZ Sint-Maarten;0.1200607902735562;3948
+12040;2830;Willebroek;104;Bornem;Sint-Jozefkliniek;0.3563829787234042;3948
+12040;2830;Willebroek;314;Rumst;AZ Heilige Familie;0.2548125633232016;3948
+13001;2370;Arendonk;63;Turnhout;Sint-Elisabethziekenhuis;0.3728733459357278;2116
+13001;2370;Arendonk;90;Turnhout;AZ Sint-Jozef;0.3809073724007561;2116
+13001;2370;Arendonk;322;Louvain;UZ Leuven;0.0671077504725898;2116
+13002;2387;Baerle-Duc;63;Turnhout;Sint-Elisabethziekenhuis;0.3101736972704714;403
+13002;2387;Baerle-Duc;90;Turnhout;AZ Sint-Jozef;0.5955334987593052;403
+13003;2490;Balen;102;Mol;H. Hartziekenhuis Mol;0.5671740569159497;3022
+13003;2490;Balen;322;Louvain;UZ Leuven;0.05691594970218398;3022
+13003;2490;Balen;709;Geel;AZ St.-Dimpna;0.1786896095301125;3022
+13003;2490;Balen;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.06154864328259431;3022
+13004;2340;Beerse;63;Turnhout;Sint-Elisabethziekenhuis;0.3074712643678161;2436
+13004;2340;Beerse;90;Turnhout;AZ Sint-Jozef;0.4433497536945813;2436
+13004;2340;Beerse;536;Malle;AZ Sint-Jozef Malle;0.0784072249589491;2436
+13006;2480;Dessel;63;Turnhout;Sint-Elisabethziekenhuis;0.1583011583011583;1554
+13006;2480;Dessel;90;Turnhout;AZ Sint-Jozef;0.0546975546975547;1554
+13006;2480;Dessel;102;Mol;H. Hartziekenhuis Mol;0.5167310167310167;1554
+13006;2480;Dessel;709;Geel;AZ St.-Dimpna;0.1557271557271557;1554
+13008;2440;Geel;322;Louvain;UZ Leuven;0.07302405498281787;5820
+13008;2440;Geel;709;Geel;AZ St.-Dimpna;0.681786941580756;5820
+13010;2280;Grobbendonk;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.05204460966542751;1883
+13010;2280;Grobbendonk;97;Lierre;H.-Hartziekenhuis Lier;0.2458842272968667;1883
+13010;2280;Grobbendonk;308;Herentals;AZ Sint-Elisabeth Herentals;0.3850238980350504;1883
+13010;2280;Grobbendonk;322;Louvain;UZ Leuven;0.05682421667551779;1883
+13011;2200;Herentals;97;Lierre;H.-Hartziekenhuis Lier;0.07421697684975034;4406
+13011;2200;Herentals;308;Herentals;AZ Sint-Elisabeth Herentals;0.682932364956877;4406
+13012;2270;Herenthout;97;Lierre;H.-Hartziekenhuis Lier;0.3559201141226819;1402
+13012;2270;Herenthout;308;Herentals;AZ Sint-Elisabeth Herentals;0.3195435092724679;1402
+13012;2270;Herenthout;322;Louvain;UZ Leuven;0.05563480741797432;1402
+13012;2270;Herenthout;689;Bonheiden;Imelda Ziekenhuis;0.0912981455064194;1402
+13013;2230;Herselt;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.1579925650557621;2152
+13013;2230;Herselt;308;Herentals;AZ Sint-Elisabeth Herentals;0.09665427509293681;2152
+13013;2230;Herselt;322;Louvain;UZ Leuven;0.3118029739776952;2152
+13013;2230;Herselt;689;Bonheiden;Imelda Ziekenhuis;0.1426579925650558;2152
+13013;2230;Herselt;709;Geel;AZ St.-Dimpna;0.1310408921933086;2152
+13014;2320;Hoogstraten;63;Turnhout;Sint-Elisabethziekenhuis;0.1407242693773825;3148
+13014;2320;Hoogstraten;90;Turnhout;AZ Sint-Jozef;0.5432020330368488;3148
+13014;2320;Hoogstraten;536;Malle;AZ Sint-Jozef Malle;0.1581956797966963;3148
+13016;2235;Hulshout;97;Lierre;H.-Hartziekenhuis Lier;0.1526073619631902;1304
+13016;2235;Hulshout;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.06441717791411043;1304
+13016;2235;Hulshout;308;Herentals;AZ Sint-Elisabeth Herentals;0.1533742331288344;1304
+13016;2235;Hulshout;322;Louvain;UZ Leuven;0.1610429447852761;1304
+13016;2235;Hulshout;689;Bonheiden;Imelda Ziekenhuis;0.2852760736196319;1304
+13017;2460;Kasterlee;63;Turnhout;Sint-Elisabethziekenhuis;0.3484429065743945;2890
+13017;2460;Kasterlee;90;Turnhout;AZ Sint-Jozef;0.2083044982698962;2890
+13017;2460;Kasterlee;308;Herentals;AZ Sint-Elisabeth Herentals;0.2487889273356401;2890
+13019;2275;Lille;63;Turnhout;Sint-Elisabethziekenhuis;0.2365428354814253;2638
+13019;2275;Lille;90;Turnhout;AZ Sint-Jozef;0.1921910538286581;2638
+13019;2275;Lille;308;Herentals;AZ Sint-Elisabeth Herentals;0.2831690674753601;2638
+13019;2275;Lille;322;Louvain;UZ Leuven;0.06141015921152388;2638
+13021;2450;Meerhout;102;Mol;H. Hartziekenhuis Mol;0.2778864970645792;1533
+13021;2450;Meerhout;322;Louvain;UZ Leuven;0.06588388780169602;1533
+13021;2450;Meerhout;709;Geel;AZ St.-Dimpna;0.4605348988910632;1533
+13023;2330;Merksplas;63;Turnhout;Sint-Elisabethziekenhuis;0.2771929824561403;1140
+13023;2330;Merksplas;90;Turnhout;AZ Sint-Jozef;0.5684210526315789;1140
+13025;2400;Mol;102;Mol;H. Hartziekenhuis Mol;0.6240110759493671;5056
+13025;2400;Mol;322;Louvain;UZ Leuven;0.0658623417721519;5056
+13025;2400;Mol;709;Geel;AZ St.-Dimpna;0.1372626582278481;5056
+13029;2250;Olen;308;Herentals;AZ Sint-Elisabeth Herentals;0.5392364793213149;1886
+13029;2250;Olen;322;Louvain;UZ Leuven;0.05885471898197243;1886
+13029;2250;Olen;709;Geel;AZ St.-Dimpna;0.2020148462354189;1886
+13031;2360;Oud-Turnhout;63;Turnhout;Sint-Elisabethziekenhuis;0.4951028403525955;2042
+13031;2360;Oud-Turnhout;90;Turnhout;AZ Sint-Jozef;0.366307541625857;2042
+13035;2380;Ravels;63;Turnhout;Sint-Elisabethziekenhuis;0.3479836882646126;2207
+13035;2380;Ravels;90;Turnhout;AZ Sint-Jozef;0.5047575894879928;2207
+13036;2470;Retie;63;Turnhout;Sint-Elisabethziekenhuis;0.3002466091245376;1622
+13036;2470;Retie;90;Turnhout;AZ Sint-Jozef;0.2028360049321825;1622
+13036;2470;Retie;102;Mol;H. Hartziekenhuis Mol;0.2293464858199753;1622
+13036;2470;Retie;322;Louvain;UZ Leuven;0.07336621454993834;1622
+13036;2470;Retie;709;Geel;AZ St.-Dimpna;0.12577065351418;1622
+13037;2310;Rijkevorsel;63;Turnhout;Sint-Elisabethziekenhuis;0.1786786786786787;1998
+13037;2310;Rijkevorsel;90;Turnhout;AZ Sint-Jozef;0.4334334334334334;1998
+13037;2310;Rijkevorsel;536;Malle;AZ Sint-Jozef Malle;0.2192192192192192;1998
+13040;2300;Turnhout;63;Turnhout;Sint-Elisabethziekenhuis;0.4926695174098962;6548
+13040;2300;Turnhout;90;Turnhout;AZ Sint-Jozef;0.3605681124007331;6548
+13044;2290;Vorselaar;97;Lierre;H.-Hartziekenhuis Lier;0.09956395348837209;1376
+13044;2290;Vorselaar;308;Herentals;AZ Sint-Elisabeth Herentals;0.5915697674418605;1376
+13046;2350;Vosselaar;63;Turnhout;Sint-Elisabethziekenhuis;0.4168212739641311;1617
+13046;2350;Vosselaar;90;Turnhout;AZ Sint-Jozef;0.4075448361162647;1617
+13049;2260;Westerlo;308;Herentals;AZ Sint-Elisabeth Herentals;0.3142554319024907;3774
+13049;2260;Westerlo;322;Louvain;UZ Leuven;0.1981981981981982;3774
+13049;2260;Westerlo;689;Bonheiden;Imelda Ziekenhuis;0.05060943296237414;3774
+13049;2260;Westerlo;709;Geel;AZ St.-Dimpna;0.2424483306836248;3774
+13053;2430;Laakdal;322;Louvain;UZ Leuven;0.1356147021546261;2367
+13053;2430;Laakdal;709;Geel;AZ St.-Dimpna;0.5264047317279257;2367
+13053;2430;Laakdal;712;Diest;AZ Diest;0.1089987325728771;2367
+21001;1070;Anderlecht;76;Bruxelles;CHU Saint-Pierre;0.06726498889711324;10808
+21001;1070;Anderlecht;87;Etterbeek;Hôpitaux Iris Sud;0.1808845299777942;10808
+21001;1070;Anderlecht;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.07068837897853442;10808
+21001;1070;Anderlecht;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.2579570688378979;10808
+21001;1070;Anderlecht;723;Anderlecht;Clinique Sainte-Anne – Saint-Remi;0.222520355292376;10808
+21002;1160;Auderghem;87;Etterbeek;Hôpitaux Iris Sud;0.1179012345679012;3240
+21002;1160;Auderghem;111;Uccle;Cliniques de l'Europe;0.1453703703703704;3240
+21002;1160;Auderghem;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.2549382716049383;3240
+21002;1160;Auderghem;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.2768518518518518;3240
+21003;1082;Berchem-Sainte-Agathe;76;Bruxelles;CHU Saint-Pierre;0.0522911051212938;1855
+21003;1082;Berchem-Sainte-Agathe;77;Bruxelles;CHU Brugmann;0.09433962264150944;1855
+21003;1082;Berchem-Sainte-Agathe;110;Bruxelles;Clinique Saint-Jean;0.09703504043126684;1855
+21003;1082;Berchem-Sainte-Agathe;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1784366576819407;1855
+21003;1082;Berchem-Sainte-Agathe;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.169811320754717;1855
+21003;1082;Berchem-Sainte-Agathe;723;Anderlecht;Clinique Sainte-Anne – Saint-Remi;0.1018867924528302;1855
+21004;1000;Bruxelles;76;Bruxelles;CHU Saint-Pierre;0.1420595533498759;12896
+21004;1000;Bruxelles;77;Bruxelles;CHU Brugmann;0.1303504962779156;12896
+21004;1000;Bruxelles;79;Bruxelles;Institut Jules Bordet;0.05086848635235732;12896
+21004;1000;Bruxelles;110;Bruxelles;Clinique Saint-Jean;0.08599565756823821;12896
+21004;1000;Bruxelles;143;Jette;UZ Brussel;0.09778225806451613;12896
+21004;1000;Bruxelles;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.120735111662531;12896
+21004;1000;Bruxelles;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.06955645161290322;12896
+21004;1000;Bruxelles;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.08886476426799007;12896
+21005;1040;Etterbeek;87;Etterbeek;Hôpitaux Iris Sud;0.1697015680323723;3954
+21005;1040;Etterbeek;111;Uccle;Cliniques de l'Europe;0.1828528072837633;3954
+21005;1040;Etterbeek;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.2245827010622155;3954
+21005;1040;Etterbeek;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1712190187152251;3954
+21006;1140;Evere;77;Bruxelles;CHU Brugmann;0.09554497057999439;3569
+21006;1140;Evere;110;Bruxelles;Clinique Saint-Jean;0.1353320257775287;3569
+21006;1140;Evere;111;Uccle;Cliniques de l'Europe;0.1328103110114878;3569
+21006;1140;Evere;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1370131689548893;3569
+21006;1140;Evere;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.2065004202857944;3569
+21006;1140;Evere;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.05015410479125806;3569
+21007;1190;Forest;76;Bruxelles;CHU Saint-Pierre;0.1035048165607707;4879
+21007;1190;Forest;79;Bruxelles;Institut Jules Bordet;0.06128304980528797;4879
+21007;1190;Forest;87;Etterbeek;Hôpitaux Iris Sud;0.1918425906948145;4879
+21007;1190;Forest;111;Uccle;Cliniques de l'Europe;0.1606886657101865;4879
+21007;1190;Forest;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1856937897110064;4879
+21007;1190;Forest;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1192867390858783;4879
+21008;1083;Ganshoren;77;Bruxelles;CHU Brugmann;0.1053799223516362;1803
+21008;1083;Ganshoren;79;Bruxelles;Institut Jules Bordet;0.0704381586245147;1803
+21008;1083;Ganshoren;87;Etterbeek;Hôpitaux Iris Sud;0.05435385468663339;1803
+21008;1083;Ganshoren;110;Bruxelles;Clinique Saint-Jean;0.05712701053799223;1803
+21008;1083;Ganshoren;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.295618413754853;1803
+21008;1083;Ganshoren;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1181364392678869;1803
+21008;1083;Ganshoren;723;Anderlecht;Clinique Sainte-Anne – Saint-Remi;0.1053799223516362;1803
+21009;1050;Ixelles;76;Bruxelles;CHU Saint-Pierre;0.07024852751041517;6961
+21009;1050;Ixelles;79;Bruxelles;Institut Jules Bordet;0.05889958339319063;6961
+21009;1050;Ixelles;87;Etterbeek;Hôpitaux Iris Sud;0.2199396638414021;6961
+21009;1050;Ixelles;111;Uccle;Cliniques de l'Europe;0.1150696738974285;6961
+21009;1050;Ixelles;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.2367475937365321;6961
+21009;1050;Ixelles;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.0863381698031892;6961
+21009;1050;Ixelles;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.06981755494900158;6961
+21010;1090;Jette;77;Bruxelles;CHU Brugmann;0.1880074953154278;4803
+21010;1090;Jette;143;Jette;UZ Brussel;0.2254840724547158;4803
+21010;1090;Jette;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1673953778888195;4803
+21010;1090;Jette;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.07682698313554029;4803
+21011;1081;Koekelberg;76;Bruxelles;CHU Saint-Pierre;0.0774862721171446;1639
+21011;1081;Koekelberg;77;Bruxelles;CHU Brugmann;0.08236729713239781;1639
+21011;1081;Koekelberg;87;Etterbeek;Hôpitaux Iris Sud;0.06101281269066504;1639
+21011;1081;Koekelberg;110;Bruxelles;Clinique Saint-Jean;0.07931665649786455;1639
+21011;1081;Koekelberg;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1824283099450885;1639
+21011;1081;Koekelberg;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.150091519219036;1639
+21011;1081;Koekelberg;723;Anderlecht;Clinique Sainte-Anne – Saint-Remi;0.1873093349603417;1639
+21012;1080;Molenbeek-Saint-Jean;76;Bruxelles;CHU Saint-Pierre;0.07417121275702895;9532
+21012;1080;Molenbeek-Saint-Jean;77;Bruxelles;CHU Brugmann;0.07133864876206462;9532
+21012;1080;Molenbeek-Saint-Jean;87;Etterbeek;Hôpitaux Iris Sud;0.05381871590432228;9532
+21012;1080;Molenbeek-Saint-Jean;143;Jette;UZ Brussel;0.2188417960553924;9532
+21012;1080;Molenbeek-Saint-Jean;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.09557280738564834;9532
+21012;1080;Molenbeek-Saint-Jean;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1257868233319345;9532
+21012;1080;Molenbeek-Saint-Jean;723;Anderlecht;Clinique Sainte-Anne – Saint-Remi;0.1563155686109945;9532
+21013;1060;Saint-Gilles;76;Bruxelles;CHU Saint-Pierre;0.2223105458399576;3774
+21013;1060;Saint-Gilles;79;Bruxelles;Institut Jules Bordet;0.09591944886062533;3774
+21013;1060;Saint-Gilles;87;Etterbeek;Hôpitaux Iris Sud;0.1785903550609433;3774
+21013;1060;Saint-Gilles;111;Uccle;Cliniques de l'Europe;0.075516693163752;3774
+21013;1060;Saint-Gilles;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1380498145204028;3774
+21013;1060;Saint-Gilles;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1046634870164282;3774
+21014;1210;Saint-Josse-ten-Noode;76;Bruxelles;CHU Saint-Pierre;0.1095346197502838;1762
+21014;1210;Saint-Josse-ten-Noode;77;Bruxelles;CHU Brugmann;0.0550510783200908;1762
+21014;1210;Saint-Josse-ten-Noode;87;Etterbeek;Hôpitaux Iris Sud;0.05902383654937571;1762
+21014;1210;Saint-Josse-ten-Noode;110;Bruxelles;Clinique Saint-Jean;0.2565266742338252;1762
+21014;1210;Saint-Josse-ten-Noode;111;Uccle;Cliniques de l'Europe;0.05845629965947786;1762
+21014;1210;Saint-Josse-ten-Noode;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1083995459704881;1762
+21014;1210;Saint-Josse-ten-Noode;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1010215664018161;1762
+21014;1210;Saint-Josse-ten-Noode;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.05391600454029512;1762
+21015;1030;Schaerbeek;76;Bruxelles;CHU Saint-Pierre;0.06330044089859332;9526
+21015;1030;Schaerbeek;77;Bruxelles;CHU Brugmann;0.1364686122191896;9526
+21015;1030;Schaerbeek;110;Bruxelles;Clinique Saint-Jean;0.1641822380852404;9526
+21015;1030;Schaerbeek;111;Uccle;Cliniques de l'Europe;0.105080831408776;9526
+21015;1030;Schaerbeek;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1274406886416124;9526
+21015;1030;Schaerbeek;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1426621876968297;9526
+21016;1180;Uccle;79;Bruxelles;Institut Jules Bordet;0.06100682593856655;9376
+21016;1180;Uccle;87;Etterbeek;Hôpitaux Iris Sud;0.08351109215017065;9376
+21016;1180;Uccle;111;Uccle;Cliniques de l'Europe;0.3463097269624573;9376
+21016;1180;Uccle;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.2599189419795222;9376
+21016;1180;Uccle;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.09097696245733788;9376
+21017;1170;Watermael-Boitsfort;76;Bruxelles;CHU Saint-Pierre;0.06476592749032031;2841
+21017;1170;Watermael-Boitsfort;79;Bruxelles;Institut Jules Bordet;0.08025343189017951;2841
+21017;1170;Watermael-Boitsfort;87;Etterbeek;Hôpitaux Iris Sud;0.116156282998944;2841
+21017;1170;Watermael-Boitsfort;111;Uccle;Cliniques de l'Europe;0.1935938049982401;2841
+21017;1170;Watermael-Boitsfort;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.2178810278071102;2841
+21017;1170;Watermael-Boitsfort;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1643787398803238;2841
+21017;1170;Watermael-Boitsfort;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.05807814149947202;2841
+21018;1200;Woluwe-Saint-Lambert;111;Uccle;Cliniques de l'Europe;0.1791941108097637;5162
+21018;1200;Woluwe-Saint-Lambert;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1925610228593568;5162
+21018;1200;Woluwe-Saint-Lambert;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.3572258814413018;5162
+21019;1150;Woluwe-Saint-Pierre;110;Bruxelles;Clinique Saint-Jean;0.06273854961832061;4192
+21019;1150;Woluwe-Saint-Pierre;111;Uccle;Cliniques de l'Europe;0.1283396946564886;4192
+21019;1150;Woluwe-Saint-Pierre;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.2464217557251908;4192
+21019;1150;Woluwe-Saint-Pierre;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.339456106870229;4192
+23002;1730;Asse;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.5294920808301474;3662
+23002;1730;Asse;143;Jette;UZ Brussel;0.1392681594756963;3662
+23003;1650;Beersel;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.3883914788514974;3239
+23003;1650;Beersel;111;Uccle;Cliniques de l'Europe;0.1969743748070392;3239
+23003;1650;Beersel;143;Jette;UZ Brussel;0.06606977462179685;3239
+23003;1650;Beersel;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.08335906143871566;3239
+23003;1650;Beersel;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.05896881753627663;3239
+23009;1547;Biévène;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.2309859154929577;355
+23009;1547;Biévène;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.08169014084507042;355
+23009;1547;Biévène;176;Alost;Algemeen Stedelijk Ziekenhuis;0.4;355
+23009;1547;Biévène;217;Zottegem;AZ Sint-Elisabeth;0.09295774647887324;355
+23016;1700;Dilbeek;87;Etterbeek;Hôpitaux Iris Sud;0.101919135457425;5367
+23016;1700;Dilbeek;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.05403391093720887;5367
+23016;1700;Dilbeek;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.2351406744922676;5367
+23016;1700;Dilbeek;143;Jette;UZ Brussel;0.193963107881498;5367
+23016;1700;Dilbeek;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.06614495994037638;5367
+23016;1700;Dilbeek;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1030370784423328;5367
+23023;1570;Gammerages;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.06245059288537549;1265
+23023;1570;Gammerages;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.2071146245059289;1265
+23023;1570;Gammerages;143;Jette;UZ Brussel;0.05928853754940711;1265
+23023;1570;Gammerages;176;Alost;Algemeen Stedelijk Ziekenhuis;0.458498023715415;1265
+23023;1570;Gammerages;217;Zottegem;AZ Sint-Elisabeth;0.07984189723320158;1265
+23024;1755;Gooik;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.2285491419656786;1282
+23024;1755;Gooik;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.4477379095163806;1282
+23024;1755;Gooik;143;Jette;UZ Brussel;0.0655226209048362;1282
+23024;1755;Gooik;176;Alost;Algemeen Stedelijk Ziekenhuis;0.1045241809672387;1282
+23025;1850;Grimbergen;143;Jette;UZ Brussel;0.1779092702169625;5070
+23025;1850;Grimbergen;204;Vilvorde;AZ Jan Portaels;0.4792899408284024;5070
+23025;1850;Grimbergen;322;Louvain;UZ Leuven;0.05285996055226824;5070
+23027;1500;Hal;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.6417910447761194;5025
+23027;1500;Hal;143;Jette;UZ Brussel;0.09014925373134329;5025
+23032;1540;Herne;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.2749077490774908;1084
+23032;1540;Herne;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.1835793357933579;1084
+23032;1540;Herne;176;Alost;Algemeen Stedelijk Ziekenhuis;0.246309963099631;1084
+23032;1540;Herne;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.08302583025830258;1084
+23033;1560;Hoeilaart;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.07883461868037704;1167
+23033;1560;Hoeilaart;111;Uccle;Cliniques de l'Europe;0.2510711225364182;1167
+23033;1560;Hoeilaart;322;Louvain;UZ Leuven;0.2553556126820908;1167
+23033;1560;Hoeilaart;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1105398457583548;1167
+23033;1560;Hoeilaart;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.06683804627249357;1167
+23038;1910;Kampenhout;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.07076101468624833;1498
+23038;1910;Kampenhout;204;Vilvorde;AZ Jan Portaels;0.1635514018691589;1498
+23038;1910;Kampenhout;322;Louvain;UZ Leuven;0.3437917222963952;1498
+23038;1910;Kampenhout;689;Bonheiden;Imelda Ziekenhuis;0.2837116154873164;1498
+23039;1880;Kapelle-op-den-Bos;26;Malines;AZ Sint-Maarten;0.3169435215946844;1505
+23039;1880;Kapelle-op-den-Bos;104;Bornem;Sint-Jozefkliniek;0.1588039867109635;1505
+23039;1880;Kapelle-op-den-Bos;143;Jette;UZ Brussel;0.05382059800664452;1505
+23039;1880;Kapelle-op-den-Bos;204;Vilvorde;AZ Jan Portaels;0.07043189368770764;1505
+23039;1880;Kapelle-op-den-Bos;322;Louvain;UZ Leuven;0.09235880398671097;1505
+23039;1880;Kapelle-op-den-Bos;689;Bonheiden;Imelda Ziekenhuis;0.1614617940199335;1505
+23044;1770;Liedekerke;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.5326268823201339;1793
+23044;1770;Liedekerke;176;Alost;Algemeen Stedelijk Ziekenhuis;0.2219743446737312;1793
+23045;1840;Londerzeel;12;Termonde;AZ Sint-Blasius;0.1631748589846898;2482
+23045;1840;Londerzeel;26;Malines;AZ Sint-Maarten;0.06768734891216761;2482
+23045;1840;Londerzeel;104;Bornem;Sint-Jozefkliniek;0.2554391619661563;2482
+23045;1840;Londerzeel;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.05398871877518131;2482
+23045;1840;Londerzeel;143;Jette;UZ Brussel;0.1124093473005641;2482
+23045;1840;Londerzeel;314;Rumst;AZ Heilige Familie;0.1160354552780016;2482
+23047;1830;Machelen (Brabant flamand);143;Jette;UZ Brussel;0.07584128578603717;1991
+23047;1830;Machelen (Brabant flamand);204;Vilvorde;AZ Jan Portaels;0.5715720743345053;1991
+23047;1830;Machelen (Brabant flamand);322;Louvain;UZ Leuven;0.06629834254143646;1991
+23050;1860;Meise;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.1116751269035533;2561
+23050;1860;Meise;143;Jette;UZ Brussel;0.2100741897696213;2561
+23050;1860;Meise;204;Vilvorde;AZ Jan Portaels;0.3428348301444748;2561
+23052;1785;Merchtem;12;Termonde;AZ Sint-Blasius;0.1193100143747005;2087
+23052;1785;Merchtem;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.3885960709151893;2087
+23052;1785;Merchtem;143;Jette;UZ Brussel;0.2055582175371346;2087
+23060;1745;Opwijk;12;Termonde;AZ Sint-Blasius;0.2341842397336293;1802
+23060;1745;Opwijk;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.451165371809101;1802
+23060;1745;Opwijk;143;Jette;UZ Brussel;0.1021087680355161;1802
+23060;1745;Opwijk;176;Alost;Algemeen Stedelijk Ziekenhuis;0.06326304106548279;1802
+23062;3090;Overijse;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.108359133126935;2907
+23062;3090;Overijse;111;Uccle;Cliniques de l'Europe;0.09666322669418645;2907
+23062;3090;Overijse;322;Louvain;UZ Leuven;0.305125558995528;2907
+23062;3090;Overijse;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1265909872721018;2907
+23062;3090;Overijse;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.09219126246990024;2907
+23064;1670;Pepingen;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.5017543859649123;570
+23064;1670;Pepingen;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.1105263157894737;570
+23064;1670;Pepingen;143;Jette;UZ Brussel;0.06140350877192982;570
+23064;1670;Pepingen;322;Louvain;UZ Leuven;0.09649122807017543;570
+23077;1600;Leeuw-Saint-Pierre;87;Etterbeek;Hôpitaux Iris Sud;0.06049822064056939;4215
+23077;1600;Leeuw-Saint-Pierre;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.3845788849347568;4215
+23077;1600;Leeuw-Saint-Pierre;111;Uccle;Cliniques de l'Europe;0.07022538552787663;4215
+23077;1600;Leeuw-Saint-Pierre;143;Jette;UZ Brussel;0.07520759193357059;4215
+23077;1600;Leeuw-Saint-Pierre;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1437722419928825;4215
+23081;1820;Steenokkerzeel;204;Vilvorde;AZ Jan Portaels;0.5092641609317099;1889
+23081;1820;Steenokkerzeel;322;Louvain;UZ Leuven;0.1556379036527263;1889
+23081;1820;Steenokkerzeel;689;Bonheiden;Imelda Ziekenhuis;0.09899417681312864;1889
+23086;1740;Ternat;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.5782178217821782;2020
+23086;1740;Ternat;143;Jette;UZ Brussel;0.1069306930693069;2020
+23086;1740;Ternat;176;Alost;Algemeen Stedelijk Ziekenhuis;0.1158415841584158;2020
+23088;1800;Vilvorde;143;Jette;UZ Brussel;0.1537658723256219;5749
+23088;1800;Vilvorde;204;Vilvorde;AZ Jan Portaels;0.5948860671421117;5749
+23094;1930;Zaventem;204;Vilvorde;AZ Jan Portaels;0.2351821642196846;3678
+23094;1930;Zaventem;322;Louvain;UZ Leuven;0.2308319738988581;3678
+23094;1930;Zaventem;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.06769983686786298;3678
+23094;1930;Zaventem;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1715606307775965;3678
+23096;1980;Zemst;26;Malines;AZ Sint-Maarten;0.3555489437667361;3361
+23096;1980;Zemst;204;Vilvorde;AZ Jan Portaels;0.1811960725974412;3361
+23096;1980;Zemst;322;Louvain;UZ Leuven;0.07765545968461768;3361
+23096;1980;Zemst;689;Bonheiden;Imelda Ziekenhuis;0.2424873549538828;3361
+23097;1760;Roosdaal;87;Etterbeek;Hôpitaux Iris Sud;0.05668515095502157;1623
+23097;1760;Roosdaal;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.0585335797905114;1623
+23097;1760;Roosdaal;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.5951940850277264;1623
+23097;1760;Roosdaal;143;Jette;UZ Brussel;0.06346272335181762;1623
+23097;1760;Roosdaal;176;Alost;Algemeen Stedelijk Ziekenhuis;0.09919901417128774;1623
+23098;1620;Drogenbos;76;Bruxelles;CHU Saint-Pierre;0.06666666666666667;525
+23098;1620;Drogenbos;87;Etterbeek;Hôpitaux Iris Sud;0.06666666666666667;525
+23098;1620;Drogenbos;111;Uccle;Cliniques de l'Europe;0.3638095238095238;525
+23098;1620;Drogenbos;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1180952380952381;525
+23098;1620;Drogenbos;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1580952380952381;525
+23099;1950;Kraainem;110;Bruxelles;Clinique Saint-Jean;0.05310344827586207;1450
+23099;1950;Kraainem;204;Vilvorde;AZ Jan Portaels;0.08206896551724138;1450
+23099;1950;Kraainem;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1717241379310345;1450
+23099;1950;Kraainem;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.4413793103448276;1450
+23100;1630;Linkebeek;79;Bruxelles;Institut Jules Bordet;0.09688581314878893;578
+23100;1630;Linkebeek;111;Uccle;Cliniques de l'Europe;0.3529411764705883;578
+23100;1630;Linkebeek;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1747404844290658;578
+23100;1630;Linkebeek;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.157439446366782;578
+23101;1640;Rhode-Saint-Genèse;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.1476952022577611;2126
+23101;1640;Rhode-Saint-Genèse;111;Uccle;Cliniques de l'Europe;0.3118532455315146;2126
+23101;1640;Rhode-Saint-Genèse;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.2210724365004704;2126
+23101;1640;Rhode-Saint-Genèse;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05079962370649106;2126
+23101;1640;Rhode-Saint-Genèse;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.0592662276575729;2126
+23102;1780;Wemmel;77;Bruxelles;CHU Brugmann;0.06948156066274719;1871
+23102;1780;Wemmel;110;Bruxelles;Clinique Saint-Jean;0.05237840726884019;1871
+23102;1780;Wemmel;143;Jette;UZ Brussel;0.3506146445750936;1871
+23102;1780;Wemmel;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1544628540887226;1871
+23102;1780;Wemmel;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.05130946018172101;1871
+23103;1970;Wezembeek-Oppem;111;Uccle;Cliniques de l'Europe;0.05882352941176471;1513
+23103;1970;Wezembeek-Oppem;322;Louvain;UZ Leuven;0.08129543952412426;1513
+23103;1970;Wezembeek-Oppem;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1989424983476537;1513
+23103;1970;Wezembeek-Oppem;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.4144084600132188;1513
+23104;1750;Lennik;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.2283185840707965;1130
+23104;1750;Lennik;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.3575221238938053;1130
+23104;1750;Lennik;143;Jette;UZ Brussel;0.06991150442477877;1130
+23104;1750;Lennik;176;Alost;Algemeen Stedelijk Ziekenhuis;0.08053097345132744;1130
+23104;1750;Lennik;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.08053097345132744;1130
+23105;1790;Affligem;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.5553060078607523;1781
+23105;1790;Affligem;176;Alost;Algemeen Stedelijk Ziekenhuis;0.2481751824817518;1781
+24001;3200;Aarschot;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.3545667447306792;4270
+24001;3200;Aarschot;322;Louvain;UZ Leuven;0.3939110070257612;4270
+24001;3200;Aarschot;689;Bonheiden;Imelda Ziekenhuis;0.06323185011709602;4270
+24001;3200;Aarschot;712;Diest;AZ Diest;0.08313817330210772;4270
+24007;3130;Begijnendijk;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.2283991962491628;1493
+24007;3130;Begijnendijk;322;Louvain;UZ Leuven;0.3409243134628265;1493
+24007;3130;Begijnendijk;689;Bonheiden;Imelda Ziekenhuis;0.2712659075686537;1493
+24008;3460;Bekkevoort;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.145710928319624;851
+24008;3460;Bekkevoort;322;Louvain;UZ Leuven;0.3172737955346651;851
+24008;3460;Bekkevoort;712;Diest;AZ Diest;0.3019976498237368;851
+24009;3060;Bertem;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.2689901697944593;1119
+24009;3060;Bertem;322;Louvain;UZ Leuven;0.5871313672922251;1119
+24011;3360;Bierbeek;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.2215909090909091;1408
+24011;3360;Bierbeek;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.05681818181818182;1408
+24011;3360;Bierbeek;322;Louvain;UZ Leuven;0.6463068181818182;1408
+24014;3190;Boortmeerbeek;26;Malines;AZ Sint-Maarten;0.1910430839002268;1764
+24014;3190;Boortmeerbeek;322;Louvain;UZ Leuven;0.1320861678004535;1764
+24014;3190;Boortmeerbeek;689;Bonheiden;Imelda Ziekenhuis;0.5521541950113379;1764
+24016;3370;Boutersem;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.1044487427466151;1034
+24016;3370;Boutersem;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.3220502901353965;1034
+24016;3370;Boutersem;322;Louvain;UZ Leuven;0.5299806576402321;1034
+24020;3290;Diest;159;Hasselt;AZ Salvator-Sint-Ursula;0.07288935500786575;3814
+24020;3290;Diest;243;Hasselt;Virga Jesse Ziekenhuis;0.05506030414263241;3814
+24020;3290;Diest;322;Louvain;UZ Leuven;0.1735710540115364;3814
+24020;3290;Diest;712;Diest;AZ Diest;0.5629260618772942;3814
+24028;3450;Geetbets;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.07667031763417305;913
+24028;3450;Geetbets;159;Hasselt;AZ Salvator-Sint-Ursula;0.1489594742606791;913
+24028;3450;Geetbets;243;Hasselt;Virga Jesse Ziekenhuis;0.0700985761226725;913
+24028;3450;Geetbets;322;Louvain;UZ Leuven;0.1237677984665937;913
+24028;3450;Geetbets;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.4906900328587075;913
+24033;3150;Haacht;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.05584281282316442;1934
+24033;3150;Haacht;322;Louvain;UZ Leuven;0.3081695966907963;1934
+24033;3150;Haacht;689;Bonheiden;Imelda Ziekenhuis;0.5449844881075491;1934
+24038;3020;Herent;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.2405536849981294;2673
+24038;3020;Herent;322;Louvain;UZ Leuven;0.6303778526000748;2673
+24041;3320;Hoegaarden;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.5211428571428571;875
+24041;3320;Hoegaarden;322;Louvain;UZ Leuven;0.3291428571428571;875
+24043;3220;Holsbeek;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.1652035115722267;1253
+24043;3220;Holsbeek;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.223463687150838;1253
+24043;3220;Holsbeek;322;Louvain;UZ Leuven;0.524341580207502;1253
+24045;3040;Huldenberg;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.2560873215785054;1191
+24045;3040;Huldenberg;322;Louvain;UZ Leuven;0.5012594458438288;1191
+24048;3140;Keerbergen;26;Malines;AZ Sint-Maarten;0.05010775862068965;1856
+24048;3140;Keerbergen;322;Louvain;UZ Leuven;0.1255387931034483;1856
+24048;3140;Keerbergen;689;Bonheiden;Imelda Ziekenhuis;0.7101293103448276;1856
+24054;3470;Kortenaken;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.3235294117647059;1122
+24054;3470;Kortenaken;159;Hasselt;AZ Salvator-Sint-Ursula;0.0659536541889483;1122
+24054;3470;Kortenaken;243;Hasselt;Virga Jesse Ziekenhuis;0.0570409982174688;1122
+24054;3470;Kortenaken;322;Louvain;UZ Leuven;0.2388591800356506;1122
+24054;3470;Kortenaken;712;Diest;AZ Diest;0.1898395721925134;1122
+24054;3470;Kortenaken;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.0677361853832442;1122
+24055;3070;Kortenberg;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.1895210806385592;2443
+24055;3070;Kortenberg;204;Vilvorde;AZ Jan Portaels;0.0634465820712239;2443
+24055;3070;Kortenberg;322;Louvain;UZ Leuven;0.4969300040933279;2443
+24059;3400;Landen;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.2364789257739649;2681
+24059;3400;Landen;159;Hasselt;AZ Salvator-Sint-Ursula;0.07459903021260723;2681
+24059;3400;Landen;322;Louvain;UZ Leuven;0.1671018276762402;2681
+24059;3400;Landen;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.4114136516225289;2681
+24062;3000;Louvain;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.2987468232407327;11411
+24062;3000;Louvain;322;Louvain;UZ Leuven;0.606870563491368;11411
+24066;3210;Lubbeek;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.1592261904761905;2016
+24066;3210;Lubbeek;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.1741071428571428;2016
+24066;3210;Lubbeek;322;Louvain;UZ Leuven;0.6001984126984127;2016
+24086;3050;Oud-Heverlee;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.2700315457413249;1585
+24086;3050;Oud-Heverlee;322;Louvain;UZ Leuven;0.6227129337539432;1585
+24094;3110;Rotselaar;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.1098795180722892;2075
+24094;3110;Rotselaar;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.1532530120481928;2075
+24094;3110;Rotselaar;322;Louvain;UZ Leuven;0.4525301204819277;2075
+24094;3110;Rotselaar;689;Bonheiden;Imelda Ziekenhuis;0.2139759036144578;2075
+24104;3080;Tervuren;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.1870824053452116;2245
+24104;3080;Tervuren;322;Louvain;UZ Leuven;0.3812917594654788;2245
+24104;3080;Tervuren;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.08240534521158129;2245
+24104;3080;Tervuren;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1581291759465479;2245
+24107;3300;Tirlemont;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.5827706159197872;4887
+24107;3300;Tirlemont;322;Louvain;UZ Leuven;0.3196234908942091;4887
+24109;3120;Tremelo;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.07284129281234925;2073
+24109;3120;Tremelo;322;Louvain;UZ Leuven;0.1616015436565364;2073
+24109;3120;Tremelo;689;Bonheiden;Imelda Ziekenhuis;0.6338639652677279;2073
+24130;3440;Léau;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.1285831285831286;1221
+24130;3440;Léau;322;Louvain;UZ Leuven;0.1122031122031122;1221
+24130;3440;Léau;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.633087633087633;1221
+24133;3350;Linter;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.4950592885375494;1012
+24133;3350;Linter;322;Louvain;UZ Leuven;0.2322134387351779;1012
+24133;3350;Linter;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.1590909090909091;1012
+24134;3270;Montaigu-Zichem;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.1468606844516303;3711
+24134;3270;Montaigu-Zichem;159;Hasselt;AZ Salvator-Sint-Ursula;0.05200754513608192;3711
+24134;3270;Montaigu-Zichem;322;Louvain;UZ Leuven;0.3023443815683104;3711
+24134;3270;Montaigu-Zichem;712;Diest;AZ Diest;0.371597952034492;3711
+24135;3390;Tielt-Winge;108;Louvain;Regionaal Ziekenhuis H. Hart Leuven;0.05907172995780591;1659
+24135;3390;Tielt-Winge;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.2917420132610006;1659
+24135;3390;Tielt-Winge;322;Louvain;UZ Leuven;0.4942736588306209;1659
+24135;3390;Tielt-Winge;712;Diest;AZ Diest;0.06811332127787824;1659
+24137;3380;Glabbeek;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.542713567839196;796
+24137;3380;Glabbeek;322;Louvain;UZ Leuven;0.3128140703517588;796
+25005;1320;Beauvechain;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.4428754813863928;779
+25005;1320;Beauvechain;322;Louvain;UZ Leuven;0.1489088575096277;779
+25005;1320;Beauvechain;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.05391527599486521;779
+25005;1320;Beauvechain;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1424903722721438;779
+25014;1420;Braine-l'Alleud;111;Uccle;Cliniques de l'Europe;0.06191950464396285;3876
+25014;1420;Braine-l'Alleud;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.5735294117647058;3876
+25014;1420;Braine-l'Alleud;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07430340557275542;3876
+25014;1420;Braine-l'Alleud;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.08281733746130031;3876
+25015;1440;Braine-le-Château;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.3567984570877532;1037
+25015;1440;Braine-le-Château;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.1735776277724204;1037
+25015;1440;Braine-le-Château;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07135969141755062;1037
+25015;1440;Braine-le-Château;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1398264223722276;1037
+25018;1325;Chaumont-Gistoux;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.5224806201550387;1290
+25018;1325;Chaumont-Gistoux;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1302325581395349;1290
+25018;1325;Chaumont-Gistoux;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1441860465116279;1290
+25023;1490;Court-Saint-Etienne;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.7565298507462687;1072
+25023;1490;Court-Saint-Etienne;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.05690298507462686;1072
+25031;1470;Genappe;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.3915094339622642;1696
+25031;1470;Genappe;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1191037735849057;1696
+25031;1470;Genappe;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.1515330188679245;1696
+25031;1470;Genappe;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.08077830188679246;1696
+25031;1470;Genappe;409;Charleroi;Clinique Notre-Dame de Grâce;0.06014150943396226;1696
+25037;1390;Grez-Doiceau;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.5565610859728507;1547
+25037;1390;Grez-Doiceau;322;Louvain;UZ Leuven;0.05882352941176471;1547
+25037;1390;Grez-Doiceau;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.07950872656755009;1547
+25037;1390;Grez-Doiceau;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1577246283128636;1547
+25043;1315;Incourt;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.3409090909090909;440
+25043;1315;Incourt;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.08636363636363636;440
+25043;1315;Incourt;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1227272727272727;440
+25043;1315;Incourt;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.07045454545454545;440
+25043;1315;Incourt;706;Namur;Clinique Saint-Luc;0.1659090909090909;440
+25044;1460;Ittre;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.1104972375690608;724
+25044;1460;Ittre;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.2292817679558011;724
+25044;1460;Ittre;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.3107734806629834;724
+25044;1460;Ittre;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.09806629834254144;724
+25044;1460;Ittre;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.07320441988950276;724
+25048;1370;Jodoigne;6;Namur;Centre Hospitalier Régional de Namur;0.05676855895196507;1374
+25048;1370;Jodoigne;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.264919941775837;1374
+25048;1370;Jodoigne;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.1135371179039301;1374
+25048;1370;Jodoigne;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.06186317321688501;1374
+25048;1370;Jodoigne;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07132459970887918;1374
+25048;1370;Jodoigne;706;Namur;Clinique Saint-Luc;0.1841339155749636;1374
+25050;1310;La Hulpe;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.3231788079470199;755
+25050;1310;La Hulpe;111;Uccle;Cliniques de l'Europe;0.08211920529801324;755
+25050;1310;La Hulpe;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.2529801324503311;755
+25050;1310;La Hulpe;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1006622516556291;755
+25050;1310;La Hulpe;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.05165562913907285;755
+25068;1435;Mont-Saint-Guibert;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.131062951496388;969
+25068;1435;Mont-Saint-Guibert;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.5851393188854489;969
+25068;1435;Mont-Saint-Guibert;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07739938080495357;969
+25072;1400;Nivelles;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.0682330222079176;3107
+25072;1400;Nivelles;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.07306083038300612;3107
+25072;1400;Nivelles;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.4750563244287094;3107
+25072;1400;Nivelles;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.126488574187319;3107
+25084;1360;Perwez;6;Namur;Centre Hospitalier Régional de Namur;0.1377171215880893;806
+25084;1360;Perwez;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.2332506203473945;806
+25084;1360;Perwez;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.196029776674938;806
+25084;1360;Perwez;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05210918114143921;806
+25084;1360;Perwez;706;Namur;Clinique Saint-Luc;0.2493796526054591;806
+25091;1330;Rixensart;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.5173431734317343;2710
+25091;1330;Rixensart;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.166789667896679;2710
+25091;1330;Rixensart;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1007380073800738;2710
+25105;1480;Tubize;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.0974342318934719;3079
+25105;1480;Tubize;79;Bruxelles;Institut Jules Bordet;0.05131536213056187;3079
+25105;1480;Tubize;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.1117245859045145;3079
+25105;1480;Tubize;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.1305618707372524;3079
+25105;1480;Tubize;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.2880805456316986;3079
+25105;1480;Tubize;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1325105553751218;3079
+25107;1495;Villers-la-Ville;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.3983315954118874;959
+25107;1495;Villers-la-Ville;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.05943691345151199;959
+25107;1495;Villers-la-Ville;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.1021897810218978;959
+25107;1495;Villers-la-Ville;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05526590198123045;959
+25107;1495;Villers-la-Ville;409;Charleroi;Clinique Notre-Dame de Grâce;0.1261730969760167;959
+25110;1410;Waterloo;111;Uccle;Cliniques de l'Europe;0.1387838231015421;3437
+25110;1410;Waterloo;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.4457375618271749;3437
+25110;1410;Waterloo;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1233633983124818;3437
+25110;1410;Waterloo;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1000872854233343;3437
+25112;1300;Wavre;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.6524973432518597;3764
+25112;1300;Wavre;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.07863974495217853;3764
+25112;1300;Wavre;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.08846971307120086;3764
+25117;1450;Chastre;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.5746987951807229;830
+25117;1450;Chastre;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.08433734939759036;830
+25117;1450;Chastre;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.05662650602409638;830
+25117;1450;Chastre;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.0963855421686747;830
+25117;1450;Chastre;706;Namur;Clinique Saint-Luc;0.05301204819277108;830
+25118;1357;Hélécine;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.1048158640226629;353
+25118;1357;Hélécine;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.3201133144475921;353
+25118;1357;Hélécine;322;Louvain;UZ Leuven;0.1444759206798867;353
+25118;1357;Hélécine;706;Namur;Clinique Saint-Luc;0.1189801699716714;353
+25119;1380;Lasne;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.2344559585492228;1544
+25119;1380;Lasne;111;Uccle;Cliniques de l'Europe;0.06347150259067358;1544
+25119;1380;Lasne;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.3413212435233161;1544
+25119;1380;Lasne;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1101036269430052;1544
+25119;1380;Lasne;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.06994818652849741;1544
+25120;1350;Orp-Jauche;6;Namur;Centre Hospitalier Régional de Namur;0.1028632025450689;943
+25120;1350;Orp-Jauche;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.1240721102863203;943
+25120;1350;Orp-Jauche;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.06680805938494168;943
+25120;1350;Orp-Jauche;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.07211028632025451;943
+25120;1350;Orp-Jauche;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1113467656415695;943
+25120;1350;Orp-Jauche;706;Namur;Clinique Saint-Luc;0.2651113467656416;943
+25121;1340;Ottignies-Louvain-la-Neuve;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.7203362431296476;3093
+25121;1340;Ottignies-Louvain-la-Neuve;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.06013579049466537;3093
+25121;1340;Ottignies-Louvain-la-Neuve;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07533139346912383;3093
+25122;1367;Ramillies;6;Namur;Centre Hospitalier Régional de Namur;0.1264367816091954;609
+25122;1367;Ramillies;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.1839080459770115;609
+25122;1367;Ramillies;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1264367816091954;609
+25122;1367;Ramillies;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.05254515599343185;609
+25122;1367;Ramillies;706;Namur;Clinique Saint-Luc;0.2807881773399015;609
+25123;1430;Rebecq;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.2238805970149254;1206
+25123;1430;Rebecq;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.0912106135986733;1206
+25123;1430;Rebecq;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.08540630182421227;1206
+25123;1430;Rebecq;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.2288557213930348;1206
+25123;1430;Rebecq;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1293532338308458;1206
+25124;1457;Walhain;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.5487421383647799;636
+25124;1457;Walhain;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1022012578616352;636
+25124;1457;Walhain;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.0959119496855346;636
+25124;1457;Walhain;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.08176100628930817;636
+31003;8730;Beernem;32;Eeklo;AZ Alma;0.2232510288065844;1944
+31003;8730;Beernem;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.279320987654321;1944
+31003;8730;Beernem;140;Bruges;AZ Sint-Lucas Brugge;0.3904320987654321;1944
+31004;8370;Blankenberge;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.3081411503195332;3599
+31004;8370;Blankenberge;392;Knokke-Heist;AZ Gezondheidszorg Oostkust;0.5648791330925257;3599
+31005;8000;Bruges;32;Eeklo;AZ Alma;0.05215787119856887;17888
+31005;8000;Bruges;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.5401945438282647;17888
+31005;8000;Bruges;140;Bruges;AZ Sint-Lucas Brugge;0.2912008050089445;17888
+31006;8340;Damme;32;Eeklo;AZ Alma;0.3870738636363636;1408
+31006;8340;Damme;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.3053977272727273;1408
+31006;8340;Damme;140;Bruges;AZ Sint-Lucas Brugge;0.1867897727272727;1408
+31006;8340;Damme;392;Knokke-Heist;AZ Gezondheidszorg Oostkust;0.06036931818181818;1408
+31012;8490;Jabbeke;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.6266163793103449;1856
+31012;8490;Jabbeke;140;Bruges;AZ Sint-Lucas Brugge;0.1519396551724138;1856
+31012;8490;Jabbeke;378;Torhout;AZ Sint-Rembert;0.05549568965517242;1856
+31012;8490;Jabbeke;525;Ostende;AZ Damiaan Oostende;0.0625;1856
+31022;8020;Oostkamp;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.2881152460984394;3332
+31022;8020;Oostkamp;140;Bruges;AZ Sint-Lucas Brugge;0.494297719087635;3332
+31022;8020;Oostkamp;378;Torhout;AZ Sint-Rembert;0.102641056422569;3332
+31033;8820;Torhout;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.088088351301604;3803
+31033;8820;Torhout;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.1141204312384959;3803
+31033;8820;Torhout;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.0925585064422824;3803
+31033;8820;Torhout;378;Torhout;AZ Sint-Rembert;0.5984748882461215;3803
+31040;8210;Zedelgem;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.2524624157594609;3858
+31040;8210;Zedelgem;140;Bruges;AZ Sint-Lucas Brugge;0.2807153965785381;3858
+31040;8210;Zedelgem;378;Torhout;AZ Sint-Rembert;0.3310005184033178;3858
+31042;8377;Zuienkerke;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.5664160401002506;399
+31042;8377;Zuienkerke;140;Bruges;AZ Sint-Lucas Brugge;0.1578947368421053;399
+31042;8377;Zuienkerke;392;Knokke-Heist;AZ Gezondheidszorg Oostkust;0.1979949874686717;399
+31043;8300;Knokke-Heist;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.1876495931067496;6267
+31043;8300;Knokke-Heist;392;Knokke-Heist;AZ Gezondheidszorg Oostkust;0.5653422690282431;6267
+32003;8600;Dixmude;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.1611619578193394;2513
+32003;8600;Dixmude;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.05411858336649423;2513
+32003;8600;Dixmude;57;Ypres;Jan Yperman Ziekenhuis;0.05809789096697174;2513
+32003;8600;Dixmude;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.2992439315559093;2513
+32003;8600;Dixmude;310;Furnes;AZ Sint-Augustinus Veurne;0.1567847194588142;2513
+32003;8600;Dixmude;378;Torhout;AZ Sint-Rembert;0.09271786709112614;2513
+32003;8600;Dixmude;525;Ostende;AZ Damiaan Oostende;0.09430959013131715;2513
+32006;8650;Houthulst;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.2197070572569907;1502
+32006;8650;Houthulst;57;Ypres;Jan Yperman Ziekenhuis;0.18508655126498;1502
+32006;8650;Houthulst;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.4653794940079893;1502
+32010;8680;Koekelare;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.09913506320691949;1503
+32010;8680;Koekelare;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.1377245508982036;1503
+32010;8680;Koekelare;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1630073186959415;1503
+32010;8680;Koekelare;378;Torhout;AZ Sint-Rembert;0.3712574850299401;1503
+32010;8680;Koekelare;525;Ostende;AZ Damiaan Oostende;0.1037924151696607;1503
+32011;8610;Kortemark;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.3344138303619665;1851
+32011;8610;Kortemark;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.3327930848190168;1851
+32011;8610;Kortemark;378;Torhout;AZ Sint-Rembert;0.2090761750405186;1851
+32030;8647;Lo-Reninge;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.06862745098039216;408
+32030;8647;Lo-Reninge;57;Ypres;Jan Yperman Ziekenhuis;0.4117647058823529;408
+32030;8647;Lo-Reninge;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1838235294117647;408
+32030;8647;Lo-Reninge;310;Furnes;AZ Sint-Augustinus Veurne;0.2205882352941176;408
+33011;8900;Ypres;57;Ypres;Jan Yperman Ziekenhuis;0.801530612244898;5880
+33011;8900;Ypres;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.07891156462585033;5880
+33016;8957;Messines;57;Ypres;Jan Yperman Ziekenhuis;0.7518796992481203;133
+33016;8957;Messines;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1353383458646616;133
+33021;8970;Poperinge;57;Ypres;Jan Yperman Ziekenhuis;0.7666440217391305;2944
+33021;8970;Poperinge;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1015625;2944
+33029;8940;Wervik;57;Ypres;Jan Yperman Ziekenhuis;0.2668463611859838;2597
+33029;8940;Wervik;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.5456295725837504;2597
+33029;8940;Wervik;396;Courtrai;AZ Groeninge;0.08971890643049672;2597
+33037;8980;Zonnebeke;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.11900915455035;1857
+33037;8980;Zonnebeke;57;Ypres;Jan Yperman Ziekenhuis;0.4453419493807216;1857
+33037;8980;Zonnebeke;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.3403338718362951;1857
+33039;8950;Heuvelland;57;Ypres;Jan Yperman Ziekenhuis;0.7721822541966427;1251
+33039;8950;Heuvelland;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.07913669064748201;1251
+33040;8920;Langemark-Poelkapelle;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.1252882398155265;1301
+33040;8920;Langemark-Poelkapelle;57;Ypres;Jan Yperman Ziekenhuis;0.5718677940046119;1301
+33040;8920;Langemark-Poelkapelle;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1921598770176787;1301
+33041;8640;Vleteren;57;Ypres;Jan Yperman Ziekenhuis;0.6654411764705882;544
+33041;8640;Vleteren;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1121323529411765;544
+33041;8640;Vleteren;310;Furnes;AZ Sint-Augustinus Veurne;0.05698529411764706;544
+33041;8640;Vleteren;396;Courtrai;AZ Groeninge;0.07904411764705882;544
+34002;8570;Anzegem;170;Audenarde;AZ Oudenaarde;0.09608938547486033;1790
+34002;8570;Anzegem;396;Courtrai;AZ Groeninge;0.282122905027933;1790
+34002;8570;Anzegem;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.3731843575418994;1790
+34002;8570;Anzegem;670;Gand;UZ Gent;0.07877094972067039;1790
+34003;8580;Avelgem;170;Audenarde;AZ Oudenaarde;0.2377109317681585;1363
+34003;8580;Avelgem;396;Courtrai;AZ Groeninge;0.3683052090975789;1363
+34003;8580;Avelgem;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.05796038151137197;1363
+34003;8580;Avelgem;550;Renaix;AZ Glorieux;0.1672780630961115;1363
+34009;8540;Deerlijk;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.06016597510373444;1446
+34009;8540;Deerlijk;396;Courtrai;AZ Groeninge;0.5394190871369294;1446
+34009;8540;Deerlijk;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.2240663900414938;1446
+34009;8540;Deerlijk;670;Gand;UZ Gent;0.05601659751037345;1446
+34013;8530;Harelbeke;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.07514285714285714;3500
+34013;8530;Harelbeke;124;Izegem;VZW Sint-Jozefskliniek;0.07428571428571429;3500
+34013;8530;Harelbeke;396;Courtrai;AZ Groeninge;0.672;3500
+34022;8500;Courtrai;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.05750971083297367;9268
+34022;8500;Courtrai;396;Courtrai;AZ Groeninge;0.8077255071212776;9268
+34023;8520;Kuurne;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.07669441141498216;1682
+34023;8520;Kuurne;396;Courtrai;AZ Groeninge;0.7675386444708681;1682
+34025;8860;Lendelede;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.07857911733046287;929
+34025;8860;Lendelede;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1743810548977395;929
+34025;8860;Lendelede;124;Izegem;VZW Sint-Jozefskliniek;0.5296017222820237;929
+34025;8860;Lendelede;396;Courtrai;AZ Groeninge;0.1431646932185145;929
+34027;8930;Menin;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.565913577538934;4559
+34027;8930;Menin;396;Courtrai;AZ Groeninge;0.2434744461504716;4559
+34040;8790;Waregem;396;Courtrai;AZ Groeninge;0.2097250624857987;4401
+34040;8790;Waregem;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.5071574642126789;4401
+34040;8790;Waregem;670;Gand;UZ Gent;0.08384458077709611;4401
+34041;8560;Wevelgem;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.2545638945233266;3944
+34041;8560;Wevelgem;396;Courtrai;AZ Groeninge;0.5844320486815415;3944
+34042;8550;Zwevegem;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.05009633911368015;3114
+34042;8550;Zwevegem;396;Courtrai;AZ Groeninge;0.7488760436737315;3114
+34043;8587;Espierres-Helchin;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.06463878326996197;263
+34043;8587;Espierres-Helchin;247;Mouscron;Centre Hospitalier de Mouscron;0.1901140684410646;263
+34043;8587;Espierres-Helchin;396;Courtrai;AZ Groeninge;0.596958174904943;263
+35002;8450;Bredene;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.1041189931350114;2622
+35002;8450;Bredene;67;Ostende;Henri Serruys Ziekenhuis;0.2879481311975591;2622
+35002;8450;Bredene;525;Ostende;AZ Damiaan Oostende;0.4977116704805492;2622
+35005;8470;Gistel;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.1194117647058824;1700
+35005;8470;Gistel;67;Ostende;Henri Serruys Ziekenhuis;0.1994117647058823;1700
+35005;8470;Gistel;378;Torhout;AZ Sint-Rembert;0.0811764705882353;1700
+35005;8470;Gistel;525;Ostende;AZ Damiaan Oostende;0.4582352941176471;1700
+35006;8480;Ichtegem;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.05267702936096719;2316
+35006;8480;Ichtegem;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.1498272884283247;2316
+35006;8480;Ichtegem;67;Ostende;Henri Serruys Ziekenhuis;0.05699481865284974;2316
+35006;8480;Ichtegem;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.06044905008635579;2316
+35006;8480;Ichtegem;378;Torhout;AZ Sint-Rembert;0.3739205526770293;2316
+35006;8480;Ichtegem;525;Ostende;AZ Damiaan Oostende;0.2154576856649396;2316
+35011;8430;Middelkerke;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.07596807567248005;3383
+35011;8430;Middelkerke;67;Ostende;Henri Serruys Ziekenhuis;0.1953887082471179;3383
+35011;8430;Middelkerke;310;Furnes;AZ Sint-Augustinus Veurne;0.06089269878805793;3383
+35011;8430;Middelkerke;525;Ostende;AZ Damiaan Oostende;0.4871415903044635;3383
+35013;8400;Ostende;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.08682544467892674;13268
+35013;8400;Ostende;67;Ostende;Henri Serruys Ziekenhuis;0.3482062104311124;13268
+35013;8400;Ostende;525;Ostende;AZ Damiaan Oostende;0.4598281579740729;13268
+35014;8460;Oudenburg;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.1704225352112676;1420
+35014;8460;Oudenburg;67;Ostende;Henri Serruys Ziekenhuis;0.1845070422535211;1420
+35014;8460;Oudenburg;525;Ostende;AZ Damiaan Oostende;0.5288732394366197;1420
+35029;8420;De Haan;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.3372943327239488;2188
+35029;8420;De Haan;67;Ostende;Henri Serruys Ziekenhuis;0.09826325411334552;2188
+35029;8420;De Haan;392;Knokke-Heist;AZ Gezondheidszorg Oostkust;0.2212065813528336;2188
+35029;8420;De Haan;525;Ostende;AZ Damiaan Oostende;0.170018281535649;2188
+36006;8830;Hooglede;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.4892835272504593;1633
+36006;8830;Hooglede;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.4127372933251684;1633
+36007;8770;Ingelmunster;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.08555858310626703;1835
+36007;8770;Ingelmunster;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1460490463215259;1835
+36007;8770;Ingelmunster;124;Izegem;VZW Sint-Jozefskliniek;0.5961852861035423;1835
+36007;8770;Ingelmunster;395;Tielt;Sint-Andriesziekenhuis;0.05449591280653951;1835
+36008;8870;Izegem;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.1013306038894575;4885
+36008;8870;Izegem;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.193654042988741;4885
+36008;8870;Izegem;124;Izegem;VZW Sint-Jozefskliniek;0.6106448311156601;4885
+36010;8880;Ledegem;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.1303173531397704;1481
+36010;8880;Ledegem;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.4679270762997974;1481
+36010;8880;Ledegem;124;Izegem;VZW Sint-Jozefskliniek;0.2194463200540176;1481
+36010;8880;Ledegem;396;Courtrai;AZ Groeninge;0.09182984469952735;1481
+36011;8810;Lichtervelde;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.3626373626373626;1456
+36011;8810;Lichtervelde;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.2788461538461539;1456
+36011;8810;Lichtervelde;378;Torhout;AZ Sint-Rembert;0.1895604395604396;1456
+36012;8890;Moorslede;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.314333148865523;1807
+36012;8890;Moorslede;57;Ypres;Jan Yperman Ziekenhuis;0.05589374654122856;1807
+36012;8890;Moorslede;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.5522966242390703;1807
+36015;8800;Roulers;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.4062247372675828;9896
+36015;8800;Roulers;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.4785772029102668;9896
+36019;8840;Staden;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.357931435212086;1721
+36019;8840;Staden;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.5398024404416037;1721
+37002;8720;Dentergem;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1253153910849453;1189
+37002;8720;Dentergem;134;Deinze;Sint-Vincentiusziekenhuis;0.1269974768713204;1189
+37002;8720;Dentergem;395;Tielt;Sint-Andriesziekenhuis;0.3666947014297729;1189
+37002;8720;Dentergem;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.2052144659377628;1189
+37002;8720;Dentergem;670;Gand;UZ Gent;0.06139613120269134;1189
+37007;8760;Meulebeke;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.08495145631067962;1648
+37007;8760;Meulebeke;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1595873786407767;1648
+37007;8760;Meulebeke;124;Izegem;VZW Sint-Jozefskliniek;0.1759708737864078;1648
+37007;8760;Meulebeke;395;Tielt;Sint-Andriesziekenhuis;0.4441747572815534;1648
+37010;8780;Oostrozebeke;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.05772646536412078;1126
+37010;8780;Oostrozebeke;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1074600355239787;1126
+37010;8780;Oostrozebeke;124;Izegem;VZW Sint-Jozefskliniek;0.2539964476021314;1126
+37010;8780;Oostrozebeke;395;Tielt;Sint-Andriesziekenhuis;0.3383658969804618;1126
+37010;8780;Oostrozebeke;396;Courtrai;AZ Groeninge;0.0586145648312611;1126
+37010;8780;Oostrozebeke;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.09857904085257549;1126
+37011;8740;Pittem;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.1025641025641026;1209
+37011;8740;Pittem;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.2125723738626965;1209
+37011;8740;Pittem;395;Tielt;Sint-Andriesziekenhuis;0.5624483043837882;1209
+37012;8755;Ruiselede;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.05438401775804662;901
+37012;8755;Ruiselede;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.07769145394006659;901
+37012;8755;Ruiselede;134;Deinze;Sint-Vincentiusziekenhuis;0.1009988901220866;901
+37012;8755;Ruiselede;395;Tielt;Sint-Andriesziekenhuis;0.5738068812430632;901
+37015;8700;Tielt;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.08652440806781643;3421
+37015;8700;Tielt;395;Tielt;Sint-Andriesziekenhuis;0.6916106401636948;3421
+37017;8710;Wielsbeke;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1008620689655172;1160
+37017;8710;Wielsbeke;124;Izegem;VZW Sint-Jozefskliniek;0.06206896551724138;1160
+37017;8710;Wielsbeke;395;Tielt;Sint-Andriesziekenhuis;0.1094827586206897;1160
+37017;8710;Wielsbeke;396;Courtrai;AZ Groeninge;0.1577586206896552;1160
+37017;8710;Wielsbeke;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.4336206896551724;1160
+37018;8750;Wingene;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.07156133828996282;2152
+37018;8750;Wingene;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.07063197026022305;2152
+37018;8750;Wingene;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.2002788104089219;2152
+37018;8750;Wingene;140;Bruges;AZ Sint-Lucas Brugge;0.07853159851301116;2152
+37018;8750;Wingene;395;Tielt;Sint-Andriesziekenhuis;0.4553903345724907;2152
+37020;8850;Ardooie;2;Roulers;Stedelijk Ziekenhuis Roeselare;0.3655462184873949;1428
+37020;8850;Ardooie;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.3851540616246499;1428
+37020;8850;Ardooie;124;Izegem;VZW Sint-Jozefskliniek;0.09663865546218488;1428
+37020;8850;Ardooie;395;Tielt;Sint-Andriesziekenhuis;0.07072829131652661;1428
+38002;8690;Alveringem;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.08542713567839195;796
+38002;8690;Alveringem;57;Ypres;Jan Yperman Ziekenhuis;0.2374371859296482;796
+38002;8690;Alveringem;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1168341708542714;796
+38002;8690;Alveringem;310;Furnes;AZ Sint-Augustinus Veurne;0.4258793969849246;796
+38008;8660;La Panne;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.07830188679245283;2120
+38008;8660;La Panne;310;Furnes;AZ Sint-Augustinus Veurne;0.6943396226415094;2120
+38014;8670;Koksijde;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.0636604774535809;3770
+38014;8670;Koksijde;310;Furnes;AZ Sint-Augustinus Veurne;0.596551724137931;3770
+38014;8670;Koksijde;525;Ostende;AZ Damiaan Oostende;0.07877984084880636;3770
+38016;8620;Nieuport;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.08995265649658074;1901
+38016;8620;Nieuport;67;Ostende;Henri Serruys Ziekenhuis;0.08311415044713309;1901
+38016;8620;Nieuport;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.0625986322987901;1901
+38016;8620;Nieuport;310;Furnes;AZ Sint-Augustinus Veurne;0.3619147816938453;1901
+38016;8620;Nieuport;525;Ostende;AZ Damiaan Oostende;0.244608100999474;1901
+38025;8630;Furnes;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.06682926829268293;2050
+38025;8630;Furnes;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.06975609756097562;2050
+38025;8630;Furnes;310;Furnes;AZ Sint-Augustinus Veurne;0.735609756097561;2050
+41002;9300;Alost;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.4121969140337987;12249
+41002;9300;Alost;176;Alost;Algemeen Stedelijk Ziekenhuis;0.4366887092823904;12249
+41011;9470;Denderleeuw;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.4655105973025048;2595
+41011;9470;Denderleeuw;176;Alost;Algemeen Stedelijk Ziekenhuis;0.3522157996146436;2595
+41018;9500;Grammont;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.09065205866760911;5659
+41018;9500;Grammont;176;Alost;Algemeen Stedelijk Ziekenhuis;0.56547093125994;5659
+41018;9500;Grammont;217;Zottegem;AZ Sint-Elisabeth;0.2085174059021029;5659
+41018;9500;Grammont;670;Gand;UZ Gent;0.05089238381339459;5659
+41024;9450;Haaltert;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.3677867056245435;2738
+41024;9450;Haaltert;176;Alost;Algemeen Stedelijk Ziekenhuis;0.4667640613586559;2738
+41027;9550;Herzele;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.08871234690499835;3021
+41027;9550;Herzele;176;Alost;Algemeen Stedelijk Ziekenhuis;0.08341608738828203;3021
+41027;9550;Herzele;217;Zottegem;AZ Sint-Elisabeth;0.6133730552797088;3021
+41027;9550;Herzele;670;Gand;UZ Gent;0.1300893743793446;3021
+41034;9340;Lede;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.2788388082505729;2618
+41034;9340;Lede;176;Alost;Algemeen Stedelijk Ziekenhuis;0.5278838808250573;2618
+41034;9340;Lede;670;Gand;UZ Gent;0.05309396485867074;2618
+41048;9400;Ninove;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.5226149056949276;5461
+41048;9400;Ninove;176;Alost;Algemeen Stedelijk Ziekenhuis;0.2386009888298846;5461
+41048;9400;Ninove;217;Zottegem;AZ Sint-Elisabeth;0.09009338948910456;5461
+41063;9520;Sint-Lievens-Houtem;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.1263089005235602;1528
+41063;9520;Sint-Lievens-Houtem;176;Alost;Algemeen Stedelijk Ziekenhuis;0.1845549738219895;1528
+41063;9520;Sint-Lievens-Houtem;217;Zottegem;AZ Sint-Elisabeth;0.4463350785340314;1528
+41063;9520;Sint-Lievens-Houtem;670;Gand;UZ Gent;0.1328534031413613;1528
+41081;9620;Zottegem;217;Zottegem;AZ Sint-Elisabeth;0.7613689639006095;4266
+41081;9620;Zottegem;670;Gand;UZ Gent;0.08931082981715893;4266
+41082;9420;Erpe-Mere;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.2533875338753387;2952
+41082;9420;Erpe-Mere;176;Alost;Algemeen Stedelijk Ziekenhuis;0.5335365853658537;2952
+41082;9420;Erpe-Mere;217;Zottegem;AZ Sint-Elisabeth;0.07892953929539295;2952
+41082;9420;Erpe-Mere;670;Gand;UZ Gent;0.06029810298102981;2952
+42003;9290;Berlare;12;Termonde;AZ Sint-Blasius;0.4311594202898551;2208
+42003;9290;Berlare;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.1114130434782609;2208
+42003;9290;Berlare;176;Alost;Algemeen Stedelijk Ziekenhuis;0.1757246376811594;2208
+42003;9290;Berlare;265;Lokeren;AZ Lokeren;0.07110507246376811;2208
+42003;9290;Berlare;670;Gand;UZ Gent;0.07427536231884058;2208
+42004;9255;Buggenhout;12;Termonde;AZ Sint-Blasius;0.6313111545988258;2555
+42004;9255;Buggenhout;104;Bornem;Sint-Jozefkliniek;0.09158512720156556;2555
+42004;9255;Buggenhout;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.08140900195694717;2555
+42006;9200;Termonde;12;Termonde;AZ Sint-Blasius;0.735922804446073;8187
+42006;9200;Termonde;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.07841700256504214;8187
+42008;9220;Hamme (Flandre orientale);12;Termonde;AZ Sint-Blasius;0.4052403968455864;3931
+42008;9220;Hamme (Flandre orientale);595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.4281353345204783;3931
+42010;9270;Laarne;17;Gand;AZ Maria Middelares;0.1790960451977401;1770
+42010;9270;Laarne;176;Alost;Algemeen Stedelijk Ziekenhuis;0.2858757062146893;1770
+42010;9270;Laarne;290;Gand;AZ Sint-Lucas;0.196045197740113;1770
+42010;9270;Laarne;670;Gand;UZ Gent;0.1853107344632768;1770
+42011;9280;Lebbeke;12;Termonde;AZ Sint-Blasius;0.5868561278863232;2815
+42011;9280;Lebbeke;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.1992895204262878;2815
+42023;9250;Waasmunster;12;Termonde;AZ Sint-Blasius;0.06942752740560293;1642
+42023;9250;Waasmunster;265;Lokeren;AZ Lokeren;0.08343483556638245;1642
+42023;9250;Waasmunster;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.6236297198538368;1642
+42023;9250;Waasmunster;670;Gand;UZ Gent;0.0779537149817296;1642
+42025;9230;Wetteren;17;Gand;AZ Maria Middelares;0.09296724470134875;4152
+42025;9230;Wetteren;176;Alost;Algemeen Stedelijk Ziekenhuis;0.5799614643545279;4152
+42025;9230;Wetteren;290;Gand;AZ Sint-Lucas;0.07345857418111754;4152
+42025;9230;Wetteren;670;Gand;UZ Gent;0.1213872832369942;4152
+42026;9260;Wichelen;12;Termonde;AZ Sint-Blasius;0.08359957401490947;1878
+42026;9260;Wichelen;17;Gand;AZ Maria Middelares;0.05271565495207668;1878
+42026;9260;Wichelen;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.1198083067092652;1878
+42026;9260;Wichelen;176;Alost;Algemeen Stedelijk Ziekenhuis;0.5228966986155484;1878
+42026;9260;Wichelen;670;Gand;UZ Gent;0.09424920127795527;1878
+42028;9240;Zele;12;Termonde;AZ Sint-Blasius;0.574326369966697;3303
+42028;9240;Zele;265;Lokeren;AZ Lokeren;0.1531940660006055;3303
+42028;9240;Zele;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.07508325764456554;3303
+42028;9240;Zele;670;Gand;UZ Gent;0.06418407508325764;3303
+43002;9960;Assenede;32;Eeklo;AZ Alma;0.5533154121863799;2232
+43002;9960;Assenede;290;Gand;AZ Sint-Lucas;0.2410394265232975;2232
+43002;9960;Assenede;670;Gand;UZ Gent;0.1075268817204301;2232
+43005;9900;Eeklo;32;Eeklo;AZ Alma;0.7417783191230207;3284
+43005;9900;Eeklo;290;Gand;AZ Sint-Lucas;0.05602923264311815;3284
+43005;9900;Eeklo;670;Gand;UZ Gent;0.08587088915956151;3284
+43007;9970;Kaprijke;32;Eeklo;AZ Alma;0.7192982456140351;969
+43007;9970;Kaprijke;290;Gand;AZ Sint-Lucas;0.1011351909184727;969
+43007;9970;Kaprijke;670;Gand;UZ Gent;0.0846233230134159;969
+43010;9990;Maldegem;32;Eeklo;AZ Alma;0.5785690950669716;3061
+43010;9990;Maldegem;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.1545246651421104;3061
+43010;9990;Maldegem;140;Bruges;AZ Sint-Lucas Brugge;0.1247958183600131;3061
+43014;9980;Sint-Laureins;32;Eeklo;AZ Alma;0.6949685534591195;954
+43014;9980;Sint-Laureins;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.05450733752620545;954
+43014;9980;Sint-Laureins;670;Gand;UZ Gent;0.09853249475890985;954
+43018;9060;Zelzate;32;Eeklo;AZ Alma;0.2472915685350918;2123
+43018;9060;Zelzate;290;Gand;AZ Sint-Lucas;0.5308525671219971;2123
+43018;9060;Zelzate;670;Gand;UZ Gent;0.1125765426283561;2123
+44001;9880;Aalter;17;Gand;AZ Maria Middelares;0.08194343727338652;2758
+44001;9880;Aalter;32;Eeklo;AZ Alma;0.1711385061638869;2758
+44001;9880;Aalter;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.0775924583031182;2758
+44001;9880;Aalter;134;Deinze;Sint-Vincentiusziekenhuis;0.1182015953589558;2758
+44001;9880;Aalter;140;Bruges;AZ Sint-Lucas Brugge;0.06091370558375635;2758
+44001;9880;Aalter;395;Tielt;Sint-Andriesziekenhuis;0.2313270485859318;2758
+44001;9880;Aalter;670;Gand;UZ Gent;0.1138506163886875;2758
+44011;9800;Deinze;17;Gand;AZ Maria Middelares;0.1420599860497559;4301
+44011;9800;Deinze;134;Deinze;Sint-Vincentiusziekenhuis;0.5735875377819112;4301
+44011;9800;Deinze;670;Gand;UZ Gent;0.1176470588235294;4301
+44012;9840;De Pinte;17;Gand;AZ Maria Middelares;0.4445993031358885;1435
+44012;9840;De Pinte;170;Audenarde;AZ Oudenaarde;0.05435540069686411;1435
+44012;9840;De Pinte;290;Gand;AZ Sint-Lucas;0.1337979094076655;1435
+44012;9840;De Pinte;670;Gand;UZ Gent;0.1881533101045296;1435
+44012;9840;De Pinte;713;Gand;AZ Jan Palfijn Gent;0.06898954703832752;1435
+44013;9070;Destelbergen;17;Gand;AZ Maria Middelares;0.3433734939759036;2490
+44013;9070;Destelbergen;290;Gand;AZ Sint-Lucas;0.2959839357429719;2490
+44013;9070;Destelbergen;670;Gand;UZ Gent;0.1775100401606426;2490
+44013;9070;Destelbergen;713;Gand;AZ Jan Palfijn Gent;0.09196787148594378;2490
+44019;9940;Evergem;17;Gand;AZ Maria Middelares;0.09821428571428571;5040
+44019;9940;Evergem;32;Eeklo;AZ Alma;0.1831349206349206;5040
+44019;9940;Evergem;290;Gand;AZ Sint-Lucas;0.5357142857142857;5040
+44019;9940;Evergem;670;Gand;UZ Gent;0.0880952380952381;5040
+44019;9940;Evergem;713;Gand;AZ Jan Palfijn Gent;0.06130952380952381;5040
+44020;9890;Gavere;17;Gand;AZ Maria Middelares;0.2818599311136625;1742
+44020;9890;Gavere;134;Deinze;Sint-Vincentiusziekenhuis;0.060849598163031;1742
+44020;9890;Gavere;170;Audenarde;AZ Oudenaarde;0.1727898966704937;1742
+44020;9890;Gavere;217;Zottegem;AZ Sint-Elisabeth;0.1630309988518944;1742
+44020;9890;Gavere;290;Gand;AZ Sint-Lucas;0.06027554535017222;1742
+44020;9890;Gavere;670;Gand;UZ Gent;0.1796785304247991;1742
+44021;9000;Gand;17;Gand;AZ Maria Middelares;0.2039477774323904;32170
+44021;9000;Gand;290;Gand;AZ Sint-Lucas;0.3999689151383276;32170
+44021;9000;Gand;670;Gand;UZ Gent;0.1507926639726453;32170
+44021;9000;Gand;713;Gand;AZ Jan Palfijn Gent;0.189027043829655;32170
+44029;9910;Knesselare;32;Eeklo;AZ Alma;0.4292682926829268;1230
+44029;9910;Knesselare;49;Bruges;AZ Sint-Jan Brugge-Oostende AV;0.07073170731707316;1230
+44029;9910;Knesselare;140;Bruges;AZ Sint-Lucas Brugge;0.1902439024390244;1230
+44029;9910;Knesselare;670;Gand;UZ Gent;0.1048780487804878;1230
+44034;9080;Lochristi;17;Gand;AZ Maria Middelares;0.1560093739537998;2987
+44034;9080;Lochristi;265;Lokeren;AZ Lokeren;0.06160026782725142;2987
+44034;9080;Lochristi;290;Gand;AZ Sint-Lucas;0.4707063943756277;2987
+44034;9080;Lochristi;670;Gand;UZ Gent;0.1459658520254436;2987
+44034;9080;Lochristi;713;Gand;AZ Jan Palfijn Gent;0.05992634750585872;2987
+44036;9920;Lovendegem;17;Gand;AZ Maria Middelares;0.1573676680972818;1398
+44036;9920;Lovendegem;32;Eeklo;AZ Alma;0.1301859799713877;1398
+44036;9920;Lovendegem;290;Gand;AZ Sint-Lucas;0.4535050071530758;1398
+44036;9920;Lovendegem;670;Gand;UZ Gent;0.1208869814020029;1398
+44036;9920;Lovendegem;713;Gand;AZ Jan Palfijn Gent;0.111587982832618;1398
+44040;9090;Melle;17;Gand;AZ Maria Middelares;0.378291586384072;1557
+44040;9090;Melle;176;Alost;Algemeen Stedelijk Ziekenhuis;0.07129094412331406;1557
+44040;9090;Melle;290;Gand;AZ Sint-Lucas;0.2723185613359024;1557
+44040;9090;Melle;670;Gand;UZ Gent;0.1502890173410405;1557
+44040;9090;Melle;713;Gand;AZ Jan Palfijn Gent;0.07000642260757868;1557
+44043;9820;Merelbeke;17;Gand;AZ Maria Middelares;0.4262295081967213;2928
+44043;9820;Merelbeke;290;Gand;AZ Sint-Lucas;0.1775956284153005;2928
+44043;9820;Merelbeke;670;Gand;UZ Gent;0.2079918032786885;2928
+44043;9820;Merelbeke;713;Gand;AZ Jan Palfijn Gent;0.07240437158469945;2928
+44045;9180;Moerbeke-Waas;265;Lokeren;AZ Lokeren;0.245859872611465;785
+44045;9180;Moerbeke-Waas;290;Gand;AZ Sint-Lucas;0.1770700636942675;785
+44045;9180;Moerbeke-Waas;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.3719745222929936;785
+44045;9180;Moerbeke-Waas;670;Gand;UZ Gent;0.06878980891719745;785
+44048;9810;Nazareth;17;Gand;AZ Maria Middelares;0.2938775510204082;1715
+44048;9810;Nazareth;134;Deinze;Sint-Vincentiusziekenhuis;0.2769679300291545;1715
+44048;9810;Nazareth;170;Audenarde;AZ Oudenaarde;0.05830903790087463;1715
+44048;9810;Nazareth;290;Gand;AZ Sint-Lucas;0.1137026239067055;1715
+44048;9810;Nazareth;670;Gand;UZ Gent;0.153935860058309;1715
+44049;9850;Nevele;17;Gand;AZ Maria Middelares;0.2651515151515151;1584
+44049;9850;Nevele;134;Deinze;Sint-Vincentiusziekenhuis;0.3383838383838384;1584
+44049;9850;Nevele;290;Gand;AZ Sint-Lucas;0.1180555555555556;1584
+44049;9850;Nevele;670;Gand;UZ Gent;0.1174242424242424;1584
+44049;9850;Nevele;713;Gand;AZ Jan Palfijn Gent;0.05176767676767677;1584
+44052;9860;Oosterzele;17;Gand;AZ Maria Middelares;0.08847736625514403;1944
+44052;9860;Oosterzele;176;Alost;Algemeen Stedelijk Ziekenhuis;0.0668724279835391;1944
+44052;9860;Oosterzele;217;Zottegem;AZ Sint-Elisabeth;0.492283950617284;1944
+44052;9860;Oosterzele;290;Gand;AZ Sint-Lucas;0.08487654320987655;1944
+44052;9860;Oosterzele;670;Gand;UZ Gent;0.1851851851851852;1944
+44064;9830;Sint-Martens-Latem;17;Gand;AZ Maria Middelares;0.3272727272727273;1155
+44064;9830;Sint-Martens-Latem;134;Deinze;Sint-Vincentiusziekenhuis;0.09956709956709957;1155
+44064;9830;Sint-Martens-Latem;290;Gand;AZ Sint-Lucas;0.1852813852813853;1155
+44064;9830;Sint-Martens-Latem;670;Gand;UZ Gent;0.2025974025974026;1155
+44064;9830;Sint-Martens-Latem;713;Gand;AZ Jan Palfijn Gent;0.08225108225108226;1155
+44072;9950;Waarschoot;17;Gand;AZ Maria Middelares;0.05155555555555556;1125
+44072;9950;Waarschoot;32;Eeklo;AZ Alma;0.624;1125
+44072;9950;Waarschoot;290;Gand;AZ Sint-Lucas;0.1404444444444445;1125
+44072;9950;Waarschoot;670;Gand;UZ Gent;0.1093333333333333;1125
+44073;9185;Wachtebeke;17;Gand;AZ Maria Middelares;0.07072515666965085;1117
+44073;9185;Wachtebeke;32;Eeklo;AZ Alma;0.09221128021486123;1117
+44073;9185;Wachtebeke;290;Gand;AZ Sint-Lucas;0.5711727842435094;1117
+44073;9185;Wachtebeke;670;Gand;UZ Gent;0.1521933751119069;1117
+44080;9930;Zomergem;17;Gand;AZ Maria Middelares;0.07748776508972267;1226
+44080;9930;Zomergem;32;Eeklo;AZ Alma;0.4592169657422512;1226
+44080;9930;Zomergem;290;Gand;AZ Sint-Lucas;0.2716150081566068;1226
+44080;9930;Zomergem;670;Gand;UZ Gent;0.08238172920065252;1226
+44080;9930;Zomergem;713;Gand;AZ Jan Palfijn Gent;0.07177814029363784;1226
+44081;9870;Zulte;134;Deinze;Sint-Vincentiusziekenhuis;0.3973192915270464;2089
+44081;9870;Zulte;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.2786022020105314;2089
+44081;9870;Zulte;670;Gand;UZ Gent;0.1110579224509335;2089
+45017;9770;Kruishoutem;17;Gand;AZ Maria Middelares;0.08979947689625109;1147
+45017;9770;Kruishoutem;134;Deinze;Sint-Vincentiusziekenhuis;0.2659110723626852;1147
+45017;9770;Kruishoutem;170;Audenarde;AZ Oudenaarde;0.0985178727114211;1147
+45017;9770;Kruishoutem;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.2711421098517873;1147
+45017;9770;Kruishoutem;670;Gand;UZ Gent;0.1054925893635571;1147
+45035;9700;Audenarde;170;Audenarde;AZ Oudenaarde;0.5751555287979129;4983
+45035;9700;Audenarde;550;Renaix;AZ Glorieux;0.1420830824804335;4983
+45035;9700;Audenarde;670;Gand;UZ Gent;0.1067629941802127;4983
+45041;9600;Renaix;170;Audenarde;AZ Oudenaarde;0.05211231975714647;3953
+45041;9600;Renaix;550;Renaix;AZ Glorieux;0.7275486971920061;3953
+45041;9600;Renaix;670;Gand;UZ Gent;0.05464204401720212;3953
+45057;9750;Zingem;17;Gand;AZ Maria Middelares;0.1321266968325792;1105
+45057;9750;Zingem;134;Deinze;Sint-Vincentiusziekenhuis;0.1004524886877828;1105
+45057;9750;Zingem;170;Audenarde;AZ Oudenaarde;0.43710407239819;1105
+45057;9750;Zingem;217;Zottegem;AZ Sint-Elisabeth;0.06063348416289593;1105
+45057;9750;Zingem;670;Gand;UZ Gent;0.1149321266968326;1105
+45059;9660;Brakel;176;Alost;Algemeen Stedelijk Ziekenhuis;0.07553648068669527;2330
+45059;9660;Brakel;217;Zottegem;AZ Sint-Elisabeth;0.4244635193133047;2330
+45059;9660;Brakel;550;Renaix;AZ Glorieux;0.2793991416309013;2330
+45059;9660;Brakel;670;Gand;UZ Gent;0.07939914163090128;2330
+45060;9690;Kluisbergen;170;Audenarde;AZ Oudenaarde;0.4135922330097088;1030
+45060;9690;Kluisbergen;550;Renaix;AZ Glorieux;0.3601941747572815;1030
+45060;9690;Kluisbergen;670;Gand;UZ Gent;0.05533980582524272;1030
+45061;9790;Wortegem-Petegem;170;Audenarde;AZ Oudenaarde;0.4332247557003258;921
+45061;9790;Wortegem-Petegem;396;Courtrai;AZ Groeninge;0.06297502714440825;921
+45061;9790;Wortegem-Petegem;397;Waregem;OLV van Lourdesziekenhuis Waregem;0.1704668838219327;921
+45061;9790;Wortegem-Petegem;550;Renaix;AZ Glorieux;0.08034744842562432;921
+45061;9790;Wortegem-Petegem;670;Gand;UZ Gent;0.08577633007600434;921
+45062;9667;Horebeke;170;Audenarde;AZ Oudenaarde;0.3705882352941177;340
+45062;9667;Horebeke;217;Zottegem;AZ Sint-Elisabeth;0.2205882352941176;340
+45062;9667;Horebeke;550;Renaix;AZ Glorieux;0.2029411764705882;340
+45062;9667;Horebeke;670;Gand;UZ Gent;0.1176470588235294;340
+45063;9570;Lierde;126;Alost;Onze-Lieve-Vrouwziekenhuis;0.06120527306967985;1062
+45063;9570;Lierde;176;Alost;Algemeen Stedelijk Ziekenhuis;0.1930320150659134;1062
+45063;9570;Lierde;217;Zottegem;AZ Sint-Elisabeth;0.588512241054614;1062
+45064;9680;Maarkedal;170;Audenarde;AZ Oudenaarde;0.3076049943246311;881
+45064;9680;Maarkedal;550;Renaix;AZ Glorieux;0.5130533484676504;881
+45065;9630;Zwalm;170;Audenarde;AZ Oudenaarde;0.1364392678868552;1202
+45065;9630;Zwalm;217;Zottegem;AZ Sint-Elisabeth;0.5457570715474209;1202
+45065;9630;Zwalm;670;Gand;UZ Gent;0.1089850249584027;1202
+46003;9120;Beveren-Waas;9;Anvers;Ziekenhuisnetwerk Antwerpen;0.06296829971181556;6940
+46003;9120;Beveren-Waas;99;Anvers;AZ Sint-Augustinus;0.1442363112391931;6940
+46003;9120;Beveren-Waas;100;Anvers;Sint-Vincentiusziekenhuis;0.05763688760806916;6940
+46003;9120;Beveren-Waas;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.5953890489913545;6940
+46013;9150;Kruibeke;99;Anvers;AZ Sint-Augustinus;0.09330236159504453;2583
+46013;9150;Kruibeke;104;Bornem;Sint-Jozefkliniek;0.05303910181958962;2583
+46013;9150;Kruibeke;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.6318234610917538;2583
+46014;9160;Lokeren;12;Termonde;AZ Sint-Blasius;0.05972696245733788;5274
+46014;9160;Lokeren;265;Lokeren;AZ Lokeren;0.4489950701554797;5274
+46014;9160;Lokeren;290;Gand;AZ Sint-Lucas;0.1004929844520288;5274
+46014;9160;Lokeren;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.1744406522563519;5274
+46014;9160;Lokeren;670;Gand;UZ Gent;0.1295032233598787;5274
+46020;9170;Sint-Gillis-Waas;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.7735001604106513;3117
+46021;9100;Saint-Nicolas (Flandre orienta;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.799907063197026;10760
+46024;9190;Stekene;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.7667052916183855;2589
+46025;9140;Tamise;104;Bornem;Sint-Jozefkliniek;0.09424201529464687;4446
+46025;9140;Tamise;595;Saint-Nicolas (Flandre orienta;AZ Nikolaas;0.7033288349077823;4446
+51004;7800;Ath;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.066067806432918;3451
+51004;7800;Ath;724;Ath;RHMS - Hôpital de la Madeleine;0.5105766444508838;3451
+51008;7970;Belœil;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.1530424093423479;1627
+51008;7970;Belœil;71;Tournai;Centre Hospitalier de Wallonie picarde;0.1333743085433313;1627
+51008;7970;Belœil;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.08358942839582052;1627
+51008;7970;Belœil;724;Ath;RHMS - Hôpital de la Madeleine;0.1905347264904733;1627
+51008;7970;Belœil;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.2028272894898586;1627
+51009;7320;Bernissart;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.1409594095940959;1355
+51009;7320;Bernissart;71;Tournai;Centre Hospitalier de Wallonie picarde;0.1409594095940959;1355
+51009;7320;Bernissart;254;Mons;CHU Ambroise Paré;0.05904059040590406;1355
+51009;7320;Bernissart;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.08634686346863468;1355
+51009;7320;Bernissart;410;Boussu;Centre Hospitalier Hornu-Frameries;0.07306273062730627;1355
+51009;7320;Bernissart;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.05239852398523985;1355
+51009;7320;Bernissart;724;Ath;RHMS - Hôpital de la Madeleine;0.09225092250922509;1355
+51009;7320;Bernissart;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.2678966789667896;1355
+51012;7940;Brugelette;71;Tournai;Centre Hospitalier de Wallonie picarde;0.05398457583547558;389
+51012;7940;Brugelette;254;Mons;CHU Ambroise Paré;0.05912596401028278;389
+51012;7940;Brugelette;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.05141388174807198;389
+51012;7940;Brugelette;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.05398457583547558;389
+51012;7940;Brugelette;724;Ath;RHMS - Hôpital de la Madeleine;0.5295629820051414;389
+51014;7950;Chièvres;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.1353919239904988;842
+51014;7950;Chièvres;724;Ath;RHMS - Hôpital de la Madeleine;0.4204275534441805;842
+51014;7950;Chièvres;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.06413301662707839;842
+51017;7890;Ellezelles;550;Renaix;AZ Glorieux;0.60546875;768
+51017;7890;Ellezelles;724;Ath;RHMS - Hôpital de la Madeleine;0.07421875;768
+51019;7880;Flobecq;79;Bruxelles;Institut Jules Bordet;0.07306889352818371;479
+51019;7880;Flobecq;176;Alost;Algemeen Stedelijk Ziekenhuis;0.05427974947807934;479
+51019;7880;Flobecq;550;Renaix;AZ Glorieux;0.5532359081419624;479
+51019;7880;Flobecq;724;Ath;RHMS - Hôpital de la Madeleine;0.1169102296450939;479
+51065;7910;Frasnes-lez-Anvaing;71;Tournai;Centre Hospitalier de Wallonie picarde;0.1470781352593565;1523
+51065;7910;Frasnes-lez-Anvaing;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.08929743926460933;1523
+51065;7910;Frasnes-lez-Anvaing;550;Renaix;AZ Glorieux;0.3125410374261327;1523
+51065;7910;Frasnes-lez-Anvaing;724;Ath;RHMS - Hôpital de la Madeleine;0.0623768877216021;1523
+51065;7910;Frasnes-lez-Anvaing;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.175311884438608;1523
+52010;7160;Chapelle-lez-Herlaimont;96;La Louvière;CHU Tivoli;0.227214377406932;1558
+52010;7160;Chapelle-lez-Herlaimont;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.5231065468549422;1558
+52011;6000;Charleroi;10;Charleroi;Grand Hôpital de Charleroi;0.2394815838376138;20987
+52011;6000;Charleroi;27;Charleroi;Grand Hôpital de Charleroi;0.4226902368132653;20987
+52011;6000;Charleroi;409;Charleroi;Clinique Notre-Dame de Grâce;0.1094010577976843;20987
+52011;6000;Charleroi;718;Charleroi;CHU de Charleroi;0.05722590174870158;20987
+52012;6200;Châtelet;10;Charleroi;Grand Hôpital de Charleroi;0.5214148732154272;4693
+52012;6200;Châtelet;27;Charleroi;Grand Hôpital de Charleroi;0.2985297251225229;4693
+52015;6180;Courcelles;10;Charleroi;Grand Hôpital de Charleroi;0.06029040404040404;3168
+52015;6180;Courcelles;27;Charleroi;Grand Hôpital de Charleroi;0.2263257575757576;3168
+52015;6180;Courcelles;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.1111111111111111;3168
+52015;6180;Courcelles;409;Charleroi;Clinique Notre-Dame de Grâce;0.3740530303030303;3168
+52018;6240;Farciennes;10;Charleroi;Grand Hôpital de Charleroi;0.3955390334572491;1345
+52018;6240;Farciennes;27;Charleroi;Grand Hôpital de Charleroi;0.3754646840148699;1345
+52021;6220;Fleurus;10;Charleroi;Grand Hôpital de Charleroi;0.3030736240171551;2798
+52021;6220;Fleurus;27;Charleroi;Grand Hôpital de Charleroi;0.2716225875625446;2798
+52021;6220;Fleurus;103;Sambreville;Centre Hospitalier Régional du Val de Sambre;0.08684774839170836;2798
+52022;6140;Fontaine-l'Évêque;10;Charleroi;Grand Hôpital de Charleroi;0.0822481151473612;1459
+52022;6140;Fontaine-l'Évêque;27;Charleroi;Grand Hôpital de Charleroi;0.3474982864976011;1459
+52022;6140;Fontaine-l'Évêque;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.1775188485263879;1459
+52022;6140;Fontaine-l'Évêque;325;Montigny-le-Tilleul;CHU André Vésale;0.07539410555174778;1459
+52022;6140;Fontaine-l'Évêque;409;Charleroi;Clinique Notre-Dame de Grâce;0.07128169979437972;1459
+52022;6140;Fontaine-l'Évêque;718;Charleroi;CHU de Charleroi;0.05346127484578479;1459
+52025;6280;Gerpinnes;10;Charleroi;Grand Hôpital de Charleroi;0.51004851004851;1443
+52025;6280;Gerpinnes;27;Charleroi;Grand Hôpital de Charleroi;0.2674982674982675;1443
+52043;7170;Manage;96;La Louvière;CHU Tivoli;0.2611005692599621;2635
+52043;7170;Manage;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.540796963946869;2635
+52048;6110;Montigny-le-Tilleul;10;Charleroi;Grand Hôpital de Charleroi;0.1413189771197847;743
+52048;6110;Montigny-le-Tilleul;27;Charleroi;Grand Hôpital de Charleroi;0.414535666218035;743
+52048;6110;Montigny-le-Tilleul;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.05921938088829071;743
+52048;6110;Montigny-le-Tilleul;325;Montigny-le-Tilleul;CHU André Vésale;0.1063257065948856;743
+52048;6110;Montigny-le-Tilleul;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07537012113055182;743
+52048;6110;Montigny-le-Tilleul;718;Charleroi;CHU de Charleroi;0.05248990578734859;743
+52055;6230;Pont-à-Celles;27;Charleroi;Grand Hôpital de Charleroi;0.232462877624168;1953
+52055;6230;Pont-à-Celles;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.09523809523809523;1953
+52055;6230;Pont-à-Celles;409;Charleroi;Clinique Notre-Dame de Grâce;0.3630312339989759;1953
+52063;7180;Seneffe;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.06192468619246862;1195
+52063;7180;Seneffe;96;La Louvière;CHU Tivoli;0.1732217573221757;1195
+52063;7180;Seneffe;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.2150627615062762;1195
+52063;7180;Seneffe;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.05523012552301255;1195
+52063;7180;Seneffe;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.2627615062761506;1195
+52063;7180;Seneffe;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.06527196652719665;1195
+52074;6250;Aiseau-Presles;10;Charleroi;Grand Hôpital de Charleroi;0.3392857142857143;1288
+52074;6250;Aiseau-Presles;27;Charleroi;Grand Hôpital de Charleroi;0.2554347826086957;1288
+52074;6250;Aiseau-Presles;103;Sambreville;Centre Hospitalier Régional du Val de Sambre;0.1436335403726708;1288
+52074;6250;Aiseau-Presles;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.07763975155279502;1288
+52075;6210;Les Bons Villers;10;Charleroi;Grand Hôpital de Charleroi;0.07538802660753881;902
+52075;6210;Les Bons Villers;27;Charleroi;Grand Hôpital de Charleroi;0.1341463414634146;902
+52075;6210;Les Bons Villers;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.05543237250554324;902
+52075;6210;Les Bons Villers;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.09312638580931264;902
+52075;6210;Les Bons Villers;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.082039911308204;902
+52075;6210;Les Bons Villers;409;Charleroi;Clinique Notre-Dame de Grâce;0.376940133037694;902
+53014;7300;Boussu;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.1373827965756217;2453
+53014;7300;Boussu;254;Mons;CHU Ambroise Paré;0.05014268242967795;2453
+53014;7300;Boussu;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.2865878516102731;2453
+53014;7300;Boussu;410;Boussu;Centre Hospitalier Hornu-Frameries;0.4097024052181003;2453
+53020;7370;Dour;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.1680121089808274;1982
+53020;7370;Dour;254;Mons;CHU Ambroise Paré;0.0615539858728557;1982
+53020;7370;Dour;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.2976791120080727;1982
+53020;7370;Dour;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05449041372351161;1982
+53020;7370;Dour;410;Boussu;Centre Hospitalier Hornu-Frameries;0.3249243188698285;1982
+53028;7080;Frameries;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.135561396920766;2663
+53028;7080;Frameries;254;Mons;CHU Ambroise Paré;0.1190386781825009;2663
+53028;7080;Frameries;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.1817499061209163;2663
+53028;7080;Frameries;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07022155463762673;2663
+53028;7080;Frameries;410;Boussu;Centre Hospitalier Hornu-Frameries;0.3864063086744273;2663
+53039;7350;Hensies;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.2284325637910085;823
+53039;7350;Hensies;254;Mons;CHU Ambroise Paré;0.05589307411907655;823
+53039;7350;Hensies;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.212636695018226;823
+53039;7350;Hensies;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1044957472660996;823
+53039;7350;Hensies;410;Boussu;Centre Hospitalier Hornu-Frameries;0.3147023086269745;823
+53044;7050;Jurbise;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.170873786407767;1030
+53044;7050;Jurbise;254;Mons;CHU Ambroise Paré;0.2398058252427185;1030
+53044;7050;Jurbise;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.3203883495145631;1030
+53044;7050;Jurbise;410;Boussu;Centre Hospitalier Hornu-Frameries;0.06893203883495146;1030
+53046;7870;Lens;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.2142857142857143;462
+53046;7870;Lens;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.119047619047619;462
+53046;7870;Lens;254;Mons;CHU Ambroise Paré;0.132034632034632;462
+53046;7870;Lens;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.2316017316017316;462
+53046;7870;Lens;724;Ath;RHMS - Hôpital de la Madeleine;0.1125541125541126;462
+53053;7000;Mons;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.09065021357380161;10535
+53053;7000;Mons;254;Mons;CHU Ambroise Paré;0.3140009492168961;10535
+53053;7000;Mons;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.3536782154722354;10535
+53053;7000;Mons;410;Boussu;Centre Hospitalier Hornu-Frameries;0.07774086378737542;10535
+53065;7390;Quaregnon;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.2510141987829614;1972
+53065;7390;Quaregnon;254;Mons;CHU Ambroise Paré;0.09026369168356999;1972
+53065;7390;Quaregnon;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.1389452332657201;1972
+53065;7390;Quaregnon;410;Boussu;Centre Hospitalier Hornu-Frameries;0.3914807302231237;1972
+53068;7380;Quiévrain;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.1401869158878505;642
+53068;7380;Quiévrain;254;Mons;CHU Ambroise Paré;0.0514018691588785;642
+53068;7380;Quiévrain;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.2928348909657321;642
+53068;7380;Quiévrain;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05919003115264797;642
+53068;7380;Quiévrain;410;Boussu;Centre Hospitalier Hornu-Frameries;0.3644859813084112;642
+53070;7330;Saint-Ghislain;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.4330601092896175;2928
+53070;7330;Saint-Ghislain;254;Mons;CHU Ambroise Paré;0.07103825136612021;2928
+53070;7330;Saint-Ghislain;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.1287568306010929;2928
+53070;7330;Saint-Ghislain;410;Boussu;Centre Hospitalier Hornu-Frameries;0.1997950819672131;2928
+53082;7340;Colfontaine;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.1871485943775101;2490
+53082;7340;Colfontaine;254;Mons;CHU Ambroise Paré;0.0606425702811245;2490
+53082;7340;Colfontaine;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.2457831325301205;2490
+53082;7340;Colfontaine;410;Boussu;Centre Hospitalier Hornu-Frameries;0.3694779116465863;2490
+53083;7387;Honnelles;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.1537070524412296;553
+53083;7387;Honnelles;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.2459312839059674;553
+53083;7387;Honnelles;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1175406871609403;553
+53083;7387;Honnelles;410;Boussu;Centre Hospitalier Hornu-Frameries;0.3417721518987342;553
+53084;7040;Quévy;8;Saint-Ghislain;Réseau Hospitalier de Médecine Sociale;0.07457627118644068;885
+53084;7040;Quévy;254;Mons;CHU Ambroise Paré;0.2192090395480226;885
+53084;7040;Quévy;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.3502824858757062;885
+53084;7040;Quévy;410;Boussu;Centre Hospitalier Hornu-Frameries;0.1830508474576271;885
+54007;7700;Mouscron;247;Mouscron;Centre Hospitalier de Mouscron;0.7946798556342735;7481
+54007;7700;Mouscron;396;Courtrai;AZ Groeninge;0.06496457692821815;7481
+54010;7780;Comines;57;Ypres;Jan Yperman Ziekenhuis;0.5314523589269196;2162
+54010;7780;Comines;117;Roulers;H.-Hartziekenhuis Roeselare-Menen;0.1600370027752081;2162
+54010;7780;Comines;247;Mouscron;Centre Hospitalier de Mouscron;0.1799259944495837;2162
+55004;7090;Braine-le-Comte;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.456778889899909;2198
+55004;7090;Braine-le-Comte;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.06141947224749773;2198
+55004;7090;Braine-le-Comte;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.09508644222020018;2198
+55004;7090;Braine-le-Comte;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.08371246587807098;2198
+55004;7090;Braine-le-Comte;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.08007279344858963;2198
+55010;7850;Enghien;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.2165991902834008;1482
+55010;7850;Enghien;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.164642375168691;1482
+55010;7850;Enghien;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.05330634278002699;1482
+55010;7850;Enghien;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.136302294197031;1482
+55010;7850;Enghien;724;Ath;RHMS - Hôpital de la Madeleine;0.07759784075573549;1482
+55022;7100;La Louvière;96;La Louvière;CHU Tivoli;0.2753828032979976;8490
+55022;7100;La Louvière;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.4965842167255595;8490
+55023;7860;Lessines;176;Alost;Algemeen Stedelijk Ziekenhuis;0.1984667802385008;2348
+55023;7860;Lessines;550;Renaix;AZ Glorieux;0.2964224872231687;2348
+55023;7860;Lessines;724;Ath;RHMS - Hôpital de la Madeleine;0.2074105621805792;2348
+55035;7070;Le Rœulx;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.1013268998793727;829
+55035;7070;Le Rœulx;96;La Louvière;CHU Tivoli;0.1737032569360676;829
+55035;7070;Le Rœulx;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.3136308805790108;829
+55035;7070;Le Rœulx;254;Mons;CHU Ambroise Paré;0.08323281061519903;829
+55035;7070;Le Rœulx;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.1061519903498191;829
+55039;7830;Silly;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.1870714985308521;1021
+55039;7830;Silly;106;Hal;Regionaal Ziekenhuis Sint-Maria;0.05288932419196866;1021
+55039;7830;Silly;150;Bruxelles;Hôpital Universitaire des Enfants Reine Fabiola;0.05288932419196866;1021
+55039;7830;Silly;332;Uccle;Centre Hospitalier Interrégional Édith Cavell;0.06072477962781587;1021
+55039;7830;Silly;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07149853085210578;1021
+55039;7830;Silly;406;Anderlecht;Cliniques Universitaires de Bruxelles – Hôpital Érasme;0.1292850146914789;1021
+55039;7830;Silly;724;Ath;RHMS - Hôpital de la Madeleine;0.1733594515181195;1021
+55040;7060;Soignies;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.5483020112100231;3033
+55040;7060;Soignies;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.05670952851961754;3033
+55040;7060;Soignies;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.108143752060666;3033
+55050;7190;Écaussinnes;7;Soignies;Centre Hospitalier Régional de la Haute Senne;0.3836698858647937;1139
+55050;7190;Écaussinnes;96;La Louvière;CHU Tivoli;0.1202809482001756;1139
+55050;7190;Écaussinnes;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.1940298507462687;1139
+55050;7190;Écaussinnes;346;Nivelles;Centre Hospitalier Tubize-Nivelles;0.05794556628621598;1139
+56001;6150;Anderlues;27;Charleroi;Grand Hôpital de Charleroi;0.07938625750500333;1499
+56001;6150;Anderlues;96;La Louvière;CHU Tivoli;0.06737825216811208;1499
+56001;6150;Anderlues;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.6651100733822548;1499
+56005;6500;Beaumont;27;Charleroi;Grand Hôpital de Charleroi;0.07905138339920949;759
+56005;6500;Beaumont;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.6534914361001317;759
+56005;6500;Beaumont;249;Chimay;Centre de Santé des Fagnes;0.05797101449275362;759
+56011;7130;Binche;96;La Louvière;CHU Tivoli;0.2365970299521772;3973
+56011;7130;Binche;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.5429146740498364;3973
+56011;7130;Binche;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.05562547193556507;3973
+56016;6460;Chimay;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.05767668562144598;1231
+56016;6460;Chimay;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.2193338748984565;1231
+56016;6460;Chimay;249;Chimay;Centre de Santé des Fagnes;0.570268074735987;1231
+56022;6560;Erquelinnes;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.66110183639399;1198
+56022;6560;Erquelinnes;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.1535893155258765;1198
+56029;6440;Froidchapelle;10;Charleroi;Grand Hôpital de Charleroi;0.1102564102564103;390
+56029;6440;Froidchapelle;27;Charleroi;Grand Hôpital de Charleroi;0.1230769230769231;390
+56029;6440;Froidchapelle;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.06923076923076923;390
+56029;6440;Froidchapelle;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.2487179487179487;390
+56029;6440;Froidchapelle;249;Chimay;Centre de Santé des Fagnes;0.3256410256410256;390
+56044;6540;Lobbes;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.7325581395348837;860
+56044;6540;Lobbes;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.08255813953488372;860
+56049;6567;Merbes-le-Château;96;La Louvière;CHU Tivoli;0.05;500
+56049;6567;Merbes-le-Château;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.714;500
+56051;6590;Momignies;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.1592539454806313;697
+56051;6590;Momignies;249;Chimay;Centre de Santé des Fagnes;0.6384505021520803;697
+56078;6530;Thuin;10;Charleroi;Grand Hôpital de Charleroi;0.06854838709677419;1488
+56078;6530;Thuin;27;Charleroi;Grand Hôpital de Charleroi;0.1418010752688172;1488
+56078;6530;Thuin;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.5591397849462365;1488
+56078;6530;Thuin;325;Montigny-le-Tilleul;CHU André Vésale;0.06922043010752688;1488
+56085;7120;Estinnes;96;La Louvière;CHU Tivoli;0.09147095179233622;809
+56085;7120;Estinnes;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.4054388133498146;809
+56085;7120;Estinnes;254;Mons;CHU Ambroise Paré;0.09641532756489493;809
+56085;7120;Estinnes;266;Mons;CHR Clinique Saint-Joseph – Hôpital de Warquignies;0.2459826946847961;809
+56086;6120;Ham-sur-Heure-Nalinnes;10;Charleroi;Grand Hôpital de Charleroi;0.273972602739726;1387
+56086;6120;Ham-sur-Heure-Nalinnes;27;Charleroi;Grand Hôpital de Charleroi;0.4506128334534967;1387
+56087;7140;Morlanwelz;96;La Louvière;CHU Tivoli;0.2468719923002888;2078
+56087;7140;Morlanwelz;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.5389797882579404;2078
+56088;6470;Sivry-Rance;27;Charleroi;Grand Hôpital de Charleroi;0.05818181818181818;550
+56088;6470;Sivry-Rance;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.3727272727272727;550
+56088;6470;Sivry-Rance;249;Chimay;Centre de Santé des Fagnes;0.3909090909090909;550
+56088;6470;Sivry-Rance;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05090909090909091;550
+57003;7640;Antoing;71;Tournai;Centre Hospitalier de Wallonie picarde;0.221256038647343;1035
+57003;7640;Antoing;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05024154589371981;1035
+57003;7640;Antoing;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.170048309178744;1035
+57003;7640;Antoing;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.4521739130434783;1035
+57018;7760;Celles (Hainaut);71;Tournai;Centre Hospitalier de Wallonie picarde;0.2217687074829932;735
+57018;7760;Celles (Hainaut);403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05850340136054422;735
+57018;7760;Celles (Hainaut);534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.1346938775510204;735
+57018;7760;Celles (Hainaut);550;Renaix;AZ Glorieux;0.07482993197278912;735
+57018;7760;Celles (Hainaut);725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.3510204081632653;735
+57027;7730;Estaimpuis;71;Tournai;Centre Hospitalier de Wallonie picarde;0.1668063704945515;1193
+57027;7730;Estaimpuis;247;Mouscron;Centre Hospitalier de Mouscron;0.4476110645431685;1193
+57027;7730;Estaimpuis;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.06789606035205364;1193
+57027;7730;Estaimpuis;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.2179379715004191;1193
+57062;7740;Pecq;71;Tournai;Centre Hospitalier de Wallonie picarde;0.2859744990892532;549
+57062;7740;Pecq;247;Mouscron;Centre Hospitalier de Mouscron;0.1548269581056466;549
+57062;7740;Pecq;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.1621129326047359;549
+57062;7740;Pecq;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.302367941712204;549
+57064;7600;Péruwelz;71;Tournai;Centre Hospitalier de Wallonie picarde;0.2939362795477903;1946
+57064;7600;Péruwelz;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.1264131551901336;1946
+57064;7600;Péruwelz;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.3931140801644399;1946
+57072;7610;Rumes;71;Tournai;Centre Hospitalier de Wallonie picarde;0.3293918918918919;592
+57072;7610;Rumes;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.2043918918918919;592
+57072;7610;Rumes;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.3293918918918919;592
+57081;7500;Tournai;71;Tournai;Centre Hospitalier de Wallonie picarde;0.2961278586278586;7696
+57081;7500;Tournai;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.2027027027027027;7696
+57081;7500;Tournai;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.3556392931392932;7696
+57093;7620;Brunehaut;71;Tournai;Centre Hospitalier de Wallonie picarde;0.2538370720188902;847
+57093;7620;Brunehaut;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.2408500590318772;847
+57093;7620;Brunehaut;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.4368358913813459;847
+57094;7900;Leuze-en-Hainaut;71;Tournai;Centre Hospitalier de Wallonie picarde;0.2109215017064846;1465
+57094;7900;Leuze-en-Hainaut;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.1447098976109215;1465
+57094;7900;Leuze-en-Hainaut;550;Renaix;AZ Glorieux;0.05324232081911263;1465
+57094;7900;Leuze-en-Hainaut;724;Ath;RHMS - Hôpital de la Madeleine;0.141296928327645;1465
+57094;7900;Leuze-en-Hainaut;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.2580204778156996;1465
+57095;7750;Mont-de-l'Enclus;71;Tournai;Centre Hospitalier de Wallonie picarde;0.0784313725490196;459
+57095;7750;Mont-de-l'Enclus;170;Audenarde;AZ Oudenaarde;0.07625272331154684;459
+57095;7750;Mont-de-l'Enclus;534;Tournai;Centre Hospitalier de Wallonie picarde (Tournai);0.05228758169934641;459
+57095;7750;Mont-de-l'Enclus;550;Renaix;AZ Glorieux;0.4705882352941176;459
+57095;7750;Mont-de-l'Enclus;670;Gand;UZ Gent;0.05882352941176471;459
+57095;7750;Mont-de-l'Enclus;725;Tournai;Centre Hospitalier de Wallonie picarde (Peruwelz);0.08714596949891068;459
+61003;4540;Amay;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.05;1100
+61003;4540;Amay;68;Huy;Centre Hospitalier Régional de Huy;0.4881818181818182;1100
+61003;4540;Amay;152;Liège;Cliniques Saint-Joseph;0.1109090909090909;1100
+61003;4540;Amay;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1254545454545455;1100
+61003;4540;Amay;707;Liège;CHU de Liège;0.1054545454545455;1100
+61010;4210;Burdinne;6;Namur;Centre Hospitalier Régional de Namur;0.1939163498098859;263
+61010;4210;Burdinne;68;Huy;Centre Hospitalier Régional de Huy;0.1216730038022814;263
+61010;4210;Burdinne;152;Liège;Cliniques Saint-Joseph;0.1064638783269962;263
+61010;4210;Burdinne;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07604562737642585;263
+61010;4210;Burdinne;706;Namur;Clinique Saint-Luc;0.2129277566539924;263
+61012;4560;Clavier;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.07784431137724551;334
+61012;4560;Clavier;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.08982035928143713;334
+61012;4560;Clavier;68;Huy;Centre Hospitalier Régional de Huy;0.2215568862275449;334
+61012;4560;Clavier;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.05089820359281437;334
+61012;4560;Clavier;412;Liège;Centre Hospitalier Régional de la Citadelle;0.125748502994012;334
+61012;4560;Clavier;707;Liège;CHU de Liège;0.2455089820359281;334
+61019;4190;Ferrières;4;Malmedy;Clinique Reine Astrid;0.07309941520467836;342
+61019;4190;Ferrières;152;Liège;Cliniques Saint-Joseph;0.1929824561403509;342
+61019;4190;Ferrières;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1052631578947368;342
+61019;4190;Ferrières;707;Liège;CHU de Liège;0.4415204678362573;342
+61024;4180;Hamoir;152;Liège;Cliniques Saint-Joseph;0.1174242424242424;264
+61024;4180;Hamoir;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.06060606060606061;264
+61024;4180;Hamoir;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1325757575757576;264
+61024;4180;Hamoir;707;Liège;CHU de Liège;0.6022727272727273;264
+61028;4217;Héron;6;Namur;Centre Hospitalier Régional de Namur;0.1877934272300469;426
+61028;4217;Héron;68;Huy;Centre Hospitalier Régional de Huy;0.2018779342723005;426
+61028;4217;Héron;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.0892018779342723;426
+61028;4217;Héron;409;Charleroi;Clinique Notre-Dame de Grâce;0.0539906103286385;426
+61028;4217;Héron;706;Namur;Clinique Saint-Luc;0.215962441314554;426
+61031;4500;Huy;68;Huy;Centre Hospitalier Régional de Huy;0.5731534090909091;1408
+61031;4500;Huy;152;Liège;Cliniques Saint-Joseph;0.05042613636363636;1408
+61031;4500;Huy;412;Liège;Centre Hospitalier Régional de la Citadelle;0.09943181818181818;1408
+61031;4500;Huy;707;Liège;CHU de Liège;0.06676136363636363;1408
+61039;4570;Marchin;68;Huy;Centre Hospitalier Régional de Huy;0.4838709677419355;372
+61039;4570;Marchin;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1075268817204301;372
+61039;4570;Marchin;707;Liège;CHU de Liège;0.1478494623655914;372
+61041;4577;Modave;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.06696428571428571;224
+61041;4577;Modave;68;Huy;Centre Hospitalier Régional de Huy;0.3616071428571428;224
+61041;4577;Modave;152;Liège;Cliniques Saint-Joseph;0.08482142857142858;224
+61041;4577;Modave;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.07142857142857142;224
+61041;4577;Modave;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1071428571428571;224
+61041;4577;Modave;707;Liège;CHU de Liège;0.1473214285714286;224
+61043;4550;Nandrin;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.2084870848708487;542
+61043;4550;Nandrin;68;Huy;Centre Hospitalier Régional de Huy;0.1236162361623616;542
+61043;4550;Nandrin;152;Liège;Cliniques Saint-Joseph;0.1273062730627306;542
+61043;4550;Nandrin;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.0996309963099631;542
+61043;4550;Nandrin;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1180811808118081;542
+61043;4550;Nandrin;707;Liège;CHU de Liège;0.2822878228782288;542
+61048;4590;Ouffet;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.1636363636363636;165
+61048;4590;Ouffet;68;Huy;Centre Hospitalier Régional de Huy;0.08484848484848485;165
+61048;4590;Ouffet;152;Liège;Cliniques Saint-Joseph;0.06666666666666667;165
+61048;4590;Ouffet;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.08484848484848485;165
+61048;4590;Ouffet;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1454545454545454;165
+61048;4590;Ouffet;707;Liège;CHU de Liège;0.3878787878787879;165
+61063;4537;Verlaine;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.1420118343195266;338
+61063;4537;Verlaine;68;Huy;Centre Hospitalier Régional de Huy;0.09467455621301775;338
+61063;4537;Verlaine;152;Liège;Cliniques Saint-Joseph;0.3520710059171598;338
+61063;4537;Verlaine;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.06804733727810651;338
+61063;4537;Verlaine;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1893491124260355;338
+61063;4537;Verlaine;707;Liège;CHU de Liège;0.1094674556213018;338
+61068;4530;Villers-le-Bouillet;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.1382405745062837;557
+61068;4530;Villers-le-Bouillet;68;Huy;Centre Hospitalier Régional de Huy;0.1597845601436266;557
+61068;4530;Villers-le-Bouillet;152;Liège;Cliniques Saint-Joseph;0.2944344703770198;557
+61068;4530;Villers-le-Bouillet;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1328545780969479;557
+61068;4530;Villers-le-Bouillet;707;Liège;CHU de Liège;0.1579892280071813;557
+61072;4520;Wanze;68;Huy;Centre Hospitalier Régional de Huy;0.4559099437148217;1066
+61072;4520;Wanze;152;Liège;Cliniques Saint-Joseph;0.08911819887429644;1066
+61072;4520;Wanze;412;Liège;Centre Hospitalier Régional de la Citadelle;0.08724202626641651;1066
+61072;4520;Wanze;707;Liège;CHU de Liège;0.1435272045028143;1066
+61079;4160;Anthisnes;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.182033096926714;423
+61079;4160;Anthisnes;152;Liège;Cliniques Saint-Joseph;0.06855791962174941;423
+61079;4160;Anthisnes;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1371158392434988;423
+61079;4160;Anthisnes;707;Liège;CHU de Liège;0.524822695035461;423
+61080;4480;Engis;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.282051282051282;468
+61080;4480;Engis;68;Huy;Centre Hospitalier Régional de Huy;0.2136752136752137;468
+61080;4480;Engis;152;Liège;Cliniques Saint-Joseph;0.1175213675213675;468
+61080;4480;Engis;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1538461538461539;468
+61080;4480;Engis;707;Liège;CHU de Liège;0.1602564102564103;468
+61081;4557;Tinlot;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.3271375464684015;269
+61081;4557;Tinlot;68;Huy;Centre Hospitalier Régional de Huy;0.1078066914498141;269
+61081;4557;Tinlot;152;Liège;Cliniques Saint-Joseph;0.07806691449814127;269
+61081;4557;Tinlot;412;Liège;Centre Hospitalier Régional de la Citadelle;0.09293680297397769;269
+61081;4557;Tinlot;707;Liège;CHU de Liège;0.3197026022304832;269
+62003;4430;Ans;152;Liège;Cliniques Saint-Joseph;0.4890772742093251;3067
+62003;4430;Ans;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.06521030322791001;3067
+62003;4430;Ans;412;Liège;Centre Hospitalier Régional de la Citadelle;0.3179002282360613;3067
+62003;4430;Ans;707;Liège;CHU de Liège;0.06814476687316597;3067
+62006;4340;Awans;152;Liège;Cliniques Saint-Joseph;0.4359861591695502;867
+62006;4340;Awans;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.07035755478662054;867
+62006;4340;Awans;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2975778546712803;867
+62006;4340;Awans;707;Liège;CHU de Liège;0.1072664359861592;867
+62009;4920;Aywaille;152;Liège;Cliniques Saint-Joseph;0.1290322580645161;1209
+62009;4920;Aywaille;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.05210918114143921;1209
+62009;4920;Aywaille;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1066997518610422;1209
+62009;4920;Aywaille;707;Liège;CHU de Liège;0.6211745244003308;1209
+62011;4690;Bassenge;23;Herstal;Clinique André Renard;0.06524317912218268;843
+62011;4690;Bassenge;152;Liège;Cliniques Saint-Joseph;0.4045077105575326;843
+62011;4690;Bassenge;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.06287069988137604;843
+62011;4690;Bassenge;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2301304863582444;843
+62011;4690;Bassenge;707;Liège;CHU de Liège;0.07354685646500593;843
+62011;4690;Bassenge;716;Tongres;AZ Vesalius;0.08659549228944247;843
+62015;4610;Beyne-Heusay;152;Liège;Cliniques Saint-Joseph;0.1020966271649954;1097
+62015;4610;Beyne-Heusay;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.05195989061075661;1097
+62015;4610;Beyne-Heusay;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1886964448495898;1097
+62015;4610;Beyne-Heusay;707;Liège;CHU de Liège;0.5715587967183227;1097
+62022;4050;Chaudfontaine;152;Liège;Cliniques Saint-Joseph;0.1893939393939394;2112
+62022;4050;Chaudfontaine;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.05587121212121212;2112
+62022;4050;Chaudfontaine;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1799242424242424;2112
+62022;4050;Chaudfontaine;707;Liège;CHU de Liège;0.509469696969697;2112
+62026;4170;Comblain-au-Pont;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.05482041587901702;529
+62026;4170;Comblain-au-Pont;412;Liège;Centre Hospitalier Régional de la Citadelle;0.224952741020794;529
+62026;4170;Comblain-au-Pont;707;Liège;CHU de Liège;0.610586011342155;529
+62027;4607;Dalhem;152;Liège;Cliniques Saint-Joseph;0.5885714285714285;700
+62027;4607;Dalhem;322;Louvain;UZ Leuven;0.06428571428571428;700
+62027;4607;Dalhem;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1428571428571428;700
+62032;4130;Esneux;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.0966183574879227;1242
+62032;4130;Esneux;152;Liège;Cliniques Saint-Joseph;0.09581320450885668;1242
+62032;4130;Esneux;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1223832528180354;1242
+62032;4130;Esneux;707;Liège;CHU de Liège;0.5901771336553945;1242
+62038;4620;Fléron;152;Liège;Cliniques Saint-Joseph;0.1047887323943662;1775
+62038;4620;Fléron;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.07154929577464789;1775
+62038;4620;Fléron;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2084507042253521;1775
+62038;4620;Fléron;707;Liège;CHU de Liège;0.5414084507042254;1775
+62051;4040;Herstal;23;Herstal;Clinique André Renard;0.3005325893989348;3943
+62051;4040;Herstal;152;Liège;Cliniques Saint-Joseph;0.143545523712909;3943
+62051;4040;Herstal;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.0542733958914532;3943
+62051;4040;Herstal;412;Liège;Centre Hospitalier Régional de la Citadelle;0.3832107532335785;3943
+62051;4040;Herstal;707;Liège;CHU de Liège;0.09180826781638346;3943
+62060;4450;Juprelle;23;Herstal;Clinique André Renard;0.05932203389830509;826
+62060;4450;Juprelle;152;Liège;Cliniques Saint-Joseph;0.2191283292978208;826
+62060;4450;Juprelle;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.1053268765133172;826
+62060;4450;Juprelle;412;Liège;Centre Hospitalier Régional de la Citadelle;0.4915254237288136;826
+62060;4450;Juprelle;707;Liège;CHU de Liège;0.05084745762711865;826
+62063;4000;Liège;152;Liège;Cliniques Saint-Joseph;0.2304301136042503;17693
+62063;4000;Liège;412;Liège;Centre Hospitalier Régional de la Citadelle;0.3644944328265416;17693
+62063;4000;Liège;707;Liège;CHU de Liège;0.2617419318374498;17693
+62079;4680;Oupeye;23;Herstal;Clinique André Renard;0.1906088340628731;2513
+62079;4680;Oupeye;152;Liège;Cliniques Saint-Joseph;0.4222045364106645;2513
+62079;4680;Oupeye;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.07122960604854756;2513
+62079;4680;Oupeye;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2212495025865499;2513
+62079;4680;Oupeye;707;Liège;CHU de Liège;0.07043374452845205;2513
+62093;4420;Saint-Nicolas (Liège);42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.06952965235173825;2445
+62093;4420;Saint-Nicolas (Liège);152;Liège;Cliniques Saint-Joseph;0.5206543967280164;2445
+62093;4420;Saint-Nicolas (Liège);412;Liège;Centre Hospitalier Régional de la Citadelle;0.2638036809815951;2445
+62093;4420;Saint-Nicolas (Liège);707;Liège;CHU de Liège;0.0785276073619632;2445
+62096;4100;Seraing;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.4720619282195637;7105
+62096;4100;Seraing;152;Liège;Cliniques Saint-Joseph;0.1180858550316678;7105
+62096;4100;Seraing;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1355383532723434;7105
+62096;4100;Seraing;707;Liège;CHU de Liège;0.2188599577762139;7105
+62099;4630;Soumagne;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.07602739726027398;1460
+62099;4630;Soumagne;23;Herstal;Clinique André Renard;0.05136986301369863;1460
+62099;4630;Soumagne;152;Liège;Cliniques Saint-Joseph;0.06917808219178082;1460
+62099;4630;Soumagne;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.1335616438356164;1460
+62099;4630;Soumagne;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2267123287671233;1460
+62099;4630;Soumagne;707;Liège;CHU de Liège;0.4102739726027397;1460
+62100;4140;Sprimont;152;Liège;Cliniques Saint-Joseph;0.1706316652994257;1219
+62100;4140;Sprimont;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.1394585726004922;1219
+62100;4140;Sprimont;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1271534044298605;1219
+62100;4140;Sprimont;707;Liège;CHU de Liège;0.4667760459392945;1219
+62108;4600;Visé;23;Herstal;Clinique André Renard;0.09185347184253691;1829
+62108;4600;Visé;152;Liège;Cliniques Saint-Joseph;0.5636960087479497;1829
+62108;4600;Visé;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.06889010388190268;1829
+62108;4600;Visé;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1634773100054675;1829
+62108;4600;Visé;707;Liège;CHU de Liège;0.07818480043739748;1829
+62118;4460;Grâce-Hollogne;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.09430523917995444;2195
+62118;4460;Grâce-Hollogne;152;Liège;Cliniques Saint-Joseph;0.426879271070615;2195
+62118;4460;Grâce-Hollogne;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.05740318906605923;2195
+62118;4460;Grâce-Hollogne;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2747152619589977;2195
+62118;4460;Grâce-Hollogne;707;Liège;CHU de Liège;0.1175398633257403;2195
+62119;4670;Blegny;23;Herstal;Clinique André Renard;0.1065877128053294;1351
+62119;4670;Blegny;152;Liège;Cliniques Saint-Joseph;0.2938564026646928;1351
+62119;4670;Blegny;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.08364174685418209;1351
+62119;4670;Blegny;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2605477424130274;1351
+62119;4670;Blegny;707;Liège;CHU de Liège;0.1776461880088823;1351
+62120;4400;Flémalle;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.432;2875
+62120;4400;Flémalle;152;Liège;Cliniques Saint-Joseph;0.1655652173913043;2875
+62120;4400;Flémalle;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1794782608695652;2875
+62120;4400;Flémalle;707;Liège;CHU de Liège;0.1460869565217391;2875
+62121;4120;Neupré;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.314453125;1024
+62121;4120;Neupré;152;Liège;Cliniques Saint-Joseph;0.083984375;1024
+62121;4120;Neupré;412;Liège;Centre Hospitalier Régional de la Citadelle;0.14453125;1024
+62121;4120;Neupré;707;Liège;CHU de Liège;0.39453125;1024
+62122;4870;Trooz;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.1223241590214067;654
+62122;4870;Trooz;152;Liège;Cliniques Saint-Joseph;0.1253822629969419;654
+62122;4870;Trooz;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.07951070336391437;654
+62122;4870;Trooz;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1467889908256881;654
+62122;4870;Trooz;707;Liège;CHU de Liège;0.481651376146789;654
+63001;4770;Amblève;15;Eupen;Sint-Nikolaus-Hospital;0.1784615384615384;650
+63001;4770;Amblève;257;Saint-Vith;Klinik St. Josef  St. Vith;0.6292307692307693;650
+63001;4770;Amblève;412;Liège;Centre Hospitalier Régional de la Citadelle;0.05846153846153846;650
+63003;4880;Aubel;15;Eupen;Sint-Nikolaus-Hospital;0.05852417302798982;393
+63003;4880;Aubel;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.4096692111959288;393
+63003;4880;Aubel;152;Liège;Cliniques Saint-Joseph;0.05852417302798982;393
+63003;4880;Aubel;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.3002544529262087;393
+63003;4880;Aubel;412;Liège;Centre Hospitalier Régional de la Citadelle;0.05852417302798982;393
+63003;4880;Aubel;707;Liège;CHU de Liège;0.06106870229007633;393
+63004;4837;Baelen (Liège);15;Eupen;Sint-Nikolaus-Hospital;0.472289156626506;415
+63004;4837;Baelen (Liège);20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.2289156626506024;415
+63004;4837;Baelen (Liège);152;Liège;Cliniques Saint-Joseph;0.07228915662650602;415
+63004;4837;Baelen (Liège);158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.1566265060240964;415
+63012;4760;Bullange;4;Malmedy;Clinique Reine Astrid;0.07951807228915662;830
+63012;4760;Bullange;15;Eupen;Sint-Nikolaus-Hospital;0.2927710843373494;830
+63012;4760;Bullange;257;Saint-Vith;Klinik St. Josef  St. Vith;0.5048192771084338;830
+63013;4750;Butgenbach;4;Malmedy;Clinique Reine Astrid;0.1090116279069767;688
+63013;4750;Butgenbach;15;Eupen;Sint-Nikolaus-Hospital;0.4331395348837209;688
+63013;4750;Butgenbach;257;Saint-Vith;Klinik St. Josef  St. Vith;0.3066860465116279;688
+63020;4820;Dison;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.6081946222791293;1562
+63020;4820;Dison;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.2733674775928297;1562
+63020;4820;Dison;412;Liège;Centre Hospitalier Régional de la Citadelle;0.05377720870678617;1562
+63023;4700;Eupen;15;Eupen;Sint-Nikolaus-Hospital;0.8801247771836007;2244
+63035;4650;Herve;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.3987841945288754;1645
+63035;4650;Herve;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.3191489361702128;1645
+63035;4650;Herve;412;Liège;Centre Hospitalier Régional de la Citadelle;0.09240121580547113;1645
+63035;4650;Herve;707;Liège;CHU de Liège;0.0972644376899696;1645
+63038;4845;Jalhay;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.5492424242424242;792
+63038;4845;Jalhay;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.231060606060606;792
+63038;4845;Jalhay;412;Liège;Centre Hospitalier Régional de la Citadelle;0.05555555555555555;792
+63038;4845;Jalhay;707;Liège;CHU de Liège;0.06691919191919192;792
+63040;4720;La Calamine;15;Eupen;Sint-Nikolaus-Hospital;0.7828014184397163;1128
+63040;4720;La Calamine;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.09219858156028368;1128
+63045;4990;Lierneux;4;Malmedy;Clinique Reine Astrid;0.1449275362318841;345
+63045;4990;Lierneux;152;Liège;Cliniques Saint-Joseph;0.08985507246376812;345
+63045;4990;Lierneux;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.2028985507246377;345
+63045;4990;Lierneux;257;Saint-Vith;Klinik St. Josef  St. Vith;0.1449275362318841;345
+63045;4990;Lierneux;412;Liège;Centre Hospitalier Régional de la Citadelle;0.09565217391304348;345
+63045;4990;Lierneux;707;Liège;CHU de Liège;0.2;345
+63046;4830;Limbourg;15;Eupen;Sint-Nikolaus-Hospital;0.1044520547945205;584
+63046;4830;Limbourg;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.5633561643835616;584
+63046;4830;Limbourg;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.2517123287671233;584
+63048;4710;Lontzen;15;Eupen;Sint-Nikolaus-Hospital;0.7737373737373737;495
+63049;4960;Malmedy;4;Malmedy;Clinique Reine Astrid;0.5856890459363958;1132
+63049;4960;Malmedy;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.0980565371024735;1132
+63049;4960;Malmedy;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.07508833922261485;1132
+63049;4960;Malmedy;257;Saint-Vith;Klinik St. Josef  St. Vith;0.06625441696113074;1132
+63049;4960;Malmedy;412;Liège;Centre Hospitalier Régional de la Citadelle;0.05830388692579505;1132
+63057;4877;Olne;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.1794871794871795;312
+63057;4877;Olne;152;Liège;Cliniques Saint-Joseph;0.0673076923076923;312
+63057;4877;Olne;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.125;312
+63057;4877;Olne;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1602564102564103;312
+63057;4877;Olne;707;Liège;CHU de Liège;0.4038461538461539;312
+63058;4860;Pepinster;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.5485148514851486;1010
+63058;4860;Pepinster;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.3207920792079208;1010
+63058;4860;Pepinster;707;Liège;CHU de Liège;0.0504950495049505;1010
+63061;4730;Raeren;15;Eupen;Sint-Nikolaus-Hospital;0.9248554913294798;692
+63067;4780;Saint-Vith;4;Malmedy;Clinique Reine Astrid;0.06582506762849413;1109
+63067;4780;Saint-Vith;15;Eupen;Sint-Nikolaus-Hospital;0.08656447249774572;1109
+63067;4780;Saint-Vith;257;Saint-Vith;Klinik St. Josef  St. Vith;0.7231740306582507;1109
+63072;4900;Spa;4;Malmedy;Clinique Reine Astrid;0.05464006938421509;1153
+63072;4900;Spa;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.5472679965307893;1153
+63072;4900;Spa;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.2081526452732003;1153
+63072;4900;Spa;412;Liège;Centre Hospitalier Régional de la Citadelle;0.05897658282740677;1153
+63073;4970;Stavelot;4;Malmedy;Clinique Reine Astrid;0.3151815181518152;606
+63073;4970;Stavelot;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.2491749174917492;606
+63073;4970;Stavelot;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.2161716171617162;606
+63073;4970;Stavelot;257;Saint-Vith;Klinik St. Josef  St. Vith;0.05280528052805281;606
+63073;4970;Stavelot;412;Liège;Centre Hospitalier Régional de la Citadelle;0.066006600660066;606
+63075;4987;Stoumont;4;Malmedy;Clinique Reine Astrid;0.2083333333333333;264
+63075;4987;Stoumont;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.2462121212121212;264
+63075;4987;Stoumont;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.1136363636363636;264
+63075;4987;Stoumont;707;Liège;CHU de Liège;0.2537878787878788;264
+63076;4910;Theux;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.5013009540329575;1153
+63076;4910;Theux;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.2567215958369471;1153
+63076;4910;Theux;412;Liège;Centre Hospitalier Régional de la Citadelle;0.06418039895923677;1153
+63076;4910;Theux;707;Liège;CHU de Liège;0.1032090199479618;1153
+63079;4800;Verviers;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.6006128702757916;5874
+63079;4800;Verviers;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.2706843718079673;5874
+63080;4950;Waimes;4;Malmedy;Clinique Reine Astrid;0.4246794871794872;624
+63080;4950;Waimes;15;Eupen;Sint-Nikolaus-Hospital;0.0625;624
+63080;4950;Waimes;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.1298076923076923;624
+63080;4950;Waimes;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.08173076923076923;624
+63080;4950;Waimes;257;Saint-Vith;Klinik St. Josef  St. Vith;0.1169871794871795;624
+63080;4950;Waimes;412;Liège;Centre Hospitalier Régional de la Citadelle;0.08333333333333333;624
+63084;4840;Welkenraedt;15;Eupen;Sint-Nikolaus-Hospital;0.3662100456621005;1095
+63084;4840;Welkenraedt;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.3041095890410959;1095
+63084;4840;Welkenraedt;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.1680365296803653;1095
+63084;4840;Welkenraedt;412;Liège;Centre Hospitalier Régional de la Citadelle;0.06666666666666667;1095
+63086;4980;Trois-Ponts;4;Malmedy;Clinique Reine Astrid;0.3364485981308411;214
+63086;4980;Trois-Ponts;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.1869158878504673;214
+63086;4980;Trois-Ponts;152;Liège;Cliniques Saint-Joseph;0.0514018691588785;214
+63086;4980;Trois-Ponts;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.1588785046728972;214
+63086;4980;Trois-Ponts;412;Liège;Centre Hospitalier Régional de la Citadelle;0.07476635514018691;214
+63086;4980;Trois-Ponts;707;Liège;CHU de Liège;0.09345794392523364;214
+63087;4790;Burg-Reuland;15;Eupen;Sint-Nikolaus-Hospital;0.07035175879396985;398
+63087;4790;Burg-Reuland;257;Saint-Vith;Klinik St. Josef  St. Vith;0.7462311557788944;398
+63088;4850;Plombières;15;Eupen;Sint-Nikolaus-Hospital;0.5595794392523364;856
+63088;4850;Plombières;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.2009345794392523;856
+63088;4850;Plombières;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.1308411214953271;856
+63089;4890;Thimister-Clermont;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.4261603375527426;474
+63089;4890;Thimister-Clermont;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.3459915611814346;474
+63089;4890;Thimister-Clermont;412;Liège;Centre Hospitalier Régional de la Citadelle;0.06751054852320675;474
+63089;4890;Thimister-Clermont;707;Liège;CHU de Liège;0.06540084388185655;474
+64008;4257;Berloz;23;Herstal;Clinique André Renard;0.0953757225433526;346
+64008;4257;Berloz;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.1531791907514451;346
+64008;4257;Berloz;152;Liège;Cliniques Saint-Joseph;0.3439306358381503;346
+64008;4257;Berloz;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.05780346820809248;346
+64008;4257;Berloz;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1416184971098266;346
+64008;4257;Berloz;707;Liège;CHU de Liège;0.07803468208092486;346
+64008;4257;Berloz;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.05491329479768786;346
+64015;4260;Braives;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.169844020797227;577
+64015;4260;Braives;68;Huy;Centre Hospitalier Régional de Huy;0.08145580589254767;577
+64015;4260;Braives;152;Liège;Cliniques Saint-Joseph;0.2357019064124783;577
+64015;4260;Braives;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05025996533795494;577
+64015;4260;Braives;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1178509532062392;577
+64015;4260;Braives;706;Namur;Clinique Saint-Luc;0.0779896013864818;577
+64015;4260;Braives;707;Liège;CHU de Liège;0.0658578856152513;577
+64021;4367;Crisnée;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.1514084507042253;284
+64021;4367;Crisnée;152;Liège;Cliniques Saint-Joseph;0.3626760563380282;284
+64021;4367;Crisnée;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.05985915492957746;284
+64021;4367;Crisnée;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2746478873239437;284
+64021;4367;Crisnée;707;Liège;CHU de Liège;0.09507042253521127;284
+64023;4357;Donceel;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.1443661971830986;284
+64023;4357;Donceel;152;Liège;Cliniques Saint-Joseph;0.4436619718309859;284
+64023;4357;Donceel;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.07746478873239436;284
+64023;4357;Donceel;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1619718309859155;284
+64023;4357;Donceel;707;Liège;CHU de Liège;0.06338028169014084;284
+64025;4347;Fexhe-le-Haut-Clocher;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.07761194029850746;335
+64025;4347;Fexhe-le-Haut-Clocher;152;Liège;Cliniques Saint-Joseph;0.4597014925373134;335
+64025;4347;Fexhe-le-Haut-Clocher;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.0626865671641791;335
+64025;4347;Fexhe-le-Haut-Clocher;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.06567164179104477;335
+64025;4347;Fexhe-le-Haut-Clocher;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2417910447761194;335
+64025;4347;Fexhe-le-Haut-Clocher;707;Liège;CHU de Liège;0.0626865671641791;335
+64029;4250;Geer;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.1646706586826347;334
+64029;4250;Geer;152;Liège;Cliniques Saint-Joseph;0.4161676646706587;334
+64029;4250;Geer;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.0748502994011976;334
+64029;4250;Geer;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.0688622754491018;334
+64029;4250;Geer;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1437125748502994;334
+64034;4280;Hannut;6;Namur;Centre Hospitalier Régional de Namur;0.05840363400389358;1541
+64034;4280;Hannut;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.1213497728747567;1541
+64034;4280;Hannut;152;Liège;Cliniques Saint-Joseph;0.3153796236210253;1541
+64034;4280;Hannut;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.06878650227125244;1541
+64034;4280;Hannut;412;Liège;Centre Hospitalier Régional de la Citadelle;0.07397793640493186;1541
+64034;4280;Hannut;706;Namur;Clinique Saint-Luc;0.0882543802725503;1541
+64047;4287;Lincent;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.07449856733524356;349
+64047;4287;Lincent;109;Tirlemont;Regionaal Ziekenhuis Heilig Hart Tienen;0.1232091690544413;349
+64047;4287;Lincent;152;Liège;Cliniques Saint-Joseph;0.157593123209169;349
+64047;4287;Lincent;322;Louvain;UZ Leuven;0.1776504297994269;349
+64047;4287;Lincent;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.07449856733524356;349
+64047;4287;Lincent;412;Liège;Centre Hospitalier Régional de la Citadelle;0.07163323782234957;349
+64047;4287;Lincent;707;Liège;CHU de Liège;0.05444126074498568;349
+64047;4287;Lincent;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.07449856733524356;349
+64056;4360;Oreye;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.1346153846153846;416
+64056;4360;Oreye;152;Liège;Cliniques Saint-Joseph;0.4951923076923077;416
+64056;4360;Oreye;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1658653846153846;416
+64056;4360;Oreye;707;Liège;CHU de Liège;0.06490384615384616;416
+64063;4350;Remicourt;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.2392638036809816;489
+64063;4350;Remicourt;152;Liège;Cliniques Saint-Joseph;0.4049079754601227;489
+64063;4350;Remicourt;158;Liège;Centre Hospitalier Saint-Vincent – Sainte-Élisabeth;0.05725971370143149;489
+64063;4350;Remicourt;412;Liège;Centre Hospitalier Régional de la Citadelle;0.196319018404908;489
+64063;4350;Remicourt;707;Liège;CHU de Liège;0.05725971370143149;489
+64065;4470;Saint-Georges-sur-Meuse;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.2527472527472527;637
+64065;4470;Saint-Georges-sur-Meuse;68;Huy;Centre Hospitalier Régional de Huy;0.06436420722135008;637
+64065;4470;Saint-Georges-sur-Meuse;152;Liège;Cliniques Saint-Joseph;0.2197802197802198;637
+64065;4470;Saint-Georges-sur-Meuse;412;Liège;Centre Hospitalier Régional de la Citadelle;0.2339089481946625;637
+64065;4470;Saint-Georges-sur-Meuse;707;Liège;CHU de Liège;0.163265306122449;637
+64074;4300;Waremme;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.2158314350797267;1756
+64074;4300;Waremme;152;Liège;Cliniques Saint-Joseph;0.4829157175398633;1756
+64074;4300;Waremme;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1235763097949886;1756
+64075;4219;Wasseiges;6;Namur;Centre Hospitalier Régional de Namur;0.1666666666666667;300
+64075;4219;Wasseiges;150;Bruxelles;Hôpital Universitaire des Enfants Reine Fabiola;0.1833333333333333;300
+64075;4219;Wasseiges;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.14;300
+64075;4219;Wasseiges;706;Namur;Clinique Saint-Luc;0.2533333333333334;300
+64076;4317;Faimes;42;Seraing;Centre Hospitalier du Bois de l'Abbaye et de Hesbaye;0.2260061919504644;323
+64076;4317;Faimes;152;Liège;Cliniques Saint-Joseph;0.4055727554179567;323
+64076;4317;Faimes;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1393188854489164;323
+64076;4317;Faimes;707;Liège;CHU de Liège;0.0804953560371517;323
+71002;3665;As;371;Genk;Ziekenhuis Oost-Limburg;0.8305084745762712;1062
+71004;3580;Beringen;159;Hasselt;AZ Salvator-Sint-Ursula;0.1389597957881302;6268
+71004;3580;Beringen;243;Hasselt;Virga Jesse Ziekenhuis;0.1713465220165922;6268
+71004;3580;Beringen;322;Louvain;UZ Leuven;0.08423739629865985;6268
+71004;3580;Beringen;371;Genk;Ziekenhuis Oost-Limburg;0.05695596681557116;6268
+71004;3580;Beringen;712;Diest;AZ Diest;0.06780472239948947;6268
+71004;3580;Beringen;714;Heusden-Zolder;Sint-Franciskusziekenhuis;0.3977345245692406;6268
+71011;3590;Diepenbeek;159;Hasselt;AZ Salvator-Sint-Ursula;0.283175355450237;2532
+71011;3590;Diepenbeek;243;Hasselt;Virga Jesse Ziekenhuis;0.3732227488151659;2532
+71011;3590;Diepenbeek;371;Genk;Ziekenhuis Oost-Limburg;0.1875987361769352;2532
+71011;3590;Diepenbeek;716;Tongres;AZ Vesalius;0.06121642969984202;2532
+71016;3600;Genk;243;Hasselt;Virga Jesse Ziekenhuis;0.05230678812812224;10209
+71016;3600;Genk;322;Louvain;UZ Leuven;0.05700852189244784;10209
+71016;3600;Genk;371;Genk;Ziekenhuis Oost-Limburg;0.795278675678323;10209
+71017;3890;Gingelom;159;Hasselt;AZ Salvator-Sint-Ursula;0.05852231163130944;1367
+71017;3890;Gingelom;243;Hasselt;Virga Jesse Ziekenhuis;0.05340160936356986;1367
+71017;3890;Gingelom;322;Louvain;UZ Leuven;0.1638624725676664;1367
+71017;3890;Gingelom;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.6495976591075348;1367
+71020;3545;Halen;159;Hasselt;AZ Salvator-Sint-Ursula;0.2193839218632607;1331
+71020;3545;Halen;243;Hasselt;Virga Jesse Ziekenhuis;0.1284748309541698;1331
+71020;3545;Halen;322;Louvain;UZ Leuven;0.1592787377911345;1331
+71020;3545;Halen;712;Diest;AZ Diest;0.3643876784372652;1331
+71022;3500;Hasselt;159;Hasselt;AZ Salvator-Sint-Ursula;0.3098862802641232;10904
+71022;3500;Hasselt;243;Hasselt;Virga Jesse Ziekenhuis;0.5318231841526045;10904
+71024;3540;Herck-la-Ville;159;Hasselt;AZ Salvator-Sint-Ursula;0.4317808219178082;1825
+71024;3540;Herck-la-Ville;243;Hasselt;Virga Jesse Ziekenhuis;0.2005479452054794;1825
+71024;3540;Herck-la-Ville;322;Louvain;UZ Leuven;0.1249315068493151;1825
+71024;3540;Herck-la-Ville;712;Diest;AZ Diest;0.06082191780821918;1825
+71024;3540;Herck-la-Ville;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.109041095890411;1825
+71034;3970;Bourg-Léopold;102;Mol;H. Hartziekenhuis Mol;0.0847723704866562;2548
+71034;3970;Bourg-Léopold;159;Hasselt;AZ Salvator-Sint-Ursula;0.0521978021978022;2548
+71034;3970;Bourg-Léopold;243;Hasselt;Virga Jesse Ziekenhuis;0.1259811616954474;2548
+71034;3970;Bourg-Léopold;322;Louvain;UZ Leuven;0.09654631083202511;2548
+71034;3970;Bourg-Léopold;371;Genk;Ziekenhuis Oost-Limburg;0.05533751962323391;2548
+71034;3970;Bourg-Léopold;714;Heusden-Zolder;Sint-Franciskusziekenhuis;0.2786499215070644;2548
+71034;3970;Bourg-Léopold;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.2327315541601256;2548
+71037;3560;Lummen;159;Hasselt;AZ Salvator-Sint-Ursula;0.3035795197100136;2207
+71037;3560;Lummen;243;Hasselt;Virga Jesse Ziekenhuis;0.2433167195287721;2207
+71037;3560;Lummen;322;Louvain;UZ Leuven;0.09605799728137744;2207
+71037;3560;Lummen;712;Diest;AZ Diest;0.1101042138649751;2207
+71037;3560;Lummen;714;Heusden-Zolder;Sint-Franciskusziekenhuis;0.1246035342093339;2207
+71045;3850;Nieuwerkerken (Limbourg);159;Hasselt;AZ Salvator-Sint-Ursula;0.1227272727272727;1100
+71045;3850;Nieuwerkerken (Limbourg);243;Hasselt;Virga Jesse Ziekenhuis;0.2;1100
+71045;3850;Nieuwerkerken (Limbourg);322;Louvain;UZ Leuven;0.07090909090909091;1100
+71045;3850;Nieuwerkerken (Limbourg);715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.5336363636363637;1100
+71047;3660;Opglabbeek;159;Hasselt;AZ Salvator-Sint-Ursula;0.06658047834518423;1547
+71047;3660;Opglabbeek;322;Louvain;UZ Leuven;0.05817711700064641;1547
+71047;3660;Opglabbeek;371;Genk;Ziekenhuis Oost-Limburg;0.7207498383968972;1547
+71053;3800;Saint-Trond;159;Hasselt;AZ Salvator-Sint-Ursula;0.06790295593976575;7172
+71053;3800;Saint-Trond;243;Hasselt;Virga Jesse Ziekenhuis;0.07794199665365309;7172
+71053;3800;Saint-Trond;322;Louvain;UZ Leuven;0.09676519799219185;7172
+71053;3800;Saint-Trond;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.694366982710541;7172
+71057;3980;Tessenderlo;159;Hasselt;AZ Salvator-Sint-Ursula;0.1049429657794677;2630
+71057;3980;Tessenderlo;243;Hasselt;Virga Jesse Ziekenhuis;0.1026615969581749;2630
+71057;3980;Tessenderlo;322;Louvain;UZ Leuven;0.1790874524714829;2630
+71057;3980;Tessenderlo;709;Geel;AZ St.-Dimpna;0.2182509505703422;2630
+71057;3980;Tessenderlo;712;Diest;AZ Diest;0.2326996197718631;2630
+71066;3520;Zonhoven;159;Hasselt;AZ Salvator-Sint-Ursula;0.2549566294919455;3228
+71066;3520;Zonhoven;243;Hasselt;Virga Jesse Ziekenhuis;0.4550805452292441;3228
+71066;3520;Zonhoven;371;Genk;Ziekenhuis Oost-Limburg;0.1468401486988848;3228
+71067;3690;Zutendaal;371;Genk;Ziekenhuis Oost-Limburg;0.8423236514522822;964
+71069;3945;Ham;102;Mol;H. Hartziekenhuis Mol;0.1769847050254916;1373
+71069;3945;Ham;159;Hasselt;AZ Salvator-Sint-Ursula;0.112163146394756;1373
+71069;3945;Ham;243;Hasselt;Virga Jesse Ziekenhuis;0.1551347414420976;1373
+71069;3945;Ham;322;Louvain;UZ Leuven;0.05316824471959213;1373
+71069;3945;Ham;709;Geel;AZ St.-Dimpna;0.1908230152949745;1373
+71069;3945;Ham;712;Diest;AZ Diest;0.07938820101966497;1373
+71069;3945;Ham;714;Heusden-Zolder;Sint-Franciskusziekenhuis;0.1041514930808449;1373
+71070;3550;Heusden-Zolder;159;Hasselt;AZ Salvator-Sint-Ursula;0.1462662003702942;4861
+71070;3550;Heusden-Zolder;243;Hasselt;Virga Jesse Ziekenhuis;0.2030446410203662;4861
+71070;3550;Heusden-Zolder;371;Genk;Ziekenhuis Oost-Limburg;0.08249331413289447;4861
+71070;3550;Heusden-Zolder;714;Heusden-Zolder;Sint-Franciskusziekenhuis;0.4696564492902695;4861
+72003;3950;Bocholt;371;Genk;Ziekenhuis Oost-Limburg;0.2520369364475828;1841
+72003;3950;Bocholt;717;Maaseik;Ziekenhuis Maas en Kempen;0.1455730581205866;1841
+72003;3950;Bocholt;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.4502987506789788;1841
+72004;3960;Bree;159;Hasselt;AZ Salvator-Sint-Ursula;0.06382978723404255;2209
+72004;3960;Bree;243;Hasselt;Virga Jesse Ziekenhuis;0.0552286102308737;2209
+72004;3960;Bree;371;Genk;Ziekenhuis Oost-Limburg;0.3078315980081485;2209
+72004;3960;Bree;717;Maaseik;Ziekenhuis Maas en Kempen;0.3798098687188773;2209
+72004;3960;Bree;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.11090991398823;2209
+72018;3640;Kinrooi;371;Genk;Ziekenhuis Oost-Limburg;0.281786941580756;1746
+72018;3640;Kinrooi;717;Maaseik;Ziekenhuis Maas en Kempen;0.5750286368843069;1746
+72020;3920;Lommel;243;Hasselt;Virga Jesse Ziekenhuis;0.1001517450682853;5272
+72020;3920;Lommel;322;Louvain;UZ Leuven;0.07985584218512898;5272
+72020;3920;Lommel;371;Genk;Ziekenhuis Oost-Limburg;0.05823216995447648;5272
+72020;3920;Lommel;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.6327769347496206;5272
+72021;3680;Maaseik;371;Genk;Ziekenhuis Oost-Limburg;0.3788386376326075;3582
+72021;3680;Maaseik;717;Maaseik;Ziekenhuis Maas en Kempen;0.4667783361250698;3582
+72025;3910;Neerpelt;243;Hasselt;Virga Jesse Ziekenhuis;0.09342560553633218;2601
+72025;3910;Neerpelt;322;Louvain;UZ Leuven;0.05228758169934641;2601
+72025;3910;Neerpelt;371;Genk;Ziekenhuis Oost-Limburg;0.07574009996155324;2601
+72025;3910;Neerpelt;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.7154940407535563;2601
+72029;3900;Overpelt;243;Hasselt;Virga Jesse Ziekenhuis;0.07446808510638298;2350
+72029;3900;Overpelt;322;Louvain;UZ Leuven;0.07702127659574468;2350
+72029;3900;Overpelt;371;Genk;Ziekenhuis Oost-Limburg;0.07404255319148936;2350
+72029;3900;Overpelt;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.7102127659574468;2350
+72030;3990;Peer;243;Hasselt;Virga Jesse Ziekenhuis;0.1285412262156448;2365
+72030;3990;Peer;371;Genk;Ziekenhuis Oost-Limburg;0.2042283298097252;2365
+72030;3990;Peer;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.4879492600422833;2365
+72037;3930;Hamont-Achel;243;Hasselt;Virga Jesse Ziekenhuis;0.06613310867733782;2374
+72037;3930;Hamont-Achel;322;Louvain;UZ Leuven;0.05096882898062342;2374
+72037;3930;Hamont-Achel;371;Genk;Ziekenhuis Oost-Limburg;0.08593091828138164;2374
+72037;3930;Hamont-Achel;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.7333614153327717;2374
+72038;3940;Hechtel-Eksel;243;Hasselt;Virga Jesse Ziekenhuis;0.1405908096280087;1828
+72038;3940;Hechtel-Eksel;322;Louvain;UZ Leuven;0.0661925601750547;1828
+72038;3940;Hechtel-Eksel;371;Genk;Ziekenhuis Oost-Limburg;0.1105032822757112;1828
+72038;3940;Hechtel-Eksel;714;Heusden-Zolder;Sint-Franciskusziekenhuis;0.05579868708971553;1828
+72038;3940;Hechtel-Eksel;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.5306345733041575;1828
+72039;3530;Houthalen-Helchteren;159;Hasselt;AZ Salvator-Sint-Ursula;0.1290249943706372;4441
+72039;3530;Houthalen-Helchteren;243;Hasselt;Virga Jesse Ziekenhuis;0.2695338887637919;4441
+72039;3530;Houthalen-Helchteren;371;Genk;Ziekenhuis Oost-Limburg;0.292051339788336;4441
+72039;3530;Houthalen-Helchteren;714;Heusden-Zolder;Sint-Franciskusziekenhuis;0.2175185768970953;4441
+72040;3670;Meeuwen-Gruitrode;243;Hasselt;Virga Jesse Ziekenhuis;0.08132691278758694;1869
+72040;3670;Meeuwen-Gruitrode;371;Genk;Ziekenhuis Oost-Limburg;0.5275548421615838;1869
+72040;3670;Meeuwen-Gruitrode;717;Maaseik;Ziekenhuis Maas en Kempen;0.1803103263777421;1869
+72040;3670;Meeuwen-Gruitrode;719;Overpelt;Mariaziekenhuis Noord-Limburg;0.1000535045478866;1869
+72041;3650;Dilsen-Stokkem;371;Genk;Ziekenhuis Oost-Limburg;0.6110681114551083;2584
+72041;3650;Dilsen-Stokkem;717;Maaseik;Ziekenhuis Maas en Kempen;0.2596749226006192;2584
+73001;3570;Alken;159;Hasselt;AZ Salvator-Sint-Ursula;0.3634161114476075;1651
+73001;3570;Alken;243;Hasselt;Virga Jesse Ziekenhuis;0.3815869170199879;1651
+73001;3570;Alken;322;Louvain;UZ Leuven;0.05511811023622047;1651
+73001;3570;Alken;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.1326468806783767;1651
+73006;3740;Bilzen;159;Hasselt;AZ Salvator-Sint-Ursula;0.06427634455618715;4574
+73006;3740;Bilzen;243;Hasselt;Virga Jesse Ziekenhuis;0.1716222125054657;4574
+73006;3740;Bilzen;371;Genk;Ziekenhuis Oost-Limburg;0.2684739833843463;4574
+73006;3740;Bilzen;716;Tongres;AZ Vesalius;0.4145168342807171;4574
+73009;3840;Looz;159;Hasselt;AZ Salvator-Sint-Ursula;0.06480920654149;1651
+73009;3840;Looz;243;Hasselt;Virga Jesse Ziekenhuis;0.12961841308298;1651
+73009;3840;Looz;322;Louvain;UZ Leuven;0.1144760751059964;1651
+73009;3840;Looz;371;Genk;Ziekenhuis Oost-Limburg;0.1011508176862508;1651
+73009;3840;Looz;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.2943670502725621;1651
+73009;3840;Looz;716;Tongres;AZ Vesalius;0.2507571168988492;1651
+73022;3870;Heers;159;Hasselt;AZ Salvator-Sint-Ursula;0.09066666666666667;1125
+73022;3870;Heers;243;Hasselt;Virga Jesse Ziekenhuis;0.1111111111111111;1125
+73022;3870;Heers;322;Louvain;UZ Leuven;0.1128888888888889;1125
+73022;3870;Heers;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.4151111111111111;1125
+73022;3870;Heers;716;Tongres;AZ Vesalius;0.1813333333333333;1125
+73028;3717;Herstappe;159;Hasselt;AZ Salvator-Sint-Ursula;0.08333333333333333;12
+73028;3717;Herstappe;243;Hasselt;Virga Jesse Ziekenhuis;0.1666666666666667;12
+73028;3717;Herstappe;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.08333333333333333;12
+73028;3717;Herstappe;716;Tongres;AZ Vesalius;0.6666666666666666;12
+73032;3730;Hoeselt;159;Hasselt;AZ Salvator-Sint-Ursula;0.1068601583113456;1516
+73032;3730;Hoeselt;243;Hasselt;Virga Jesse Ziekenhuis;0.2117414248021108;1516
+73032;3730;Hoeselt;322;Louvain;UZ Leuven;0.1114775725593668;1516
+73032;3730;Hoeselt;371;Genk;Ziekenhuis Oost-Limburg;0.141820580474934;1516
+73032;3730;Hoeselt;716;Tongres;AZ Vesalius;0.3951187335092348;1516
+73040;3720;Kortessem;159;Hasselt;AZ Salvator-Sint-Ursula;0.35056967572305;1141
+73040;3720;Kortessem;243;Hasselt;Virga Jesse Ziekenhuis;0.3049956178790534;1141
+73040;3720;Kortessem;322;Louvain;UZ Leuven;0.05258545135845749;1141
+73040;3720;Kortessem;371;Genk;Ziekenhuis Oost-Limburg;0.0876424189307625;1141
+73040;3720;Kortessem;716;Tongres;AZ Vesalius;0.1393514460999123;1141
+73042;3620;Lanaken;243;Hasselt;Virga Jesse Ziekenhuis;0.05166572557876906;3542
+73042;3620;Lanaken;322;Louvain;UZ Leuven;0.05872388481084134;3542
+73042;3620;Lanaken;371;Genk;Ziekenhuis Oost-Limburg;0.7320722755505364;3542
+73042;3620;Lanaken;716;Tongres;AZ Vesalius;0.1149068322981366;3542
+73066;3770;Riemst;159;Hasselt;AZ Salvator-Sint-Ursula;0.05843872655909289;2293
+73066;3770;Riemst;243;Hasselt;Virga Jesse Ziekenhuis;0.1094635848233755;2293
+73066;3770;Riemst;322;Louvain;UZ Leuven;0.08853030963802878;2293
+73066;3770;Riemst;371;Genk;Ziekenhuis Oost-Limburg;0.1814217182730048;2293
+73066;3770;Riemst;716;Tongres;AZ Vesalius;0.5093763628434366;2293
+73083;3700;Tongres;243;Hasselt;Virga Jesse Ziekenhuis;0.1271573100575283;5041
+73083;3700;Tongres;322;Louvain;UZ Leuven;0.08549890894663757;5041
+73083;3700;Tongres;371;Genk;Ziekenhuis Oost-Limburg;0.1007736560206308;5041
+73083;3700;Tongres;716;Tongres;AZ Vesalius;0.5808371354889903;5041
+73098;3830;Wellen;159;Hasselt;AZ Salvator-Sint-Ursula;0.2959917780061665;973
+73098;3830;Wellen;243;Hasselt;Virga Jesse Ziekenhuis;0.3350462487153135;973
+73098;3830;Wellen;371;Genk;Ziekenhuis Oost-Limburg;0.07708119218910586;973
+73098;3830;Wellen;715;Saint-Trond;Regionaal Ziekenhuis Sint-Trudo;0.1469681397738952;973
+73098;3830;Wellen;716;Tongres;AZ Vesalius;0.07194244604316546;973
+73107;3630;Maasmechelen;371;Genk;Ziekenhuis Oost-Limburg;0.7852689010132502;5132
+73107;3630;Maasmechelen;717;Maaseik;Ziekenhuis Maas en Kempen;0.0779423226812159;5132
+73109;3790;Fourons;15;Eupen;Sint-Nikolaus-Hospital;0.07157894736842105;475
+73109;3790;Fourons;152;Liège;Cliniques Saint-Joseph;0.2210526315789474;475
+73109;3790;Fourons;322;Louvain;UZ Leuven;0.05052631578947368;475
+73109;3790;Fourons;371;Genk;Ziekenhuis Oost-Limburg;0.1010526315789474;475
+73109;3790;Fourons;412;Liège;Centre Hospitalier Régional de la Citadelle;0.06947368421052631;475
+73109;3790;Fourons;716;Tongres;AZ Vesalius;0.3705263157894737;475
+81001;6700;Arlon;246;Arlon;Les Cliniques du Sud Luxembourg;0.8368185212845407;2678
+81003;6717;Attert;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.0654911838790932;397
+81003;6717;Attert;246;Arlon;Les Cliniques du Sud Luxembourg;0.7229219143576826;397
+81004;6790;Aubange;246;Arlon;Les Cliniques du Sud Luxembourg;0.8731769181991123;1577
+81013;6630;Martelange;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.07586206896551724;145
+81013;6630;Martelange;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.3586206896551724;145
+81013;6630;Martelange;246;Arlon;Les Cliniques du Sud Luxembourg;0.4620689655172414;145
+81015;6780;Messancy;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.05231866825208085;841
+81015;6780;Messancy;246;Arlon;Les Cliniques du Sud Luxembourg;0.8394768133174791;841
+82003;6600;Bastogne;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.05019305019305019;1554
+82003;6600;Bastogne;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.7001287001287001;1554
+82003;6600;Bastogne;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.119047619047619;1554
+82005;6687;Bertogne;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.6689895470383276;287
+82005;6687;Bertogne;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.1533101045296167;287
+82009;6637;Fauvillers;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.5376344086021505;186
+82009;6637;Fauvillers;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.06451612903225806;186
+82009;6637;Fauvillers;246;Arlon;Les Cliniques du Sud Luxembourg;0.1397849462365591;186
+82009;6637;Fauvillers;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.0967741935483871;186
+82009;6637;Fauvillers;707;Liège;CHU de Liège;0.06451612903225806;186
+82014;6660;Houffalize;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.06996587030716724;586
+82014;6660;Houffalize;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.6604095563139932;586
+82014;6660;Houffalize;707;Liège;CHU de Liège;0.07508532423208192;586
+82032;6690;Vielsalm;4;Malmedy;Clinique Reine Astrid;0.2179878048780488;656
+82032;6690;Vielsalm;20;Verviers;Centre Hospitalier Peltzer-La Tourelle;0.06859756097560976;656
+82032;6690;Vielsalm;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.1097560975609756;656
+82032;6690;Vielsalm;257;Saint-Vith;Klinik St. Josef  St. Vith;0.3384146341463415;656
+82032;6690;Vielsalm;412;Liège;Centre Hospitalier Régional de la Citadelle;0.08231707317073171;656
+82032;6690;Vielsalm;707;Liège;CHU de Liège;0.06859756097560976;656
+82036;6640;Vaux-sur-Sûre;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.4271844660194175;515
+82036;6640;Vaux-sur-Sûre;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.3553398058252427;515
+82036;6640;Vaux-sur-Sûre;707;Liège;CHU de Liège;0.05436893203883495;515
+82037;6670;Gouvy;4;Malmedy;Clinique Reine Astrid;0.06307977736549165;539
+82037;6670;Gouvy;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.2857142857142857;539
+82037;6670;Gouvy;257;Saint-Vith;Klinik St. Josef  St. Vith;0.3803339517625232;539
+82037;6670;Gouvy;412;Liège;Centre Hospitalier Régional de la Citadelle;0.06493506493506493;539
+82037;6670;Gouvy;707;Liège;CHU de Liège;0.07050092764378478;539
+82038;6680;Sainte-Ode;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.05988023952095808;334
+82038;6680;Sainte-Ode;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.3712574850299401;334
+82038;6680;Sainte-Ode;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.4640718562874251;334
+83012;6940;Durbuy;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.07207207207207207;999
+83012;6940;Durbuy;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.4284284284284284;999
+83012;6940;Durbuy;412;Liège;Centre Hospitalier Régional de la Citadelle;0.06906906906906907;999
+83012;6940;Durbuy;707;Liège;CHU de Liège;0.2072072072072072;999
+83013;6997;Érezée;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1352201257861635;318
+83013;6997;Érezée;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.3962264150943396;318
+83013;6997;Érezée;707;Liège;CHU de Liège;0.220125786163522;318
+83028;6990;Hotton;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1576994434137291;539
+83028;6990;Hotton;152;Liège;Cliniques Saint-Joseph;0.06679035250463822;539
+83028;6990;Hotton;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.5102040816326531;539
+83028;6990;Hotton;707;Liège;CHU de Liège;0.06493506493506493;539
+83031;6980;La Roche-en-Ardenne;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.099601593625498;502
+83031;6980;La Roche-en-Ardenne;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.5159362549800797;502
+83031;6980;La Roche-en-Ardenne;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.1812749003984064;502
+83031;6980;La Roche-en-Ardenne;707;Liège;CHU de Liège;0.06573705179282868;502
+83034;6900;Marche-en-Famenne;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1133858267716535;1905
+83034;6900;Marche-en-Famenne;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.5921259842519685;1905
+83034;6900;Marche-en-Famenne;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.07349081364829396;1905
+83040;6950;Nassogne;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1592465753424658;584
+83040;6950;Nassogne;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.4469178082191781;584
+83040;6950;Nassogne;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.07705479452054795;584
+83040;6950;Nassogne;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.1352739726027397;584
+83044;6987;Rendeux;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.136986301369863;292
+83044;6987;Rendeux;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.3972602739726027;292
+83044;6987;Rendeux;707;Liège;CHU de Liège;0.1986301369863014;292
+83049;6970;Tenneville;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.09627329192546584;322
+83049;6970;Tenneville;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.4130434782608696;322
+83049;6970;Tenneville;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.3416149068322981;322
+83055;6960;Manhay;4;Malmedy;Clinique Reine Astrid;0.1794871794871795;273
+83055;6960;Manhay;152;Liège;Cliniques Saint-Joseph;0.06227106227106227;273
+83055;6960;Manhay;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.2673992673992674;273
+83055;6960;Manhay;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1135531135531136;273
+83055;6960;Manhay;707;Liège;CHU de Liège;0.2600732600732601;273
+84009;6880;Bertrix;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.08437200383509108;1043
+84009;6880;Bertrix;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.7325023969319271;1043
+84010;6830;Bouillon;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.06580829756795423;699
+84010;6830;Bouillon;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.7424892703862661;699
+84016;6929;Daverdisse;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.175609756097561;205
+84016;6929;Daverdisse;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.05365853658536585;205
+84016;6929;Daverdisse;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1024390243902439;205
+84016;6929;Daverdisse;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.3414634146341464;205
+84016;6929;Daverdisse;264;Dinant;Centre Hospitalier de Dinant;0.2195121951219512;205
+84029;6887;Herbeumont;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.0611353711790393;229
+84029;6887;Herbeumont;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.6724890829694323;229
+84029;6887;Herbeumont;246;Arlon;Les Cliniques du Sud Luxembourg;0.09606986899563319;229
+84029;6887;Herbeumont;707;Liège;CHU de Liège;0.05240174672489083;229
+84033;6860;Léglise;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.06926406926406926;462
+84033;6860;Léglise;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.0670995670995671;462
+84033;6860;Léglise;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.6277056277056277;462
+84033;6860;Léglise;246;Arlon;Les Cliniques du Sud Luxembourg;0.1623376623376623;462
+84035;6890;Libin;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.08297872340425531;470
+84035;6890;Libin;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.7468085106382979;470
+84043;6840;Neufchâteau;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.100929614873838;753
+84043;6840;Neufchâteau;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.6985391766268261;753
+84043;6840;Neufchâteau;246;Arlon;Les Cliniques du Sud Luxembourg;0.1168658698539177;753
+84050;6850;Paliseul;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1638733705772812;537
+84050;6850;Paliseul;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.6573556797020484;537
+84059;6870;Saint-Hubert;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.08759124087591241;685
+84059;6870;Saint-Hubert;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.1021897810218978;685
+84059;6870;Saint-Hubert;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.6656934306569343;685
+84068;6927;Tellin;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1654676258992806;278
+84068;6927;Tellin;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.2014388489208633;278
+84068;6927;Tellin;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.3920863309352518;278
+84075;6920;Wellin;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2506265664160401;399
+84075;6920;Wellin;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.1077694235588972;399
+84075;6920;Wellin;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1679197994987469;399
+84075;6920;Wellin;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.2355889724310777;399
+84075;6920;Wellin;264;Dinant;Centre Hospitalier de Dinant;0.1077694235588972;399
+84077;6800;Libramont-Chevigny;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.7876106194690266;1130
+85007;6810;Chiny;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.07670043415340087;691
+85007;6810;Chiny;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.492040520984081;691
+85007;6810;Chiny;246;Arlon;Les Cliniques du Sud Luxembourg;0.2995658465991317;691
+85009;6740;Étalle;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.05759162303664921;382
+85009;6740;Étalle;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.1649214659685864;382
+85009;6740;Étalle;246;Arlon;Les Cliniques du Sud Luxembourg;0.5418848167539267;382
+85011;6820;Florenville;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.07170294494238157;781
+85011;6820;Florenville;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.559539052496799;781
+85011;6820;Florenville;246;Arlon;Les Cliniques du Sud Luxembourg;0.2304737516005122;781
+85024;6769;Meix-devant-Virton;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.08626198083067092;313
+85024;6769;Meix-devant-Virton;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.1629392971246006;313
+85024;6769;Meix-devant-Virton;246;Arlon;Les Cliniques du Sud Luxembourg;0.5750798722044729;313
+85024;6769;Meix-devant-Virton;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1150159744408946;313
+85026;6750;Musson;246;Arlon;Les Cliniques du Sud Luxembourg;0.8711111111111111;450
+85034;6747;Saint-Léger (Luxembourg);39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.05524861878453038;362
+85034;6747;Saint-Léger (Luxembourg);168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.06077348066298342;362
+85034;6747;Saint-Léger (Luxembourg);246;Arlon;Les Cliniques du Sud Luxembourg;0.7486187845303868;362
+85039;6730;Tintigny;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.059375;320
+85039;6730;Tintigny;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.246875;320
+85039;6730;Tintigny;246;Arlon;Les Cliniques du Sud Luxembourg;0.58125;320
+85045;6760;Virton;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.05;1340
+85045;6760;Virton;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.07985074626865672;1340
+85045;6760;Virton;246;Arlon;Les Cliniques du Sud Luxembourg;0.7917910447761194;1340
+85046;6720;Habay;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.07407407407407407;702
+85046;6720;Habay;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.05982905982905983;702
+85046;6720;Habay;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.1680911680911681;702
+85046;6720;Habay;246;Arlon;Les Cliniques du Sud Luxembourg;0.5470085470085471;702
+85047;6767;Rouvroy;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.215962441314554;213
+85047;6767;Rouvroy;246;Arlon;Les Cliniques du Sud Luxembourg;0.6807511737089202;213
+91005;5537;Anhée;6;Namur;Centre Hospitalier Régional de Namur;0.07962085308056872;1055
+91005;5537;Anhée;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.5317535545023697;1055
+91005;5537;Anhée;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1838862559241706;1055
+91005;5537;Anhée;264;Dinant;Centre Hospitalier de Dinant;0.0995260663507109;1055
+91005;5537;Anhée;706;Namur;Clinique Saint-Luc;0.05023696682464455;1055
+91013;5570;Beauraing;6;Namur;Centre Hospitalier Régional de Namur;0.08775981524249422;866
+91013;5570;Beauraing;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1732101616628176;866
+91013;5570;Beauraing;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1524249422632794;866
+91013;5570;Beauraing;264;Dinant;Centre Hospitalier de Dinant;0.407621247113164;866
+91013;5570;Beauraing;706;Namur;Clinique Saint-Luc;0.06120092378752887;866
+91015;5555;Bièvre;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1618852459016394;488
+91015;5555;Bièvre;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.6024590163934426;488
+91015;5555;Bièvre;706;Namur;Clinique Saint-Luc;0.05532786885245902;488
+91030;5590;Ciney;6;Namur;Centre Hospitalier Régional de Namur;0.1335920177383592;1804
+91030;5590;Ciney;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2023281596452328;1804
+91030;5590;Ciney;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.2184035476718404;1804
+91030;5590;Ciney;264;Dinant;Centre Hospitalier de Dinant;0.257760532150776;1804
+91030;5590;Ciney;706;Namur;Clinique Saint-Luc;0.0837028824833703;1804
+91034;5500;Dinant;6;Namur;Centre Hospitalier Régional de Namur;0.08433734939759036;1411
+91034;5500;Dinant;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2905740609496811;1411
+91034;5500;Dinant;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1020552799433026;1411
+91034;5500;Dinant;264;Dinant;Centre Hospitalier de Dinant;0.4188518781006378;1411
+91054;5575;Gedinne;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1286919831223629;474
+91054;5575;Gedinne;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1265822784810127;474
+91054;5575;Gedinne;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.2974683544303797;474
+91054;5575;Gedinne;264;Dinant;Centre Hospitalier de Dinant;0.270042194092827;474
+91059;5360;Hamois;6;Namur;Centre Hospitalier Régional de Namur;0.1265356265356265;814
+91059;5360;Hamois;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2727272727272727;814
+91059;5360;Hamois;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.257985257985258;814
+91059;5360;Hamois;264;Dinant;Centre Hospitalier de Dinant;0.1486486486486487;814
+91059;5360;Hamois;706;Namur;Clinique Saint-Luc;0.08353808353808354;814
+91064;5370;Havelange;6;Namur;Centre Hospitalier Régional de Namur;0.07676348547717843;482
+91064;5370;Havelange;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1369294605809129;482
+91064;5370;Havelange;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.1016597510373444;482
+91064;5370;Havelange;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.0975103734439834;482
+91064;5370;Havelange;264;Dinant;Centre Hospitalier de Dinant;0.1659751037344398;482
+91064;5370;Havelange;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05186721991701245;482
+91064;5370;Havelange;706;Namur;Clinique Saint-Luc;0.1203319502074689;482
+91064;5370;Havelange;707;Liège;CHU de Liège;0.1161825726141079;482
+91072;5560;Houyet;6;Namur;Centre Hospitalier Régional de Namur;0.05138339920948617;506
+91072;5560;Houyet;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.233201581027668;506
+91072;5560;Houyet;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1363636363636364;506
+91072;5560;Houyet;264;Dinant;Centre Hospitalier de Dinant;0.2470355731225296;506
+91072;5560;Houyet;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.1758893280632411;506
+91072;5560;Houyet;706;Namur;Clinique Saint-Luc;0.05533596837944664;506
+91103;5520;Onhaye;6;Namur;Centre Hospitalier Régional de Namur;0.08012820512820513;312
+91103;5520;Onhaye;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2756410256410257;312
+91103;5520;Onhaye;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1121794871794872;312
+91103;5520;Onhaye;264;Dinant;Centre Hospitalier de Dinant;0.375;312
+91103;5520;Onhaye;706;Namur;Clinique Saint-Luc;0.05128205128205128;312
+91114;5580;Rochefort;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1866554054054054;1184
+91114;5580;Rochefort;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.3319256756756757;1184
+91114;5580;Rochefort;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1317567567567567;1184
+91114;5580;Rochefort;264;Dinant;Centre Hospitalier de Dinant;0.08108108108108109;1184
+91114;5580;Rochefort;707;Liège;CHU de Liège;0.05152027027027027;1184
+91120;5377;Somme-Leuze;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1560693641618497;519
+91120;5377;Somme-Leuze;164;Marche-en-Famenne;Intercommunale Hospitalière Famenne-Ardenne-Condroz;0.5549132947976878;519
+91141;5530;Yvoir;6;Namur;Centre Hospitalier Régional de Namur;0.08963093145869948;1138
+91141;5530;Yvoir;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.5342706502636204;1138
+91141;5530;Yvoir;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1520210896309315;1138
+91141;5530;Yvoir;264;Dinant;Centre Hospitalier de Dinant;0.1291739894551845;1138
+91141;5530;Yvoir;706;Namur;Clinique Saint-Luc;0.05184534270650264;1138
+91142;5540;Hastière;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2517882689556509;699
+91142;5540;Hastière;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.111587982832618;699
+91142;5540;Hastière;264;Dinant;Centre Hospitalier de Dinant;0.4434907010014306;699
+91143;5550;Vresse-sur-Semois;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2680965147453083;373
+91143;5550;Vresse-sur-Semois;168;Libramont-Chevigny;Centre Hospitalier de l'Ardenne;0.4906166219839142;373
+92003;5300;Andenne;6;Namur;Centre Hospitalier Régional de Namur;0.3384016973125884;2828
+92003;5300;Andenne;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.06895332390381895;2828
+92003;5300;Andenne;68;Huy;Centre Hospitalier Régional de Huy;0.06258840169731258;2828
+92003;5300;Andenne;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.2167609618104668;2828
+92003;5300;Andenne;706;Namur;Clinique Saint-Luc;0.2294908062234795;2828
+92006;5330;Assesse;6;Namur;Centre Hospitalier Régional de Namur;0.2653399668325042;603
+92006;5330;Assesse;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2570480928689884;603
+92006;5330;Assesse;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.24212271973466;603
+92006;5330;Assesse;706;Namur;Clinique Saint-Luc;0.1724709784411277;603
+92035;5310;Éghezée;6;Namur;Centre Hospitalier Régional de Namur;0.2158884172225591;1649
+92035;5310;Éghezée;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1983020012128563;1649
+92035;5310;Éghezée;706;Namur;Clinique Saint-Luc;0.4178289872650091;1649
+92045;5150;Floreffe;6;Namur;Centre Hospitalier Régional de Namur;0.154639175257732;970
+92045;5150;Floreffe;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.08762886597938144;970
+92045;5150;Floreffe;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.5670103092783505;970
+92045;5150;Floreffe;706;Namur;Clinique Saint-Luc;0.1144329896907216;970
+92048;5070;Fosses-la-Ville;6;Namur;Centre Hospitalier Régional de Namur;0.08867924528301886;1060
+92048;5070;Fosses-la-Ville;10;Charleroi;Grand Hôpital de Charleroi;0.1;1060
+92048;5070;Fosses-la-Ville;27;Charleroi;Grand Hôpital de Charleroi;0.05566037735849057;1060
+92048;5070;Fosses-la-Ville;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1235849056603774;1060
+92048;5070;Fosses-la-Ville;103;Sambreville;Centre Hospitalier Régional du Val de Sambre;0.2745283018867924;1060
+92048;5070;Fosses-la-Ville;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.2405660377358491;1060
+92054;5340;Gesves;6;Namur;Centre Hospitalier Régional de Namur;0.3059805285118219;719
+92054;5340;Gesves;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1237830319888734;719
+92054;5340;Gesves;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.2517385257301808;719
+92054;5340;Gesves;706;Namur;Clinique Saint-Luc;0.2127955493741307;719
+92087;5640;Mettet;10;Charleroi;Grand Hôpital de Charleroi;0.1756185878092939;1657
+92087;5640;Mettet;27;Charleroi;Grand Hôpital de Charleroi;0.1219070609535305;1657
+92087;5640;Mettet;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1744115872057936;1657
+92087;5640;Mettet;103;Sambreville;Centre Hospitalier Régional du Val de Sambre;0.09052504526252263;1657
+92087;5640;Mettet;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.2715751357875679;1657
+92087;5640;Mettet;706;Namur;Clinique Saint-Luc;0.05431502715751358;1657
+92094;5000;Namur;6;Namur;Centre Hospitalier Régional de Namur;0.2962792834175471;13062
+92094;5000;Namur;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.06316031235645383;13062
+92094;5000;Namur;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.3960342979635584;13062
+92094;5000;Namur;706;Namur;Clinique Saint-Luc;0.1694993109784106;13062
+92097;5350;Ohey;6;Namur;Centre Hospitalier Régional de Namur;0.1905781584582441;467
+92097;5350;Ohey;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2826552462526767;467
+92097;5350;Ohey;68;Huy;Centre Hospitalier Régional de Huy;0.08779443254817987;467
+92097;5350;Ohey;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.139186295503212;467
+92097;5350;Ohey;412;Liège;Centre Hospitalier Régional de la Citadelle;0.07494646680942184;467
+92097;5350;Ohey;706;Namur;Clinique Saint-Luc;0.1220556745182013;467
+92101;5170;Profondeville;6;Namur;Centre Hospitalier Régional de Namur;0.1881606765327695;1419
+92101;5170;Profondeville;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.3720930232558139;1419
+92101;5170;Profondeville;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.3255813953488372;1419
+92101;5170;Profondeville;706;Namur;Clinique Saint-Luc;0.05990133897110642;1419
+92114;5140;Sombreffe;6;Namur;Centre Hospitalier Régional de Namur;0.1074197120708749;903
+92114;5140;Sombreffe;10;Charleroi;Grand Hôpital de Charleroi;0.1472868217054264;903
+92114;5140;Sombreffe;27;Charleroi;Grand Hôpital de Charleroi;0.08637873754152824;903
+92114;5140;Sombreffe;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.07973421926910298;903
+92114;5140;Sombreffe;103;Sambreville;Centre Hospitalier Régional du Val de Sambre;0.1107419712070875;903
+92114;5140;Sombreffe;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1406423034330011;903
+92114;5140;Sombreffe;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.06312292358803986;903
+92114;5140;Sombreffe;409;Charleroi;Clinique Notre-Dame de Grâce;0.05094130675526024;903
+92114;5140;Sombreffe;706;Namur;Clinique Saint-Luc;0.09745293466223699;903
+92137;5060;Sambreville;6;Namur;Centre Hospitalier Régional de Namur;0.07444168734491315;3627
+92137;5060;Sambreville;27;Charleroi;Grand Hôpital de Charleroi;0.09842845326716294;3627
+92137;5060;Sambreville;103;Sambreville;Centre Hospitalier Régional du Val de Sambre;0.4838709677419355;3627
+92137;5060;Sambreville;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1345464571271023;3627
+92137;5060;Sambreville;706;Namur;Clinique Saint-Luc;0.05238489109456852;3627
+92138;5380;Fernelmont;6;Namur;Centre Hospitalier Régional de Namur;0.2790697674418605;731
+92138;5380;Fernelmont;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.2900136798905609;731
+92138;5380;Fernelmont;706;Namur;Clinique Saint-Luc;0.3105335157318742;731
+92140;5190;Jemeppe-sur-Sambre;6;Namur;Centre Hospitalier Régional de Namur;0.1017441860465116;2408
+92140;5190;Jemeppe-sur-Sambre;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.05398671096345515;2408
+92140;5190;Jemeppe-sur-Sambre;103;Sambreville;Centre Hospitalier Régional du Val de Sambre;0.3384551495016611;2408
+92140;5190;Jemeppe-sur-Sambre;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.311046511627907;2408
+92140;5190;Jemeppe-sur-Sambre;706;Namur;Clinique Saint-Luc;0.09385382059800665;2408
+92141;5080;La Bruyère;6;Namur;Centre Hospitalier Régional de Namur;0.1865509761388286;922
+92141;5080;La Bruyère;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.05422993492407809;922
+92141;5080;La Bruyère;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.3091106290672451;922
+92141;5080;La Bruyère;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.05422993492407809;922
+92141;5080;La Bruyère;706;Namur;Clinique Saint-Luc;0.3286334056399132;922
+92142;5030;Gembloux;6;Namur;Centre Hospitalier Régional de Namur;0.2179253867151956;2198
+92142;5030;Gembloux;43;Ottignies-Louvain-la-Neuve;Clinique Saint-Pierre;0.0805277525022748;2198
+92142;5030;Gembloux;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.3307552320291174;2198
+92142;5030;Gembloux;403;Woluwe-Saint-Lambert;Cliniques Universitaires Saint-Luc;0.06096451319381255;2198
+92142;5030;Gembloux;706;Namur;Clinique Saint-Luc;0.1583257506824386;2198
+93010;5630;Cerfontaine;10;Charleroi;Grand Hôpital de Charleroi;0.2910714285714286;560
+93010;5630;Cerfontaine;27;Charleroi;Grand Hôpital de Charleroi;0.2017857142857143;560
+93010;5630;Cerfontaine;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1196428571428571;560
+93010;5630;Cerfontaine;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.05714285714285714;560
+93010;5630;Cerfontaine;249;Chimay;Centre de Santé des Fagnes;0.1446428571428572;560
+93014;5660;Couvin;27;Charleroi;Grand Hôpital de Charleroi;0.08952603861907549;1709
+93014;5660;Couvin;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1585722644821533;1709
+93014;5660;Couvin;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.08835576360444705;1709
+93014;5660;Couvin;249;Chimay;Centre de Santé des Fagnes;0.4827384435342306;1709
+93018;5680;Doische;10;Charleroi;Grand Hôpital de Charleroi;0.08196721311475409;305
+93018;5680;Doische;27;Charleroi;Grand Hôpital de Charleroi;0.05245901639344262;305
+93018;5680;Doische;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.2852459016393443;305
+93018;5680;Doische;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.09180327868852459;305
+93018;5680;Doische;249;Chimay;Centre de Santé des Fagnes;0.05901639344262295;305
+93018;5680;Doische;264;Dinant;Centre Hospitalier de Dinant;0.2754098360655738;305
+93022;5620;Florennes;10;Charleroi;Grand Hôpital de Charleroi;0.3126491646778043;1257
+93022;5620;Florennes;27;Charleroi;Grand Hôpital de Charleroi;0.1718377088305489;1257
+93022;5620;Florennes;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1941129673826571;1257
+93022;5620;Florennes;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.08035003977724742;1257
+93022;5620;Florennes;264;Dinant;Centre Hospitalier de Dinant;0.06921241050119331;1257
+93056;5600;Philippeville;10;Charleroi;Grand Hôpital de Charleroi;0.2367736339982654;1153
+93056;5600;Philippeville;27;Charleroi;Grand Hôpital de Charleroi;0.2393755420641804;1153
+93056;5600;Philippeville;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1448395490026019;1153
+93056;5600;Philippeville;166;Namur;Clinique et Maternité Sainte-Élisabeth;0.1049436253252385;1153
+93056;5600;Philippeville;264;Dinant;Centre Hospitalier de Dinant;0.06851691240242845;1153
+93088;5650;Walcourt;10;Charleroi;Grand Hôpital de Charleroi;0.3887493721747866;1991
+93088;5650;Walcourt;27;Charleroi;Grand Hôpital de Charleroi;0.3043696634856856;1991
+93088;5650;Walcourt;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.08990457056755399;1991
+93090;5670;Viroinval;10;Charleroi;Grand Hôpital de Charleroi;0.0844062947067239;699
+93090;5670;Viroinval;27;Charleroi;Grand Hôpital de Charleroi;0.05293276108726753;699
+93090;5670;Viroinval;39;Yvoir;Cliniques universitaires UCL de Mont-Godinne;0.1816881258941345;699
+93090;5670;Viroinval;146;La Louvière;Centre Hospitalier Jolimont-Lobbes;0.05436337625178827;699
+93090;5670;Viroinval;249;Chimay;Centre de Santé des Fagnes;0.4434907010014306;699
+0;0;Domicile étranger;143;Jette;UZ Brussel;0.063564875491481;18312
+0;0;Domicile étranger;371;Genk;Ziekenhuis Oost-Limburg;0.09501965923984272;18312
+0;0;Domicile étranger;670;Gand;UZ Gent;0.09163390126692879;18312
+99999;9999;Sans domicile fixe;6;Namur;Centre Hospitalier Régional de Namur;0.2232142857142857;224
+99999;9999;Sans domicile fixe;77;Bruxelles;CHU Brugmann;0.1741071428571428;224
+99999;9999;Sans domicile fixe;150;Bruxelles;Hôpital Universitaire des Enfants Reine Fabiola;0.1026785714285714;224
+99999;9999;Sans domicile fixe;322;Louvain;UZ Leuven;0.1473214285714286;224
+99999;9999;Sans domicile fixe;412;Liège;Centre Hospitalier Régional de la Citadelle;0.1339285714285714;224
